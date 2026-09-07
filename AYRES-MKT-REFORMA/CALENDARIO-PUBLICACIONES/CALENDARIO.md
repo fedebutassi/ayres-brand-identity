@@ -1,6 +1,6 @@
 # CALENDARIO MAESTRO — AYRES Instagram
 
-Fuente de verdad para el estado de cada pieza. Se actualiza con cada avance de producción o publicación. Usar este archivo para volcar a Notion en las sesiones de cowork.
+> **⚠️ ARCHIVO CONGELADO al 07/09/2026.** A partir de esta fecha, la fuente de verdad para estado y métricas es la base de datos **📅 Calendario REDES AYRES** en Notion (Centro de operaciones NL). Este archivo queda como registro histórico. No actualizar más.
 
 Última actualización: 07/09/2026.
 
