@@ -68,6 +68,20 @@ Adulto, esterilizado y urinario: los tres son para gatos adultos, pero no tienen
 
 ## Control posterior
 
-- Registrar resultados a las 24 horas.
-- Completar la evaluación a los 7 días.
-- Métrica principal: comentarios con la palabra CATALOGO.
+- Registrar resultados a las 24 horas. ✅ Registrado 07/09 (tardío).
+- Completar la evaluación a los 7 días. ✅ Registrado 07/09 (tardío).
+- Métrica principal: comentarios con la palabra CATALOGO: 0.
+
+## Métricas acumuladas (registradas 07/09 — ~7 días post-publicación)
+
+**Visualizaciones**
+- Views: 108
+- % no seguidores: 84,3%
+
+**Interacciones**
+- Total: 0 — 0 likes, 0 comentarios, 0 guardados, 0 compartidos
+
+**Perfil**
+- Actividad: 0 · Seguidores nuevos: 0
+
+**Lectura:** 108 views con 84,3% de distribución externa — tercer reel en volumen después de Reel 08 (176) y Reel 06 (126). Cero interacciones. Mismo patrón: Instagram distribuye pero nadie interactúa.

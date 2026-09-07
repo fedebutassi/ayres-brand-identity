@@ -4,7 +4,9 @@
 
 **PUBLICADO**
 
-Publicado el 27/08/2026 por la tarde (confirmado por el usuario el 28/08). URL pendiente de registrar. Producido el 27/08/2026 (versión motion con placas, 20,3 s). Copy aprobado el 27/08/2026.
+Publicado el 27/08/2026 por la tarde (confirmado por el usuario el 28/08): https://www.instagram.com/p/DcjxVg6xFKA/
+
+Producido el 27/08/2026 (versión motion con placas, 20,3 s). Copy aprobado el 27/08/2026.
 
 ## Archivo final
 
@@ -53,6 +55,20 @@ Cuando un cliente no sabe qué llevar, guialo así:
 
 ## Control posterior
 
-- Registrar resultados a las 24 horas.
-- Completar la evaluación a los 7 días.
-- Medir la métrica principal: comentarios con la palabra CATALOGO.
+- Registrar resultados a las 24 horas. ✅ Registrado 07/09 (tardío).
+- Completar la evaluación a los 7 días. ✅ Registrado 07/09 (tardío).
+- Medir la métrica principal: comentarios con la palabra CATALOGO: 0.
+
+## Métricas acumuladas (registradas 07/09 — ~11 días post-publicación)
+
+**Visualizaciones**
+- Views: 91
+- % no seguidores: 75,8%
+
+**Interacciones**
+- Total: 0 — 0 likes, 0 comentarios, 0 guardados, 0 compartidos
+
+**Perfil**
+- Actividad: 0 · Seguidores nuevos: 0
+
+**Lectura:** 91 views con 75,8% de alcance externo — distribución correcta pero volumen bajo (menos que Reel 08: 176, Reel 06: 126). Cero interacciones y cero conversión. El patrón alcance-sin-acción se confirma una vez más.

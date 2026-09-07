@@ -2,7 +2,7 @@
 
 Fuente de verdad para el estado de cada pieza. Se actualiza con cada avance de producción o publicación. Usar este archivo para volcar a Notion en las sesiones de cowork.
 
-Última actualización: 31/08/2026.
+Última actualización: 07/09/2026.
 
 ## Leyenda de estados
 
@@ -55,7 +55,7 @@ Fuente de verdad para el estado de cada pieza. Se actualiza con cada avance de p
 | Lu 24/08 | Reel 03 — Fawna 34% frente a Old Prince 32% | ✅ Publicado | 24/08 11:30 | https://www.instagram.com/p/DcbR96JxDoq/ |
 | Ma 25/08 | Stories — Encuesta de decisión | ✅ Publicadas | 28/08 (reprogramadas del 25/08) | — |
 | Mi 26/08 | Carrusel 15 — Premium y mainstream | ✅ Publicado | 27/08 | https://www.instagram.com/p/Dci8rfAES8g/ |
-| Ju 27/08 | Reel 07 — Tres preguntas antes de elegir | ✅ Publicado | 27/08 por la tarde (confirmado 28/08) | pendiente registrar URL |
+| Ju 27/08 | Reel 07 — Tres preguntas antes de elegir | ✅ Publicado | 27/08 por la tarde (confirmado 28/08) | https://www.instagram.com/p/DcjxVg6xFKA/ |
 | Vi 28/08 | Stories — Acción comercial | ⛔ Descartado (decisión 29/08: no se publica; placas quedan en `produccion/stories/comercial-28-08/` por si se reutilizan) | — | — |
 | Sa 29/08 | Adaptación del contenido con mejor rendimiento | ⏸️ En espera de métricas | — | — |
 
@@ -64,10 +64,10 @@ Fuente de verdad para el estado de cada pieza. Se actualiza con cada avance de p
 | Fecha | Pieza | Estado | Publicación real | URL |
 |---|---|---|---|---|
 | Lu 31/08 | Reel 04 — Gato adulto, esterilizado o urinario | ✅ Publicado | 31/08 | https://www.instagram.com/p/DctWax7xMAy/ |
-| Ma 01/09 | Stories — Verdadero o falso | 🟡 Armar en IG (placas producidas 27/08) | — | — |
+| Ma 01/09 | Stories — Verdadero o falso | ✅ Publicadas | 01/09 | — |
 | Mi 02/09 | Carrusel 16 — Cinco errores al recomendar | 🟢 Listo (producido 27/08, 7 placas) | — | — |
 | Ju 03/09 | Nueva versión del Reel con mayor retención | ⏸️ En espera de métricas | — | — |
-| Vi 04/09 | Stories — Acción comercial | 🟡 Armar en IG (placas producidas 27/08) | — | — |
+| Vi 04/09 | Stories — Acción comercial | ✅ Publicadas | 04/09 | — |
 | Sa 05/09 | Resumen mensual y próximo tema | ⏸️ En espera de métricas | — | — |
 
 ---
@@ -88,11 +88,14 @@ Fuente de verdad para el estado de cada pieza. Se actualiza con cada avance de p
 | Reel 05 | Evaluación 7 días | 27/08 10:15 | ✅ 27/08: 41 views, 31 únicos, 60% no seg., 0 interacciones, 0 perfil, 0 follows — peor reel del período |
 | Stories comercial gatos | Registro 24 h | 22/08 antes de 14:22 (expiran) | ✅ 22/08: 27/25/19 views, 100% seg., 0 interacciones, 0 encuesta, 0 CATÁLOGO, 0 perfil |
 | Reel 08 | Registro 24 h | 23/08 11:22 | ✅ 23/08: 171 views, 151 únicos, 87,6% no seg., 1 like, 0 saves/shares/comentarios/perfil/follows, 0 CATÁLOGO |
-| Reel 08 | Evaluación 7 días | 29/08 11:22 | — |
+| Reel 08 | Evaluación acumulada | 29/08 11:22 | ✅ 07/09: 176 views, 85,1% no seg., 1 like, 0 saves/shares/comentarios/perfil/follows — agotó recorrido (+5 views en ~15 d) |
 | Reel 03 | Registro 24 h | 25/08 11:30 | ✅ 27/08 (tardío, ~3 días): 37 views, 22 únicos, 27% no seg. (distribución invertida), 0 interacciones, 0 perfil, 0 follows |
 | Reel 03 | Evaluación 7 días | 31/08 11:30 | ✅ 31/08: 38 views, 23 únicos, 28,9% no seg. (71,1% seguidores — distribución invertida se mantiene), 0 interacciones, 0 perfil, 0 follows — agotó recorrido: solo +1 view desde el registro de 24 h |
-| Reel 07 | Registro 24 h | 28/08 por la tarde | — |
-| Reel 07 | Evaluación 7 días | 03/09 por la tarde | — |
+| Reel 07 | Registro acumulado | 28/08 por la tarde | ✅ 07/09: 91 views, 75,8% no seg., 0 likes/saves/shares/comentarios/perfil/follows |
+| Carrusel 15 | Registro acumulado | 28/08 | ✅ 07/09: 47 views, 0,0% no seg. (100% seguidores), 0 interacciones, 0 perfil, 0 follows — sin distribución externa |
+| Reel 04 | Registro acumulado | 01/09 | ✅ 07/09: 108 views, 84,3% no seg., 0 interacciones, 0 perfil, 0 follows |
+| Stories V/F 01/09 | Registro 24 h | 02/09 | ✅ 07/09: 18/16/16 views, 0 quiz, 0 CATÁLOGO, 0 perfil |
+| Stories comercial 04/09 | Registro 24 h | 05/09 | ✅ 07/09: 13/12/11 views, 0 CATÁLOGO, 0 perfil |
 
 ## En espera de validación interna
 

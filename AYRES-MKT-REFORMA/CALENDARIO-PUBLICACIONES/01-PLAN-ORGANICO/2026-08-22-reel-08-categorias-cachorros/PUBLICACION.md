@@ -59,3 +59,17 @@ Así el cliente entiende mejor las alternativas y tu equipo recomienda con más 
 - Actividad: 0 · Seguidores nuevos: 0
 
 **Lectura:** mejor arranque de reel del período a 24 h — 171 views supera el total a 7 días de todos los reels anteriores (Reel 06: 126, Reel 01: 74). La distribución externa (87,6%) sigue funcionando y creciendo. La conversión sigue en cero: 1 like, sin mensajes CATÁLOGO, sin follows. El patrón alcance-sin-acción se mantiene intacto pieza tras pieza.
+
+## Métricas acumuladas (registradas 07/09)
+
+**Visualizaciones**
+- Views: 176 (+5 desde 24 h)
+- % no seguidores: 85,1%
+
+**Interacciones**
+- Total: 1 (1 me gusta) — 0 comentarios, 0 guardados, 0 compartidos
+
+**Perfil**
+- Actividad: 0 · Seguidores nuevos: 0
+
+**Lectura:** creció apenas 5 views en ~15 días. Agotó recorrido después de las primeras 24 h. Sigue siendo el reel con más views totales (176), pero la distribución externa bajó de 87,6% a 85,1%. Cero conversión.

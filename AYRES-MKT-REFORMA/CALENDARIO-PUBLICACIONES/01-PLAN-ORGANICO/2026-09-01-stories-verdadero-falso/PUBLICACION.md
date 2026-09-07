@@ -45,6 +45,19 @@ Fuente editable: `AYRES-MKT-REFORMA/source/stories-vf-01-09/` (`render.cjs`).
 
 ## Control posterior
 
-- Registrar resultados a las 24 horas.
-- Completar la evaluación a los 7 días.
-- Métrica principal: votos en el quiz + respuestas con CATÁLOGO.
+- Registrar resultados a las 24 horas. ✅ Registrado 07/09 (tardío).
+- Completar la evaluación a los 7 días. N/A (stories expiran a las 24 h).
+- Métrica principal: votos en el quiz + respuestas con CATÁLOGO: 0 + 0.
+
+## Métricas (registradas 07/09)
+
+**Visualizaciones**
+- Story 1: 18 · Story 2: 16 · Story 3: 16
+- Viewers únicos: ~18
+
+**Interacciones**
+- Respuestas al quiz: 0
+- Respuestas CATÁLOGO: 0
+- Visitas al perfil: 0
+
+**Lectura:** peor secuencia de stories hasta ahora (18/16/16 vs. V/F anterior 29/28/26). Retención dentro de la secuencia es buena (89%), pero el alcance total cayó un 38%. Cero participación en el quiz y cero conversión.

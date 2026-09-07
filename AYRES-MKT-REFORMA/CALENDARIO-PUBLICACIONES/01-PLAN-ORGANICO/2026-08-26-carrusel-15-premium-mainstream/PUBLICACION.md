@@ -92,6 +92,20 @@ Son categorías comerciales: describen propuesta y público, no una escala de ca
 
 ## Control posterior
 
-- Registrar resultados a las 24 horas.
-- Completar la evaluación a los 7 días.
-- Medir la métrica principal indicada para esta pieza (comentarios CATALOGO tras la edición del caption).
+- Registrar resultados a las 24 horas. ✅ Registrado 07/09 (tardío).
+- Completar la evaluación a los 7 días. ✅ Registrado 07/09 (tardío).
+- Medir la métrica principal indicada para esta pieza (comentarios CATALOGO tras la edición del caption): 0.
+
+## Métricas acumuladas (registradas 07/09 — ~11 días post-publicación)
+
+**Visualizaciones**
+- Views: 47
+- % no seguidores: 0,0% (100% seguidores)
+
+**Interacciones**
+- Total: 0 — 0 likes, 0 comentarios, 0 guardados, 0 compartidos
+
+**Perfil**
+- Actividad: 0 · Seguidores nuevos: 0
+
+**Lectura:** el carrusel con peor rendimiento del período. 47 views, todas de seguidores — cero distribución externa. Instagram no lo empujó al feed de no seguidores. Comparado con Carrusel 14 (147 views, 62,6% no seg.) y Carrusel 13 (52 views, 98,1% seg.), confirma que los carruseles tienen alcance limitado y dependen casi exclusivamente de la base existente.

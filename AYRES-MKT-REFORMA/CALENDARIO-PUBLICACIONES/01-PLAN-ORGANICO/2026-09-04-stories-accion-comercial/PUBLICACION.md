@@ -2,9 +2,9 @@
 
 ## Estado
 
-**LISTO PARA PUBLICAR**
+**PUBLICADO** ✅
 
-Producido el 27/08/2026 según `ESTRATEGIA-B2B.md`. Cierre del ciclo comercial semanal: muestra el surtido completo (el 28/08 fue sector perros; el 21/08, gatos).
+Publicado el 04/09/2026. Producido el 27/08/2026 según `ESTRATEGIA-B2B.md`. Cierre del ciclo comercial semanal: muestra el surtido completo (el 28/08 fue sector perros; el 21/08, gatos).
 
 ## Archivos finales
 
@@ -43,6 +43,18 @@ Fuente editable: `AYRES-MKT-REFORMA/source/stories-comercial-04-09/` (`render.cj
 
 ## Control posterior
 
-- Registrar resultados a las 24 horas.
-- Completar la evaluación a los 7 días.
-- Métrica principal: respuestas con CATÁLOGO + localidad.
+- Registrar resultados a las 24 horas. ✅ Registrado 07/09 (tardío).
+- Completar la evaluación a los 7 días. N/A (stories expiran a las 24 h).
+- Métrica principal: respuestas con CATÁLOGO + localidad: 0.
+
+## Métricas (registradas 07/09)
+
+**Visualizaciones**
+- Story 1: 13 · Story 2: 12 · Story 3: 11
+- Viewers únicos: ~13
+
+**Interacciones**
+- Respuestas CATÁLOGO: 0
+- Visitas al perfil: 0
+
+**Lectura:** la secuencia con menor alcance de todas (13/12/11). Retención dentro de la secuencia es buena (85%), pero el número total es muy bajo. Cero conversión. Comparado con stories comercial gatos (27/25/19) y comercial perros (registrado sin desglose), el alcance de stories cae semana a semana.
