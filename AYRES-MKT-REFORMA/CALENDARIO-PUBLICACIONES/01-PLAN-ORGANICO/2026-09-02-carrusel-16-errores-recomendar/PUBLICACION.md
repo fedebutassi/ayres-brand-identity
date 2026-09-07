@@ -80,6 +80,20 @@ Si atendés un pet shop, veterinaria o forrajería, revisá esta guía con tu eq
 
 ## Control posterior
 
-- Registrar resultados a las 24 horas.
-- Completar la evaluación a los 7 días.
-- Métrica principal: compartidos + guardados; secundaria: comentarios CATALOGO.
+- Registrar resultados a las 24 horas. ✅ Registrado 07/09 (tardío).
+- Completar la evaluación a los 7 días. ✅ Registrado 07/09 (~5 días).
+- Métrica principal: compartidos + guardados: 0 + 0; secundaria: comentarios CATALOGO: 0.
+
+## Métricas acumuladas (registradas 07/09 — ~5 días post-publicación)
+
+**Visualizaciones**
+- Views: 42
+- % no seguidores: 0,0% (100% seguidores)
+
+**Interacciones**
+- Total: 0 — 0 likes, 0 guardados, 0 compartidos, 0 comentarios
+
+**Perfil**
+- Actividad: 0 · Seguidores nuevos: 0
+
+**Lectura:** mismo patrón que Carrusel 15 (47 views, 0% externo). Instagram no distribuye los carruseles fuera de la base de seguidores. 42 views es el peor número absoluto de todo el período. Cero interacciones en la métrica clave (guardados + compartidos), lo que indica que ni siquiera los seguidores existentes encuentran valor para guardar o reenviar.
