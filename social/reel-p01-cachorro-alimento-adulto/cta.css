@@ -1,0 +1,30 @@
+.end .copy { margin-bottom: 70px; }
+
+.reel-cta {
+  margin-top: 46px;
+  padding: 24px 28px;
+  border-left: 5px solid var(--g);
+  background: rgba(61,184,112,.14);
+}
+
+.reel-cta b {
+  display: block;
+  color: var(--g);
+  font: 23px Arboria;
+  letter-spacing: 3px;
+}
+
+.reel-cta small {
+  display: block;
+  margin-top: 10px;
+  color: #fff;
+  font-size: 25px;
+  line-height: 1.35;
+}
+
+.handle {
+  margin-top: 24px;
+  color: #cdd6d9;
+  font: 19px Arboria;
+  letter-spacing: 2px;
+}

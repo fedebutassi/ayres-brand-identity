@@ -1,0 +1,571 @@
+[
+  {
+    "original": "marketing-2026/output/feed/01-familia-que-espera-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/AYRES-Institucional/Comunidad/Feed/01-familia-que-espera-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "ayres",
+      "comunidad",
+      "feed"
+    ],
+    "sha256": "7632fd458ffdc11ebbf39621beb006216bf32b6bba7ac81d42b893f0cbf6c12b"
+  },
+  {
+    "original": "marketing-2026/output/feed/02-quien-manda-en-casa-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/AYRES-Institucional/Comunidad/Feed/02-quien-manda-en-casa-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "ayres",
+      "comunidad",
+      "feed"
+    ],
+    "sha256": "80bac8ef6a5ccea578f6e1a59f3e7620329c597b04045c09abfc6c66be77d31e"
+  },
+  {
+    "original": "marketing-2026/output/stories/10-story-segui-a-quienes-cuidan-1080x1920.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/AYRES-Institucional/Comunidad/Historias/10-story-segui-a-quienes-cuidan-1080x1920.png",
+    "etiquetas": [
+      "final",
+      "ayres",
+      "comunidad",
+      "historia"
+    ],
+    "sha256": "9a5ad129c9bcb022af13d974aedbb79393a4596579a7ac1ff364fda469c471b8"
+  },
+  {
+    "original": "marketing-2026/output/stories/11-story-equipo-perro-gato-1080x1920.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/AYRES-Institucional/Comunidad/Historias/11-story-equipo-perro-gato-1080x1920.png",
+    "etiquetas": [
+      "final",
+      "ayres",
+      "comunidad",
+      "historia"
+    ],
+    "sha256": "ebfb0429ee635cab160b89b0ababa001aeacc03c7ece0a650765721a013cb055"
+  },
+  {
+    "original": "marketing-2026/output/feed/04-elegir-empieza-antes-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/AYRES-Institucional/Educacion/Feed/04-elegir-empieza-antes-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "ayres",
+      "educacion",
+      "feed"
+    ],
+    "sha256": "0bf09d2de97fdc0591fcbf9fa5f7d62ba4b4bf5740bc8bf122223a02f4717743"
+  },
+  {
+    "original": "marketing-2026/output/feed/09-no-adivines-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/AYRES-Institucional/Asesoramiento/Feed/09-no-adivines-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "ayres",
+      "asesoramiento",
+      "feed"
+    ],
+    "sha256": "9d9ae1a114d485074ecaef4e6ea1666370abd3c7c901e9e8dd58367ee847fba5"
+  },
+  {
+    "original": "marketing-2026/output/stories/15-story-contanos-y-comparamos-1080x1920.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/AYRES-Institucional/Asesoramiento/Historias/15-story-contanos-y-comparamos-1080x1920.png",
+    "etiquetas": [
+      "final",
+      "ayres",
+      "asesoramiento",
+      "historia"
+    ],
+    "sha256": "72df9126c81672551963657e6872cecfc1291458e45aea3dae521df0149f7f50"
+  },
+  {
+    "original": "marketing-2026/output/feed/07-pet-shop-mejores-razones-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/AYRES-Institucional/B2B/Feed/07-pet-shop-mejores-razones-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "ayres",
+      "b2b",
+      "feed"
+    ],
+    "sha256": "4491314f4e700c3b6930f10faef1863e51c9f0bc8605f6feaf005c2b1049b183"
+  },
+  {
+    "original": "marketing-2026/output/feed/08-cordoba-nos-une-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/AYRES-Institucional/B2B/Feed/08-cordoba-nos-une-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "ayres",
+      "b2b",
+      "feed"
+    ],
+    "sha256": "338b99a41abab17ec1c3229e889c2479248b9d84511d0356b61862be557adfdc"
+  },
+  {
+    "original": "marketing-2026/output/stories/14-story-suma-ayres-negocio-1080x1920.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/AYRES-Institucional/B2B/Historias/14-story-suma-ayres-negocio-1080x1920.png",
+    "etiquetas": [
+      "final",
+      "ayres",
+      "b2b",
+      "historia"
+    ],
+    "sha256": "ebad44225546649a46c40c386b15c8fe2ec2363679ac63d212d423cc6453f147"
+  },
+  {
+    "original": "marketing-2026/output/feed/05-setenta-y-una-opciones-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/Catalogo-Multimarca/Feed/05-setenta-y-una-opciones-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "multimarca",
+      "catalogo",
+      "feed"
+    ],
+    "sha256": "effea47a92fd83b4b24f33f54a80a9db1387043f8d3b0563b02dead0af67485a"
+  },
+  {
+    "original": "marketing-2026/output/stories/13-story-descubri-catalogo-1080x1920.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/Catalogo-Multimarca/Historias/13-story-descubri-catalogo-1080x1920.png",
+    "etiquetas": [
+      "final",
+      "multimarca",
+      "catalogo",
+      "historia"
+    ],
+    "sha256": "7d9eebcf3dd9334418ad32c27bb8a4b514dbd2b8d3e77e9434146deccfca6730"
+  },
+  {
+    "original": "marketing-2026/output/feed/06-comparar-tambien-es-cuidar-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/Productos/Comparativas/Multimarca/06-comparar-tambien-es-cuidar-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "multimarca",
+      "comparativa",
+      "feed"
+    ],
+    "sha256": "dc085cc6bb5cfb8a842423fa0d3dccee4c98bdd89b021504bb7dba06326fe0b3"
+  },
+  {
+    "original": "marketing-2026/output/feed/03-no-mires-solo-el-frente-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/Productos/Individuales/Fawna/Gatos/Educacion/03-no-mires-solo-el-frente-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "fawna",
+      "gatos",
+      "educacion",
+      "feed"
+    ],
+    "sha256": "2c2fb4ca095ae68f7292f0bfb47253e141a7139f2e88bc9254385c62ce12aa70"
+  },
+  {
+    "original": "marketing-2026/output/stories/12-story-tres-ingredientes-1080x1920.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/Productos/Individuales/Old-Prince/Perros/Educacion/12-story-tres-ingredientes-1080x1920.png",
+    "etiquetas": [
+      "final",
+      "old-prince",
+      "perros",
+      "educacion",
+      "historia"
+    ],
+    "sha256": "c11ed12980ea91615ea82cf8e7cc2b5f620b5ea3ee134b7f69f6ec788fc8e414"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/01-salmon-cordero-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/Productos/Comparativas/Fawna-vs-Old-Prince/Perros/01-salmon-cordero-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "fawna",
+      "old-prince",
+      "perros",
+      "comparativa"
+    ],
+    "sha256": "09c94280fdd4966bf5105132c32d8756b2b6acf34adb4f9d7255362903d124bb"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/02-ingredientes-visuales-salmon-cordero-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/Productos/Comparativas/Fawna-vs-Old-Prince/Perros/02-ingredientes-visuales-salmon-cordero-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "fawna",
+      "old-prince",
+      "perros",
+      "comparativa"
+    ],
+    "sha256": "0cf2746e35fb91daf538e7221ccb2f39938a9703a12c731f1e8eb6de93cfc2de"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/03-comparativa-gatos-salmon-cordero-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/Productos/Comparativas/Fawna-vs-Old-Prince/Gatos/03-comparativa-gatos-salmon-cordero-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "fawna",
+      "old-prince",
+      "gatos",
+      "comparativa"
+    ],
+    "sha256": "08bbba3222b742df1ddfda66c96dd3b2f3b509c1c17444b4c0e92c032206c437"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/04-comparativa-cerdo-cordero-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/Productos/Comparativas/Old-Prince-vs-High-Pro/Perros/04-comparativa-cerdo-cordero-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "old-prince",
+      "high-pro",
+      "perros",
+      "comparativa"
+    ],
+    "sha256": "fa27c608f1c6621172f370a7719630bf3ec6de190052ce84245a01510022b166"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/05-premium-fawna-gatito-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/Productos/Individuales/Fawna/Gatos/05-premium-fawna-gatito-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "fawna",
+      "gatos",
+      "individual"
+    ],
+    "sha256": "a2dd798d95dd06b72565c461aacf41685e8a7931739d95b51ce6d69e5bc0f3f9"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/06-premium-old-prince-gato-adulto-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/Productos/Individuales/Old-Prince/Gatos/06-premium-old-prince-gato-adulto-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "old-prince",
+      "gatos",
+      "individual"
+    ],
+    "sha256": "5912ba5e216c459eb2cd66451210687eddd15b448902b71a361454685e7239cc"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/07-premium-old-prince-cerdo-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/Productos/Individuales/Old-Prince/Perros/07-premium-old-prince-cerdo-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "old-prince",
+      "perros",
+      "individual"
+    ],
+    "sha256": "da2c6767d1ce11951aa7c2bfefccb75d8fc78c8ed899fedc66d1c30d8c2a3238"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/08-premium-equilibrium-control-peso-1080x1350.png",
+    "copia_ordenada": "ContenidoEnOrden/01-Piezas-Finales/Productos/Individuales/Old-Prince/Perros/08-premium-equilibrium-control-peso-1080x1350.png",
+    "etiquetas": [
+      "final",
+      "old-prince",
+      "perros",
+      "individual"
+    ],
+    "sha256": "17e32757d9e04361b70397493a949ca52642fa05e81ddc5ca8b22721fa864754"
+  },
+  {
+    "original": "marketing-2026/assets/generated/familia-perro-gato.png",
+    "copia_ordenada": "ContenidoEnOrden/02-Recursos-Visuales/AYRES-Institucional/Fondos-Lifestyle/familia-perro-gato.png",
+    "etiquetas": [
+      "recurso",
+      "ayres",
+      "lifestyle"
+    ],
+    "sha256": "5a649e7f5a17a1d250f3af818db82de45971c3e2463974447dc92731a115cc94"
+  },
+  {
+    "original": "marketing-2026/assets/generated/perro-gato-mirada.png",
+    "copia_ordenada": "ContenidoEnOrden/02-Recursos-Visuales/AYRES-Institucional/Fondos-Lifestyle/perro-gato-mirada.png",
+    "etiquetas": [
+      "recurso",
+      "ayres",
+      "lifestyle"
+    ],
+    "sha256": "e9ee68e4b6e92976819df2f12d3d6f98777856c499176965117cf53e3801161d"
+  },
+  {
+    "original": "marketing-2026/assets/generated/pet-shop-asesoramiento.png",
+    "copia_ordenada": "ContenidoEnOrden/02-Recursos-Visuales/AYRES-Institucional/Fondos-Lifestyle/pet-shop-asesoramiento.png",
+    "etiquetas": [
+      "recurso",
+      "ayres",
+      "lifestyle"
+    ],
+    "sha256": "268b0583447b47bc01a1a24ee060fabf01aba8db8caca7d270d18802d6eef42f"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/assets/ingredientes-salmon-cordero.png",
+    "copia_ordenada": "ContenidoEnOrden/02-Recursos-Visuales/Ingredientes/Comparativas/Fawna-vs-Old-Prince/ingredientes-salmon-cordero.png",
+    "etiquetas": [
+      "recurso",
+      "ingredientes",
+      "fawna",
+      "old-prince"
+    ],
+    "sha256": "6a72e4b3bbbd95a946b68b7e08c6509de2094f9dfbc1c1baa5a7c5fb11a2aefe"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/assets/ingredientes-salmon-cordero-horizontal.png",
+    "copia_ordenada": "ContenidoEnOrden/02-Recursos-Visuales/Ingredientes/Comparativas/Fawna-vs-Old-Prince/ingredientes-salmon-cordero-horizontal.png",
+    "etiquetas": [
+      "recurso",
+      "ingredientes",
+      "fawna",
+      "old-prince"
+    ],
+    "sha256": "8a6b27bd1938ce9089d40c30e5b0efe33f985640098149726785cc791597d858"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/assets/ingredientes-gatos-salmon-cordero.png",
+    "copia_ordenada": "ContenidoEnOrden/02-Recursos-Visuales/Ingredientes/Comparativas/Fawna-vs-Old-Prince/ingredientes-gatos-salmon-cordero.png",
+    "etiquetas": [
+      "recurso",
+      "ingredientes",
+      "fawna",
+      "old-prince"
+    ],
+    "sha256": "1d35f5caa3e1784e3e50579b3a762ddc648fe121c47ed7919a45b5bf0293c3a0"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/assets/ingredientes-cerdo-cordero.png",
+    "copia_ordenada": "ContenidoEnOrden/02-Recursos-Visuales/Ingredientes/Comparativas/Old-Prince-vs-High-Pro/ingredientes-cerdo-cordero.png",
+    "etiquetas": [
+      "recurso",
+      "ingredientes",
+      "old-prince",
+      "high-pro"
+    ],
+    "sha256": "918c0b1b1b4217873b1b747bfcd46ce5ab972ed5445a3df38e8b6789cb1fb920"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/assets/ingredientes-control-peso.png",
+    "copia_ordenada": "ContenidoEnOrden/02-Recursos-Visuales/Ingredientes/Individuales/Old-Prince/Perros/ingredientes-control-peso.png",
+    "etiquetas": [
+      "recurso",
+      "ingredientes",
+      "old-prince",
+      "perros"
+    ],
+    "sha256": "99b8e414964ca50767a2c04aa4a2cab8241e48bfd32cb9047e5269dade4cb322"
+  },
+  {
+    "original": "marketing-2026/CAPTIONS.md",
+    "copia_ordenada": "ContenidoEnOrden/03-Textos-y-Planificacion/Campania-General/CAPTIONS.md",
+    "etiquetas": [
+      "documentacion",
+      "campania-general"
+    ],
+    "sha256": "5d8847e2357f63957810cbc7feb59d85471a9df16995f0bd074145d82e70c0cc"
+  },
+  {
+    "original": "marketing-2026/PROMPTS.md",
+    "copia_ordenada": "ContenidoEnOrden/03-Textos-y-Planificacion/Campania-General/PROMPTS.md",
+    "etiquetas": [
+      "documentacion",
+      "campania-general"
+    ],
+    "sha256": "817a95ccd4c20e58e883bc45dabe6349997126cebaac4b682bb1825213d00d59"
+  },
+  {
+    "original": "marketing-2026/README.md",
+    "copia_ordenada": "ContenidoEnOrden/03-Textos-y-Planificacion/Campania-General/README.md",
+    "etiquetas": [
+      "documentacion",
+      "campania-general"
+    ],
+    "sha256": "d06cbb90a69b538b55402cf58d4a7a46088f057a827e5bd1499f80ec4f3e5ae0"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/IDEAS-PROXIMAS-PUBLICACIONES.md",
+    "copia_ordenada": "ContenidoEnOrden/03-Textos-y-Planificacion/Serie-Ingredientes/IDEAS-PROXIMAS-PUBLICACIONES.md",
+    "etiquetas": [
+      "documentacion",
+      "serie-ingredientes"
+    ],
+    "sha256": "9c3bb030745b14babdaa623059c29eed3bf182f1baa65b28b21c322d1e743180"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/PROMPT-INGREDIENTES.md",
+    "copia_ordenada": "ContenidoEnOrden/03-Textos-y-Planificacion/Serie-Ingredientes/PROMPT-INGREDIENTES.md",
+    "etiquetas": [
+      "documentacion",
+      "serie-ingredientes"
+    ],
+    "sha256": "5c7eff086a2dbad0294fae66a9a1c13d9e12361b6114a974effbd92e939ce72f"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/PROMPTS-SERIE.md",
+    "copia_ordenada": "ContenidoEnOrden/03-Textos-y-Planificacion/Serie-Ingredientes/PROMPTS-SERIE.md",
+    "etiquetas": [
+      "documentacion",
+      "serie-ingredientes"
+    ],
+    "sha256": "a6219d6590b898890a3e49fb8b0da6deeafac0efe85cb6114d4cf6098675685c"
+  },
+  {
+    "original": "marketing-2026/campaign.css",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Campania-General/campaign.css",
+    "etiquetas": [
+      "fuente",
+      "campania-general"
+    ],
+    "sha256": "771db77230f5cf13c0c1098f1ffee730d8a615485353c827fa7da57a16b92bf0"
+  },
+  {
+    "original": "marketing-2026/campaign.html",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Campania-General/campaign.html",
+    "etiquetas": [
+      "fuente",
+      "campania-general"
+    ],
+    "sha256": "9d7509a4a253544ec9be132beb42200ededc16ec99b21a45c74ee53429204707"
+  },
+  {
+    "original": "marketing-2026/campaign.js",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Campania-General/campaign.js",
+    "etiquetas": [
+      "fuente",
+      "campania-general"
+    ],
+    "sha256": "0f426d3c8cc3efa4f72af96002a6a2a72f0e2d2490d7aac31e2aca51a87a0849"
+  },
+  {
+    "original": "marketing-2026/campaign.json",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Campania-General/campaign.json",
+    "etiquetas": [
+      "fuente",
+      "campania-general"
+    ],
+    "sha256": "c804b7443ab5dbbb645acfd52ba8b67925f93309e6e814923ff93ac3673cd954"
+  },
+  {
+    "original": "marketing-2026/render.cjs",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Campania-General/render.cjs",
+    "etiquetas": [
+      "fuente",
+      "campania-general"
+    ],
+    "sha256": "230000346a9bc46ea0f5a61e34a02a2e4656cfa99c7330eb5b8ea6b89a882568"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/campaign-data.cjs",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Serie-Ingredientes/campaign-data.cjs",
+    "etiquetas": [
+      "fuente",
+      "serie-ingredientes"
+    ],
+    "sha256": "c7a7298bf9eaefb0d06fbde193b680ea70629c6d39989e31b4e98552c343c51d"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/comparativa.css",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Serie-Ingredientes/comparativa.css",
+    "etiquetas": [
+      "fuente",
+      "serie-ingredientes"
+    ],
+    "sha256": "3625795724f016852a8107d79c6fef1867a198094b01e5f12561f13fd55245de"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/comparativa.html",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Serie-Ingredientes/comparativa.html",
+    "etiquetas": [
+      "fuente",
+      "serie-ingredientes"
+    ],
+    "sha256": "149c02d597114c5b39e2d9c35c420e36b88617f6ffd52160afb9372c4ba3bfa6"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/comparativa.js",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Serie-Ingredientes/comparativa.js",
+    "etiquetas": [
+      "fuente",
+      "serie-ingredientes"
+    ],
+    "sha256": "1a4c1cb12633558143f49408ef6d36b1b9bd9ac159b7a94b0c2c5983e3f9a583"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/render-serie.cjs",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Serie-Ingredientes/render-serie.cjs",
+    "etiquetas": [
+      "fuente",
+      "serie-ingredientes"
+    ],
+    "sha256": "054c111ffd72b87a39c9c7bc8e56a500ac9be45d246045d158ed8a499ba12c70"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/render-visual-explicito.cjs",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Serie-Ingredientes/render-visual-explicito.cjs",
+    "etiquetas": [
+      "fuente",
+      "serie-ingredientes"
+    ],
+    "sha256": "d2408a589a23a8af31653cf2ebbde9a0bb794bbf728d903cc17d1ef1b5a438bd"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/render.cjs",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Serie-Ingredientes/render.cjs",
+    "etiquetas": [
+      "fuente",
+      "serie-ingredientes"
+    ],
+    "sha256": "5a6a6846e7e40d289377578824bf61b3b0571ed0018eadd5e3ed680dc3430191"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/selection.cjs",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Serie-Ingredientes/selection.cjs",
+    "etiquetas": [
+      "fuente",
+      "serie-ingredientes"
+    ],
+    "sha256": "e914f4d3158e747bf278babaf3dee29fcd350bc2dd5b3b8b06a07c223a6057ac"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/serie.css",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Serie-Ingredientes/serie.css",
+    "etiquetas": [
+      "fuente",
+      "serie-ingredientes"
+    ],
+    "sha256": "19fae3d12bd76466f689152c3d658c14b19853511b5f1aa8b24d6361a19863ce"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/serie.html",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Serie-Ingredientes/serie.html",
+    "etiquetas": [
+      "fuente",
+      "serie-ingredientes"
+    ],
+    "sha256": "f7eb58387a04fcc8a1bb7df0e4bfb2983303bac1754294105b64f3c4626c3ebe"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/serie.js",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Serie-Ingredientes/serie.js",
+    "etiquetas": [
+      "fuente",
+      "serie-ingredientes"
+    ],
+    "sha256": "2d57ae3af28636f5b5bea82381627c04b33ca2610813ed775d540493714a4e92"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/visual-explicito.css",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Serie-Ingredientes/visual-explicito.css",
+    "etiquetas": [
+      "fuente",
+      "serie-ingredientes"
+    ],
+    "sha256": "03981e8107e353bc1f63d70bcd7e06dcf1fa3641f16e29f382fab4c3441253e6"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/visual-explicito.html",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Serie-Ingredientes/visual-explicito.html",
+    "etiquetas": [
+      "fuente",
+      "serie-ingredientes"
+    ],
+    "sha256": "a13c3d1630e6ab1f51521e0610ba954e2375bc6407d304f1b9eeabe8d351995d"
+  },
+  {
+    "original": "marketing-2026/pruebas-ingredientes/visual-explicito.js",
+    "copia_ordenada": "ContenidoEnOrden/04-Fuentes-Editables/Serie-Ingredientes/visual-explicito.js",
+    "etiquetas": [
+      "fuente",
+      "serie-ingredientes"
+    ],
+    "sha256": "75a1291a1bed12f1702117219d500e5965be8e41a98233bc6a4c5a9a7384c9ad"
+  }
+]

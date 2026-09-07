@@ -1,0 +1,51 @@
+.vertical{width:1080px;height:1920px}
+html:has(.vertical),body:has(.vertical),#slide:has(.vertical){width:1080px;height:1920px}
+.vertical .topbar{top:150px;right:78px;left:78px}
+.vertical .safe{inset:0 78px}
+.vertical .copy{top:275px}
+.vertical h1{font-size:74px;line-height:.98}
+.vertical .lede{max-width:835px;margin-top:25px;font-size:28px;line-height:1.4}
+.vertical footer{bottom:245px;padding-top:24px;font-size:14px}
+
+.vertical.cover .copy{top:290px}
+.vertical.cover h1{font-size:82px}
+.vertical.cover .lede{max-width:800px}
+.vertical .cover-stage{right:-40px;bottom:280px;left:-40px;height:855px}
+.vertical .ground{right:55px;bottom:85px;left:55px;height:105px}
+.vertical .cover-pack{bottom:70px}
+.vertical .cover-pack.p1{left:-18px;width:285px;height:600px}
+.vertical .cover-pack.p2{left:165px;width:320px;height:720px}
+.vertical .cover-pack.p3{left:375px;width:355px;height:805px}
+.vertical .cover-pack.p4{right:145px;width:310px;height:700px}
+.vertical .cover-pack.p5{right:-20px;width:270px;height:585px}
+
+.vertical .brand-grid{bottom:275px}
+.vertical .duo-grid{gap:24px}
+.vertical .duo-grid .brand-card{height:940px;padding:32px 27px 28px}
+.vertical .duo-grid .mark-wrap{height:125px}
+.vertical .duo-grid .brand-logo{max-height:96px}
+.vertical .duo-grid .wordmark{font-size:39px}
+.vertical .duo-grid .pack{height:640px;margin-top:10px}
+.vertical .duo-grid .brand-name{margin-top:8px;font-size:22px}
+.vertical .duo-grid .brand-note{margin-top:10px;font-size:19px;line-height:1.25}
+
+.vertical.quad .copy{top:250px}
+.vertical.quad h1{font-size:67px}
+.vertical.quad .lede{font-size:25px}
+.vertical .quad-grid{bottom:270px;gap:20px}
+.vertical .quad-grid .brand-card{height:490px;padding:20px}
+.vertical .quad-grid .mark-wrap{height:105px;margin-top:15px}
+.vertical .quad-grid .brand-logo{max-height:80px}
+.vertical .quad-grid .wordmark{font-size:29px}
+.vertical .quad-grid .pack{height:365px;margin-top:-4px}
+.vertical .quad-grid .brand-name{right:51%;bottom:73px;left:20px;font-size:18px}
+
+.vertical.cta .copy{top:430px}
+.vertical.cta h1{font-size:96px}
+.vertical.cta .lede{margin-top:38px;font-size:32px;line-height:1.42}
+.vertical .cta-box{bottom:500px;padding:48px 45px}
+.vertical .cta-label{font-size:31px}
+.vertical .cta-note{margin-top:17px;font-size:21px}
+
+.vertical.reel-mode .counter,
+.vertical.reel-mode footer span:last-child{display:none}

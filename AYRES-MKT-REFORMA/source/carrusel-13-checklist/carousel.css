@@ -1,0 +1,65 @@
+@font-face{font-family:Florensa;src:url(../../../social/carrusel-14-gastritis-gatos/assets/Florensa-Demo.ttf) format("truetype");font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:Arboria;src:url(../../../social/carrusel-14-gastritis-gatos/assets/Arboria-Black.ttf) format("truetype");font-weight:900;font-style:normal;font-display:block}
+:root{--green:#3db870;--dark:#3e484e;--deep:#2a3035;--muted:#7a8a92;--cream:#f5f4f2;--off:#eceae7}
+*{box-sizing:border-box}
+html,body,#slide,.slide{width:1080px;height:1350px;margin:0;overflow:hidden}
+body{background:var(--cream);color:var(--dark);-webkit-font-smoothing:antialiased}
+.slide{position:relative;isolation:isolate;background:linear-gradient(145deg,#faf9f6,#f0eee9 66%,#e8ece7);font-family:Florensa,Arial,sans-serif}
+.slide:before{position:absolute;z-index:-2;top:-230px;right:-190px;width:650px;height:650px;border-radius:50%;background:radial-gradient(circle,rgba(61,184,112,.25),transparent 68%);content:""}
+.slide:after{position:absolute;z-index:-2;right:-300px;bottom:-430px;width:800px;height:800px;border:1px solid rgba(61,184,112,.3);border-radius:50%;content:""}
+.slide.dark{background:linear-gradient(150deg,#303a3f,#20282c 70%,#172024);color:#fff}
+.slide.dark:before{background:radial-gradient(circle,rgba(61,184,112,.34),transparent 68%)}
+.safe{position:absolute;inset:62px 76px 64px}
+.brand{display:flex;align-items:center;justify-content:space-between}
+.brand img{width:190px}
+.brand span{padding:12px 17px;border:1px solid rgba(62,72,78,.22);border-radius:99px;font:900 11px Arboria,Arial,sans-serif;letter-spacing:1.8px}
+.dark .brand span{border-color:rgba(61,184,112,.6)}
+.heading{margin-top:105px}
+.step{display:flex;align-items:center;gap:14px;color:var(--green);font:900 14px Arboria,Arial,sans-serif;letter-spacing:3px;text-transform:uppercase}
+.step b{display:grid;width:38px;height:38px;place-items:center;border-radius:50%;background:var(--green);color:#fff;font-size:13px;letter-spacing:0}
+h1{max-width:900px;margin:21px 0 0;font:400 67px/.96 Florensa,Arial,sans-serif;letter-spacing:-1px;text-transform:uppercase}
+h1 em{color:var(--green);font-style:normal}
+.lede{max-width:790px;margin:20px 0 0;color:var(--muted);font:400 21px/1.4 Florensa,Arial,sans-serif}
+.dark .lede{color:#c8d1d4}
+.rule{width:56px;height:4px;margin-top:24px;background:var(--green)}
+.footer{position:absolute;right:0;bottom:0;left:0;display:flex;justify-content:space-between;padding-top:20px;border-top:1px solid rgba(62,72,78,.23);color:var(--muted);font:900 12px Arboria,Arial,sans-serif}
+.dark .footer{border-color:rgba(255,255,255,.22);color:#aebbc0}
+.footer b{color:var(--green)}
+.product-stage{position:absolute;right:0;bottom:100px;left:0;height:690px;display:flex;align-items:flex-end;justify-content:center;gap:10px}
+.product-stage:before{position:absolute;right:80px;bottom:28px;left:80px;height:75px;border-radius:50%;background:rgba(42,48,53,.25);filter:blur(30px);content:""}
+.product{position:relative;z-index:2;display:flex;width:410px;height:620px;align-items:flex-end;justify-content:center}
+.product img{max-width:100%;max-height:590px;object-fit:contain;filter:drop-shadow(0 23px 20px rgba(42,48,53,.22))}
+.product:first-child{transform:rotate(-2.5deg)}
+.product:last-child{transform:rotate(2.5deg)}
+.badge{position:absolute;z-index:4;top:5px;left:50%;min-width:175px;padding:13px 18px;border:1px solid rgba(61,184,112,.5);border-radius:99px;background:rgba(255,255,255,.95);font:900 12px Arboria,Arial,sans-serif;text-align:center;transform:translateX(-50%)}
+.badge b{display:block;color:var(--green);font-size:29px;line-height:.9}
+.cover .heading{margin-top:110px}
+.cover h1{font-size:76px}
+.cover .product-stage{bottom:78px;height:680px}
+.info-grid{position:absolute;right:0;bottom:120px;left:0;display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.info-card{min-height:275px;padding:30px;border:1px solid rgba(62,72,78,.14);border-radius:7px;background:rgba(255,255,255,.91)}
+.dark .info-card{color:var(--dark)}
+.info-card b{display:block;color:var(--green);font:900 29px Arboria,Arial,sans-serif;text-transform:uppercase}
+.info-card p{margin:16px 0 0;font:400 20px/1.4 Florensa,Arial,sans-serif}
+.info-card small{display:block;margin-top:13px;color:var(--muted);font:400 15px/1.4 Florensa,Arial,sans-serif}
+.comparison{position:absolute;right:0;bottom:112px;left:0;display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.comparison article{position:relative;min-height:485px;padding:27px;border-top:5px solid var(--green);background:rgba(255,255,255,.92);box-shadow:0 20px 45px rgba(42,48,53,.08)}
+.comparison h2{margin:0;font:400 27px/1.1 Florensa,Arial,sans-serif;text-transform:uppercase}
+.comparison img{display:block;width:190px;height:230px;margin:17px auto 8px;object-fit:contain}
+.comparison ul{display:grid;gap:12px;margin:18px 0 0;padding:0;list-style:none}
+.comparison li{display:flex;gap:10px;font:400 17px/1.25 Florensa,Arial,sans-serif}
+.comparison li:before{color:var(--green);content:"•"}
+.metrics{position:absolute;right:0;bottom:130px;left:0;display:grid;grid-template-columns:repeat(2,1fr);gap:19px}
+.metric{padding:30px;border-left:5px solid var(--green);background:rgba(255,255,255,.92)}
+.metric span{display:block;color:var(--muted);font:900 12px Arboria,Arial,sans-serif;letter-spacing:1.2px;text-transform:uppercase}
+.metric b{display:block;margin-top:10px;color:var(--green);font:400 48px Florensa,Arial,sans-serif}
+.metric small{display:block;margin-top:6px;font:400 16px Florensa,Arial,sans-serif}
+.presentation-list{position:absolute;right:0;bottom:130px;left:0;display:grid;gap:15px}
+.presentation-row{display:grid;grid-template-columns:200px 1fr;align-items:center;padding:17px 22px;border:1px solid rgba(62,72,78,.12);background:rgba(255,255,255,.88)}
+.presentation-row b{font:900 17px Arboria,Arial,sans-serif;text-transform:uppercase}
+.presentation-row span{color:var(--muted);font:400 17px Florensa,Arial,sans-serif}
+.cta-panel{position:absolute;right:0;bottom:250px;left:0;padding:43px;border:2px solid var(--green);background:rgba(61,184,112,.09)}
+.cta-panel b{display:block;font:400 39px Florensa,Arial,sans-serif;text-transform:uppercase}
+.cta-panel p{margin:16px 0 0;color:var(--green);font:400 21px/1.4 Florensa,Arial,sans-serif}
+.cta .heading{margin-top:170px}
+.cta h1{font-size:80px}

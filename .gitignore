@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Temporales
+tmp/
+
+# Imágenes y media (usar Git LFS si se necesita versionar)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.mp4
+*.mov
+*.pdf
+
+# Node
+node_modules/

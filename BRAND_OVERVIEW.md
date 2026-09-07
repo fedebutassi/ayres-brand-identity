@@ -1,79 +1,121 @@
-# AYRES Pet Supply — Brand Identity Guide
+# AYRES Pet Supply — Guía general de marca
 
-## About the Company
+## Empresa
 
-**AYRES Pet Supply** is a wholesale pet food distributor based in **Córdoba, Argentina**, established in 2025. They distribute premium pet food brands across the province, serving veterinary clinics, pet shops, supermarkets, and regional distributors.
+**AYRES Pet Supply** es una distribuidora mayorista de alimentos para mascotas con operación en Córdoba, Argentina. Su foco comercial es captar y acompañar clientes revendedores: pet shops, veterinarias, comercios, supermercados y distribuidores.
 
-## Brand Essence
+AYRES cubre **gran parte de la provincia de Córdoba**. Esta formulación no implica cobertura provincial total ni disponibilidad en todas las localidades; la atención debe validarse según localidad y ruta comercial.
 
-- **Industry**: Pet food distribution (wholesale)
-- **Type**: B2B distributor with B2C-facing brand
-- **Location**: Córdoba, Argentina (province-wide coverage)
-- **Established**: 2025
-- **Core Business**: Distribution of premium pet food brands (Old Prince, Kongo, Fawna, Voraz, and more)
+AYRES tiene **más de 10 años de trayectoria en el rubro**. No usar “establecida en 2025” ni convertir la trayectoria en una fecha jurídica de fundación sin documentación específica.
 
-## Brand Personality
+## Esencia de marca
 
-- **Family-centered** — pets are family, not just animals
-- **Science-backed** — nutrition endorsed by veterinarians and nutritionists
-- **Natural & healthy** — emphasis on natural ingredients, no artificial additives
-- **Professional & trustworthy** — B2B reliability with consumer warmth
-- **Argentine-proud** — 100% national, locally sourced ingredients
+- **Industria:** distribución mayorista de alimentos para mascotas.
+- **Modelo:** foco B2B con comunicación educativa B2C como apoyo de alcance y confianza.
+- **Ubicación:** Córdoba, Argentina.
+- **Cobertura aprobada:** gran parte de la provincia de Córdoba.
+- **Propuesta central:** catálogo amplio, conocimiento de producto y acompañamiento comercial para revendedores.
+- **Audiencias principales:** pet shops, veterinarias, comercios, supermercados y distribuidores.
+- **Audiencia secundaria:** tutores de perros y gatos que buscan información clara para comprender productos y etiquetas.
 
-## Tagline
+## Personalidad
 
-**"Para mascotas que son familia"** (For pets that are family)
+- **Cercana:** habla en español argentino y con voseo natural.
+- **Clara:** explica productos y datos sin tecnicismos innecesarios.
+- **Profesional:** distingue información comercial, datos de catálogo y orientación veterinaria.
+- **Responsable:** no exagera beneficios ni convierte ingredientes o porcentajes en conclusiones clínicas.
+- **Confiable:** comunica únicamente cobertura, catálogo, servicios y condiciones que puedan sostenerse.
 
-## Value Proposition
+## Posicionamiento
 
-> "La empresa AYRES comercializa productos de alta calidad para el bienestar y la nutrición de tu mascota, pensados con amor y respaldados por ciencia."
+AYRES es un socio de distribución para comercios revendedores de alimentos para mascotas en Córdoba. Combina variedad de catálogo, conocimiento de producto y una relación comercial cercana.
 
-## Brand Pillars
+El contenido para tutores cumple una función educativa y de confianza, pero no reemplaza el foco mayorista ni debe presentarse como consulta veterinaria individual.
 
-1. **Calidad certificada** — Every batch analyzed under strict quality controls
-2. **100% Nacional** — Made in Argentina with top-tier local raw materials
-3. **Bienestar animal** — Formulas approved by specialized veterinary nutritionists
-4. **Alcance nacional** — Active distribution network across Argentine provinces
+## Mensajes centrales
 
-## Key Metrics
+1. **Distribución mayorista:** AYRES acompaña a comercios que quieren incorporar o ampliar su oferta de alimentos para mascotas.
+2. **Cobertura regional:** AYRES distribuye en gran parte de la provincia de Córdoba, sujeto a disponibilidad por localidad y ruta.
+3. **Trayectoria:** AYRES cuenta con más de 10 años de trayectoria en el rubro.
+4. **Catálogo:** el catálogo registra 71 productos al 16 de abril de 2026; verificar la versión vigente antes de publicar la cifra.
+5. **Orientación de producto:** AYRES puede responder solicitudes consultando su base de productos y comparando datos declarados como ingredientes o proteínas.
 
-- +10 years of experience
-- +200 active distributors
-- +50 products in catalog
-- 100% natural and balanced
+## Regla sobre el fabricante
 
-## Contact Information
+AYRES es siempre la marca protagonista y el emisor de la comunicación. Evitar nombrar al fabricante en mensajes generales, comerciales o educativos.
 
-- **Phone**: +54 351 212-8218
-- **WhatsApp**: +54 9 351 212-8218
-- **Email**: administracion@ayrespetsupply.com
-- **Instagram**: @ayres.petsupply
-- **Website**: https://ayrespetsupply.com
-- **Hours**: Mon-Fri 9:00-18:00
-- **Coverage**: Province of Córdoba, Argentina
+Nombrarlo únicamente cuando resulte indispensable atribuir un dato técnico, fabril o legal concreto, por ejemplo una certificación o un control realizado en planta. No presentar esos procesos como capacidades propias de AYRES. Preservar las menciones legítimas impresas en envases, datos legales y nombres propios.
 
-## Product Lines
+## Claims y métricas
 
-| Line | Target | Description |
+| Afirmación | Estado | Regla de uso |
 |---|---|---|
-| Especializados | Premium segment | Premium formulas with selected ingredients for specific health needs |
-| Masivos | Value segment | Complete, accessible nutrition in large formats at competitive prices |
-| Canina (Perros) | Dog owners | Complete, balanced nutrition for every life stage |
-| Felina (Gatos) | Cat owners | Taurine and omega fatty acid enriched formulas |
+| Más de 10 años de trayectoria en el rubro | Confirmada para AYRES | Usar esta formulación; no inferir fecha de fundación |
+| Gran parte de la provincia de Córdoba | Confirmada | No convertir en cobertura total ni nacional |
+| 71 productos | Confirmada al 16/04/2026 | Citar fecha o verificar catálogo vigente |
+| Más de 50 productos | Compatible pero menos precisa | Preferir 71 cuando la fecha sea pertinente |
+| Más de 200 revendedores de AYRES | Confirmada por el responsable | Puede usarse; revisar periódicamente su vigencia |
+| 100% natural | Sólo puede aplicar a marcas específicas | No usar sin fuente primaria vigente de la marca o producto concreto |
+| Controles, laboratorios, certificaciones y proveedores | Corresponden al fabricante | Exigir respaldo primario y atribución específica |
+| Veterinarios o nutricionistas dentro de AYRES | Pendiente | No afirmar |
+| Chatbot como servicio o interfaz activa | Pendiente | No anunciar; describir sólo la orientación informativa realmente disponible |
 
-## Distributed Brands
+La política completa está en [`governance/CLAIMS-POLICY.md`](governance/CLAIMS-POLICY.md) y el estado de cada afirmación en [`governance/CLAIMS-REGISTER.md`](governance/CLAIMS-REGISTER.md).
 
-Old Prince (Equilibrium, Premium Nutrition, Premium), Kongo (Standard, Gold), Fawna, Voraz, Company, High Pro Criadores, Maintenance Criadores, Natural Meat, Carnix, Caudillo, Cereales, Origen Company
+## Salud y nutrición
 
-## File Index
+- No diagnosticar, prescribir ni prometer prevención, tratamiento o cura.
+- No interpretar ingredientes, porcentajes o análisis garantizados como resultados clínicos.
+- Diferenciar datos declarados por el producto de interpretaciones de marketing.
+- Conservar las etiquetas **mínimo**, **máximo** y los rangos tal como aparecen en la fuente.
+- Recomendar consulta veterinaria ante síntomas, condiciones individuales, dietas especiales o transiciones sensibles.
+- Verificar etiqueta vigente y fecha del catálogo antes de publicar información crítica.
 
-| File | Description |
+## Identidad visual
+
+- **Concepto del símbolo:** síntesis de los cuatro elementos —agua, fuego, tierra y aire— combinada con una mascota; el movimiento ondular refuerza el concepto de aire.
+- **Tipografía principal:** Florensa Demo Regular.
+- **Tipografía secundaria:** Arboria Black, confirmada por el responsable y por la metadata interna del archivo localizado; el rótulo “Arboria Bold” del manual es una inconsistencia.
+- **Colores documentados en el manual:** `#3E484E` y `#82B086`.
+- **Logotipo:** usar siempre los artes aprobados; no reconstruirlo con tipografía.
+
+Consultar [`TYPOGRAPHY.md`](TYPOGRAPHY.md), [`COLORS.md`](COLORS.md), [`LOGO.md`](LOGO.md), [`VISUAL_STYLE.md`](VISUAL_STYLE.md) y [`assets/`](assets/). El manual original prevalece ante contradicciones.
+
+## Inconsistencias visuales abiertas
+
+- El manual llama **Arboria Bold** a la secundaria; la decisión vigente y el archivo localizado indican **Arboria Black**. Usar Black y corregir el rótulo en una futura versión del manual.
+- [`COLORS.md`](COLORS.md) contiene colores y usos digitales adicionales que han funcionado bien en la comunicación reciente. Pueden mantenerse como extensión operativa mientras se revisa su correspondencia formal con el manual; no regenerar piezas existentes.
+- Una variante de sello del manual contiene “est. 2025”. La fecha fue descartada por irrelevante: no usar esa variante.
+- Raleway y Poppins aparecen en producción histórica, pero no son fuentes oficiales.
+
+## Contacto registrado
+
+- **Teléfono / WhatsApp:** +54 9 351 212-8218
+- **Email:** administracion@ayrespetsupply.com
+- **Instagram:** @ayres.petsupply
+- **Sitio:** https://ayrespetsupply.com
+- **Horario documentado:** lunes a viernes, 9:00 a 18:00
+
+Verificar vigencia antes de publicar datos de contacto u horarios.
+
+## Fuentes principales
+
+| Fuente | Uso |
 |---|---|
-| `BRAND_OVERVIEW.md` | This file — brand summary and key info |
-| `COLORS.md` | Complete color palette with hex values and usage |
-| `TYPOGRAPHY.md` | Font families, weights, and text hierarchy |
-| `LOGO.md` | Logo variants, description, usage rules, and files |
-| `VOICE_AND_TONE.md` | Brand voice, messaging, and copy guidelines |
-| `VISUAL_STYLE.md` | Design tokens, spacing, shadows, animations |
-| `CONTENT.md` | All brand copy organized by section |
-| `assets/` | Logos (3 variants in SVG+PNG), favicon, hero image |
+| Manual de marca AYRES suministrado por el cliente | Logo, concepto, área de seguridad, colores, tipografías y aplicaciones |
+| [`infoproductos/productos.json`](infoproductos/productos.json) | Nombres, especies, etapas, presentaciones, ingredientes y análisis declarados |
+| [`AYRES-MKT-REFORMA/`](AYRES-MKT-REFORMA/) | Estrategia social y estado operativo vigente |
+| Documentos raíz de identidad | Navegación complementaria; corregirlos si contradicen al manual o una validación explícita posterior |
+
+## Índice
+
+| Archivo | Descripción |
+|---|---|
+| [`BRAND_OVERVIEW.md`](BRAND_OVERVIEW.md) | Resumen estratégico y hechos principales |
+| [`COLORS.md`](COLORS.md) | Paleta y usos digitales; contiene diferencias pendientes frente al manual |
+| [`TYPOGRAPHY.md`](TYPOGRAPHY.md) | Familias oficiales y reglas tipográficas |
+| [`LOGO.md`](LOGO.md) | Variantes, usos y archivos del logotipo |
+| [`VOICE_AND_TONE.md`](VOICE_AND_TONE.md) | Voz, tono y pautas de redacción |
+| [`VISUAL_STYLE.md`](VISUAL_STYLE.md) | Sistema visual complementario |
+| [`CONTENT.md`](CONTENT.md) | Mensajes y reglas de contenido |
+| [`governance/`](governance/) | Claims, aprobaciones y registro operativo |

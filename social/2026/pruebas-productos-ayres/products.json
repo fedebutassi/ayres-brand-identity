@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "fawna-gatito",
+    "name": "Fawna Gatito",
+    "subtitle": "Alimento para gatitos",
+    "category": "GATITO · CACHORRO",
+    "protein": "39%",
+    "fat": "18%",
+    "ingredients": ["Harina de salmón", "Harina de pollo", "Huevo en polvo"],
+    "presentations": "1 kg · 2 kg",
+    "image": "social/2026/pruebas-productos-ayres/assets/cutouts/fawna-gatito-cutout.png",
+    "theme": "fawna"
+  },
+  {
+    "slug": "old-prince-cordero-adult-small",
+    "name": "Old Prince Cordero",
+    "subtitle": "Adultos · Razas pequeñas",
+    "category": "PERRO ADULTO · RAZAS PEQUEÑAS",
+    "protein": "32%",
+    "fat": "14%",
+    "ingredients": ["Harina de cordero", "Arroz integral", "Arveja"],
+    "presentations": "3 kg · 7,5 kg · 15 kg",
+    "image": "social/2026/pruebas-productos-ayres/assets/cutouts/old-prince-cordero-adult-small-cutout.png",
+    "theme": "old-prince"
+  },
+  {
+    "slug": "kongo-gatos-salmon-atun",
+    "name": "Kongo Gatos Adultos",
+    "subtitle": "Salmón y atún",
+    "category": "GATO ADULTO · DESDE 12 MESES",
+    "protein": "30%",
+    "fat": "9%",
+    "ingredients": ["Harina de pescado", "Harina de pollo", "Harina de carne vacuna"],
+    "presentations": "0,5 kg · 1 kg · 3 kg · 8 kg · 15 kg",
+    "image": "social/2026/pruebas-productos-ayres/assets/cutouts/kongo-gatos-salmon-atun-cutout.png",
+    "theme": "kongo"
+  }
+]

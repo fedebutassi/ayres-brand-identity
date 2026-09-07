@@ -18,7 +18,7 @@
 ### Contenido de la placa
 
 - Título: **12 MARCAS. UN SOLO CONTACTO.**
-- Bajada: ¿Tenés una pet shop, veterinaria o comercio de alimento balanceado? Recibí el catálogo mayorista para tu negocio. Entregamos en gran parte de la provincia de Córdoba.
+- Bajada: ¿Tenés un petshop, veterinaria o comercio de alimento balanceado? Recibí el catálogo mayorista para tu negocio. Entregamos en gran parte de la provincia de Córdoba.
 - CTA en placa: **PEDÍ EL CATÁLOGO POR WHATSAPP**
 - Nota legal: Disponibilidad y distribución sujetas a zona de cobertura.
 - Visual: 5 envases del catálogo (Fawna, Old Prince, Kongo Gold, Company, Voraz) — mismo sistema de diseño que el carrusel institucional de marcas
@@ -28,7 +28,7 @@
 
 **Texto principal:**
 
-🏪 ¿Tenés una pet shop, veterinaria o comercio de alimento balanceado?
+🏪 ¿Tenés un petshop, veterinaria o comercio de alimento balanceado?
 
 Trabajá con 12 marcas a través de un solo contacto.
 

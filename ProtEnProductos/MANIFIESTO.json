@@ -1,0 +1,570 @@
+[
+  {
+    "producto_id": "fawna-cachorro-pequeno",
+    "marca": "Fawna",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-fawna-cachorro-pequeno-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Fawna/Perros/ayres-producto-fawna-cachorro-pequeno-1080x1350.png",
+    "sha256": "560ab8c1d43756226baea2cbd0f96430451b3233d2f187745c8798e8a86d018c"
+  },
+  {
+    "producto_id": "fawna-adulto-pequeno",
+    "marca": "Fawna",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-fawna-adulto-pequeno-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Fawna/Perros/ayres-producto-fawna-adulto-pequeno-1080x1350.png",
+    "sha256": "1d9708d07ce893f5bb6fc7a0b3a09e39a5af4e46af8f8bb2c390d25513610fe3"
+  },
+  {
+    "producto_id": "fawna-cachorro-mediano-grande",
+    "marca": "Fawna",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-fawna-cachorro-mediano-grande-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Fawna/Perros/ayres-producto-fawna-cachorro-mediano-grande-1080x1350.png",
+    "sha256": "18de7112349079a86e831bcc3e7d290154bba77f2a8c1c456a9665bc670fb840"
+  },
+  {
+    "producto_id": "fawna-adulto-mediano-grande",
+    "marca": "Fawna",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-fawna-adulto-mediano-grande-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Fawna/Perros/ayres-producto-fawna-adulto-mediano-grande-1080x1350.png",
+    "sha256": "8b61b31306fb45c4f58899c69ee3dbbe334652587429909b748af7c2d89998aa"
+  },
+  {
+    "producto_id": "fawna-adulto-light",
+    "marca": "Fawna",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-fawna-adulto-light-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Fawna/Perros/ayres-producto-fawna-adulto-light-1080x1350.png",
+    "sha256": "fcaa2e91a7173062b8b6d13168bb35a7c44533e0c5f57b57ae0aff40c0c474e4"
+  },
+  {
+    "producto_id": "fawna-adulto-senior",
+    "marca": "Fawna",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-fawna-adulto-senior-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Fawna/Perros/ayres-producto-fawna-adulto-senior-1080x1350.png",
+    "sha256": "4cf80c2f7a49c02aefb6abb2b8a3242dbaf07c05e6e2698d848a730a295a3ac0"
+  },
+  {
+    "producto_id": "fawna-gatito",
+    "marca": "Fawna",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-fawna-gatito-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Fawna/Gatos/ayres-producto-fawna-gatito-1080x1350.png",
+    "sha256": "e3a324e49c53bd005697e8e175ea0281dbb1a8647e95bab733776fb1171a0e8e"
+  },
+  {
+    "producto_id": "fawna-gato-adulto",
+    "marca": "Fawna",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-fawna-gato-adulto-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Fawna/Gatos/ayres-producto-fawna-gato-adulto-1080x1350.png",
+    "sha256": "7f04a3f772de96dde5cf99d258ced54046045c8d77d6a526714a07e95bc799b5"
+  },
+  {
+    "producto_id": "fawna-gato-esterilizado",
+    "marca": "Fawna",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-fawna-gato-esterilizado-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Fawna/Gatos/ayres-producto-fawna-gato-esterilizado-1080x1350.png",
+    "sha256": "73e86eddbefc5b4732d7eb1f425b9aeee07d1769273d86bbf166f922e428929a"
+  },
+  {
+    "producto_id": "fawna-gato-urinario",
+    "marca": "Fawna",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-fawna-gato-urinario-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Fawna/Gatos/ayres-producto-fawna-gato-urinario-1080x1350.png",
+    "sha256": "b6e5a378514a4b7afdbf23aa9460c50058c8aded49fac21f70e532358ecc0d58"
+  },
+  {
+    "producto_id": "op-pn-lamb-puppy-all",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-pn-lamb-puppy-all-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Perros/ayres-producto-op-pn-lamb-puppy-all-1080x1350.png",
+    "sha256": "6762d0913a83282942e748c5085525c4b597349ad0844b415fefea6816b38b34"
+  },
+  {
+    "producto_id": "op-pn-lamb-adult-small",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-pn-lamb-adult-small-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Perros/ayres-producto-op-pn-lamb-adult-small-1080x1350.png",
+    "sha256": "4fb92e8799e89e172236b19b2aaec0ab530ef2343b105fd5dd7add73eedd5740"
+  },
+  {
+    "producto_id": "op-pn-lamb-adult-medlarge",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-pn-lamb-adult-medlarge-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Perros/ayres-producto-op-pn-lamb-adult-medlarge-1080x1350.png",
+    "sha256": "04397e23cf20162dae55dc8c424bd3e286a7aadc07c5d94bd0cb31cb2cf990c4"
+  },
+  {
+    "producto_id": "op-pn-swine-adult-all",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-pn-swine-adult-all-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Perros/ayres-producto-op-pn-swine-adult-all-1080x1350.png",
+    "sha256": "deac83212abcb762ca7a0d1c1751a5bed1bc5cee846e165a74dafc241516e4ac"
+  },
+  {
+    "producto_id": "op-pn-lamb-senior",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-pn-lamb-senior-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Perros/ayres-producto-op-pn-lamb-senior-1080x1350.png",
+    "sha256": "b4508072cc1259bd308fa4a36be782e6a394085daefed360d269224e158e0e2f"
+  },
+  {
+    "producto_id": "op-pn-lamb-light",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-pn-lamb-light-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Perros/ayres-producto-op-pn-lamb-light-1080x1350.png",
+    "sha256": "27092106cd29dd7b1cd613b843574d6499b5005d34efb2e7f2152383bcf6f997"
+  },
+  {
+    "producto_id": "op-eq-cachorro-pequenas",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-eq-cachorro-pequenas-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Perros/ayres-producto-op-eq-cachorro-pequenas-1080x1350.png",
+    "sha256": "ee84a26d032226d8378f0c5f35cc9535fe3aa407684df3e122716b551e91dd6d"
+  },
+  {
+    "producto_id": "op-eq-adulto-pequenas",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-eq-adulto-pequenas-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Perros/ayres-producto-op-eq-adulto-pequenas-1080x1350.png",
+    "sha256": "e09a72e0d8ab8fee313bfd8edbc7f7d8f72e77e63c8cc92404ad499984a6e015"
+  },
+  {
+    "producto_id": "op-eq-cachorro-medlarge",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-eq-cachorro-medlarge-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Perros/ayres-producto-op-eq-cachorro-medlarge-1080x1350.png",
+    "sha256": "c5913c1070e73be5e2ecb68102a5b307141788d50b00036e0ded33f489556914"
+  },
+  {
+    "producto_id": "op-eq-adulto-medlarge",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-eq-adulto-medlarge-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Perros/ayres-producto-op-eq-adulto-medlarge-1080x1350.png",
+    "sha256": "beda3fdd32efe15edcab5c2430dd1ac2311b41cd048eaae821d0d27240cee213"
+  },
+  {
+    "producto_id": "op-eq-control-peso",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-eq-control-peso-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Perros/ayres-producto-op-eq-control-peso-1080x1350.png",
+    "sha256": "b72cc8e3bff2d2817c07c0c90d797308eb35f357a8bce513f4b87b9f0d784b39"
+  },
+  {
+    "producto_id": "op-prem-adulto-pollo-carne",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-prem-adulto-pollo-carne-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Perros/ayres-producto-op-prem-adulto-pollo-carne-1080x1350.png",
+    "sha256": "5548d5fd295224abd8a7297943a8fc7387f51e504c4e9ae850f0f7d02d2fb920"
+  },
+  {
+    "producto_id": "op-prem-cachorro-pollo-carne",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-prem-cachorro-pollo-carne-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Perros/ayres-producto-op-prem-cachorro-pollo-carne-1080x1350.png",
+    "sha256": "105bbb112755a90bdebe336d63c577f33562b76fbc69b7b2f5e4ef3417e25da4"
+  },
+  {
+    "producto_id": "op-prem-adulto-cordero",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-prem-adulto-cordero-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Perros/ayres-producto-op-prem-adulto-cordero-1080x1350.png",
+    "sha256": "3d85b9345e2b5e09f07565b677e7d0ea5fc6259a9cd475dff5cbfa84c8cdfc11"
+  },
+  {
+    "producto_id": "op-pn-kitten",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-pn-kitten-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Gatos/ayres-producto-op-pn-kitten-1080x1350.png",
+    "sha256": "71df320ce5930c4d5d5e075b9b5b9bc9a8f0214769bf15fc27cdb5e53527740f"
+  },
+  {
+    "producto_id": "op-pn-adulto-gato",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-pn-adulto-gato-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Gatos/ayres-producto-op-pn-adulto-gato-1080x1350.png",
+    "sha256": "8d434df48403f8e7f4f03c07b4d5a7b243e9f7c686cb72cd4f82d1d3b57cffc9"
+  },
+  {
+    "producto_id": "op-pn-esterilizado-gato",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-pn-esterilizado-gato-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Gatos/ayres-producto-op-pn-esterilizado-gato-1080x1350.png",
+    "sha256": "1c5807a07e80f6563021a7222aec9d69f41e27222ba0fe337d72576365738ec4"
+  },
+  {
+    "producto_id": "op-eq-gatito",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-eq-gatito-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Gatos/ayres-producto-op-eq-gatito-1080x1350.png",
+    "sha256": "3a540b66df39c5c910ee29d68dc740c8c230df4a97144f52954ce38b0f4d3d50"
+  },
+  {
+    "producto_id": "op-eq-adulto-gato",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-eq-adulto-gato-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Gatos/ayres-producto-op-eq-adulto-gato-1080x1350.png",
+    "sha256": "3ed635436df4a9c4875b709b93b39133959fbdd664a54105603108c0359de9f4"
+  },
+  {
+    "producto_id": "op-eq-urinario-gato",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-eq-urinario-gato-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Gatos/ayres-producto-op-eq-urinario-gato-1080x1350.png",
+    "sha256": "3cd3671c9ee399ba118584faf18b915745d3cd9a1833cb69e6cf178ef7b7da54"
+  },
+  {
+    "producto_id": "op-eq-esterilizado-gato",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-eq-esterilizado-gato-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Gatos/ayres-producto-op-eq-esterilizado-gato-1080x1350.png",
+    "sha256": "0cf9ef3f48fdd9701c2ad1b76aa8202bf12e89c3bfb7861a4ceadabba18eb727"
+  },
+  {
+    "producto_id": "op-prem-adulto-gato",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-prem-adulto-gato-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Gatos/ayres-producto-op-prem-adulto-gato-1080x1350.png",
+    "sha256": "990d50be8eef5c5e61f42732cc4a813671f11283e24528b5844bd39d77a12038"
+  },
+  {
+    "producto_id": "op-prem-gatito",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-prem-gatito-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Gatos/ayres-producto-op-prem-gatito-1080x1350.png",
+    "sha256": "d88aff6bd29400e22939983930e85ccf86d229af273da187dc12d00e166d4290"
+  },
+  {
+    "producto_id": "op-prem-gato-cordero",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-prem-gato-cordero-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Gatos/ayres-producto-op-prem-gato-cordero-1080x1350.png",
+    "sha256": "ac72cd829b4ee51d3003a63cf12fd789449f24e7ebc141ea553b71b6056cfe9a"
+  },
+  {
+    "producto_id": "op-prem-gato-urinario",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-op-prem-gato-urinario-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Old-Prince/Gatos/ayres-producto-op-prem-gato-urinario-1080x1350.png",
+    "sha256": "eb6a3888a32d1826e2345d023cd234f149d857d18aed4daf3651ae7be894a443"
+  },
+  {
+    "producto_id": "maintenance-criadores-cachorro",
+    "marca": "Maintenance",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-maintenance-criadores-cachorro-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Maintenance/Perros/ayres-producto-maintenance-criadores-cachorro-1080x1350.png",
+    "sha256": "d422516f1319322ee7d366dc7b609344914535de6ac94eaa557b92a08d9b307c"
+  },
+  {
+    "producto_id": "maintenance-criadores-adulto",
+    "marca": "Maintenance",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-maintenance-criadores-adulto-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Maintenance/Perros/ayres-producto-maintenance-criadores-adulto-1080x1350.png",
+    "sha256": "d122c531be0890e25dbe3801e74a9e48b62f01372e83c278bf33839eed579009"
+  },
+  {
+    "producto_id": "maintenance-criadores-adulto-razas-pequenas",
+    "marca": "Maintenance",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-maintenance-criadores-adulto-razas-pequenas-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Maintenance/Perros/ayres-producto-maintenance-criadores-adulto-razas-pequenas-1080x1350.png",
+    "sha256": "5cac945171a98112e17b3721b807ddf8c6b7f4208d13109404656f96f8611e78"
+  },
+  {
+    "producto_id": "maintenance-criadores-gatos-adultos",
+    "marca": "Maintenance",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-maintenance-criadores-gatos-adultos-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Maintenance/Gatos/ayres-producto-maintenance-criadores-gatos-adultos-1080x1350.png",
+    "sha256": "8a19b84f05aaef8fb8df9fe557a41d5ebac37bcd60b27cf926c3a3ccd79adcfd"
+  },
+  {
+    "producto_id": "natural-meat-perros-cachorros",
+    "marca": "Natural Meat",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-natural-meat-perros-cachorros-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Natural-Meat/Perros/ayres-producto-natural-meat-perros-cachorros-1080x1350.png",
+    "sha256": "865fa268bd756caa4524c559d2aa16a77ce19b8d640fdaad6267fdcb8fe1d07d"
+  },
+  {
+    "producto_id": "natural-meat-perros-adultos",
+    "marca": "Natural Meat",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-natural-meat-perros-adultos-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Natural-Meat/Perros/ayres-producto-natural-meat-perros-adultos-1080x1350.png",
+    "sha256": "fd522eace6df697696e9b8efba19e415f55a80c6c6e17ea002fbdcaca026f8c6"
+  },
+  {
+    "producto_id": "company-cachorros",
+    "marca": "Company",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-company-cachorros-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Company/Perros/ayres-producto-company-cachorros-1080x1350.png",
+    "sha256": "a61eed0266e71022b97d1989d24c32b7f9633edaff0327baab4b569848f8b717"
+  },
+  {
+    "producto_id": "company-adultos",
+    "marca": "Company",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-company-adultos-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Company/Perros/ayres-producto-company-adultos-1080x1350.png",
+    "sha256": "27c8f2c168936c6d51f0d1461fd755bb8c6eb1b1757a39a015a28d05527497d6"
+  },
+  {
+    "producto_id": "company-gatitos",
+    "marca": "Company",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-company-gatitos-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Company/Gatos/ayres-producto-company-gatitos-1080x1350.png",
+    "sha256": "e9a85fe3dd3dba72ffc7b60d92c8fe41ce784c98e359c5d7259b1d559d330a7e"
+  },
+  {
+    "producto_id": "company-gatos-adultos",
+    "marca": "Company",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-company-gatos-adultos-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Company/Gatos/ayres-producto-company-gatos-adultos-1080x1350.png",
+    "sha256": "0264473a6d1ece505074b1e6555235e9609b528144a7dd2bca09d26d2b4da2c5"
+  },
+  {
+    "producto_id": "kongo-gold-adultos-medianos-grandes",
+    "marca": "Kongo",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-kongo-gold-adultos-medianos-grandes-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Kongo/Perros/ayres-producto-kongo-gold-adultos-medianos-grandes-1080x1350.png",
+    "sha256": "03b01209a1e567921199aae470fb4ca8852df16462376724c76d38d15be56d70"
+  },
+  {
+    "producto_id": "kongo-gold-cachorros-todas-razas",
+    "marca": "Kongo",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-kongo-gold-cachorros-todas-razas-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Kongo/Perros/ayres-producto-kongo-gold-cachorros-todas-razas-1080x1350.png",
+    "sha256": "40d51e6805bcb7a38c82b70d279d32419c07e6eb9aae2f7bdf32b94984f2a9eb"
+  },
+  {
+    "producto_id": "kongo-gold-adultos-razas-pequenas",
+    "marca": "Kongo",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-kongo-gold-adultos-razas-pequenas-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Kongo/Perros/ayres-producto-kongo-gold-adultos-razas-pequenas-1080x1350.png",
+    "sha256": "67f52a52e8977fc22da82af14b776a9c46f9fa1473081811161053ba718bad17"
+  },
+  {
+    "producto_id": "kongo-cachorros-todas-razas",
+    "marca": "Kongo",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-kongo-cachorros-todas-razas-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Kongo/Perros/ayres-producto-kongo-cachorros-todas-razas-1080x1350.png",
+    "sha256": "8378e0e96bff00538a2da947263b078ab2b982f7d2974e13e6aa201d7a09c1ea"
+  },
+  {
+    "producto_id": "kongo-adultos-medianos-grandes",
+    "marca": "Kongo",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-kongo-adultos-medianos-grandes-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Kongo/Perros/ayres-producto-kongo-adultos-medianos-grandes-1080x1350.png",
+    "sha256": "ab88d3726a8a22fc97f7faa550d27e146ecb5db9babbe9832e22025f9ed042af"
+  },
+  {
+    "producto_id": "kongo-adultos-razas-pequenas",
+    "marca": "Kongo",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-kongo-adultos-razas-pequenas-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Kongo/Perros/ayres-producto-kongo-adultos-razas-pequenas-1080x1350.png",
+    "sha256": "0f218a5380e55cf0ebd00d5f83b5c649a5520d12e025f60699cd03ddc05da334"
+  },
+  {
+    "producto_id": "kongo-gatitos-carne-leche",
+    "marca": "Kongo",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-kongo-gatitos-carne-leche-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Kongo/Gatos/ayres-producto-kongo-gatitos-carne-leche-1080x1350.png",
+    "sha256": "9daca260263bfd3eb0003ace32ab2aa7344378cc0da26256f71950c4e642f1b5"
+  },
+  {
+    "producto_id": "kongo-gatos-adultos-salmon-atun",
+    "marca": "Kongo",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-kongo-gatos-adultos-salmon-atun-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Kongo/Gatos/ayres-producto-kongo-gatos-adultos-salmon-atun-1080x1350.png",
+    "sha256": "e8d6651501d7290055a19c736651bc854056daf730f395e605d5bde8093dbcc2"
+  },
+  {
+    "producto_id": "kongo-gatos-adultos-carne-pollo",
+    "marca": "Kongo",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-kongo-gatos-adultos-carne-pollo-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Kongo/Gatos/ayres-producto-kongo-gatos-adultos-carne-pollo-1080x1350.png",
+    "sha256": "820d71dc551ac734f7e1ae4b3c054f52cf05988d150bc5db6ebf458574c7fcaa"
+  },
+  {
+    "producto_id": "voraz-perros-cachorros",
+    "marca": "Voraz",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-voraz-perros-cachorros-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Voraz/Perros/ayres-producto-voraz-perros-cachorros-1080x1350.png",
+    "sha256": "1f75c335b01076b7ea65efafd67a528d85024d8e01e5dd28400c63a8d7c8b6b3"
+  },
+  {
+    "producto_id": "voraz-perros-adultos-carne",
+    "marca": "Voraz",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-voraz-perros-adultos-carne-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Voraz/Perros/ayres-producto-voraz-perros-adultos-carne-1080x1350.png",
+    "sha256": "9608400f860e8ad6d4498d1df3e51e86b23400ece3faf71946233795c5b1e302"
+  },
+  {
+    "producto_id": "voraz-perros-adultos-pollo-arroz",
+    "marca": "Voraz",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-voraz-perros-adultos-pollo-arroz-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Voraz/Perros/ayres-producto-voraz-perros-adultos-pollo-arroz-1080x1350.png",
+    "sha256": "f36f043cf4f812bcedbb61d78451d8aef5c788f89a97f05a39a3fb3064da7f58"
+  },
+  {
+    "producto_id": "voraz-perros-adultos-mix-carne-pollo-vegetales",
+    "marca": "Voraz",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-voraz-perros-adultos-mix-carne-pollo-vegetales-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Voraz/Perros/ayres-producto-voraz-perros-adultos-mix-carne-pollo-vegetales-1080x1350.png",
+    "sha256": "e34b7e8f8191af88456c9d516a98e10dd7abf55fe8d2aba6e95fe34740076f90"
+  },
+  {
+    "producto_id": "voraz-gatito",
+    "marca": "Voraz",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-voraz-gatito-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Voraz/Gatos/ayres-producto-voraz-gatito-1080x1350.png",
+    "sha256": "abae4d873011a5cd089378ece45440a5bd1d564d804cf7dc053a1f6efa25bb93"
+  },
+  {
+    "producto_id": "voraz-gatos-adultos",
+    "marca": "Voraz",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-voraz-gatos-adultos-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Voraz/Gatos/ayres-producto-voraz-gatos-adultos-1080x1350.png",
+    "sha256": "343ed50cd4f58e6dbb4a565210c6b59ed49ec739549f5e8458ef77ec084ffb82"
+  },
+  {
+    "producto_id": "carnix-perros-adultos",
+    "marca": "Carnix",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-carnix-perros-adultos-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Carnix/Perros/ayres-producto-carnix-perros-adultos-1080x1350.png",
+    "sha256": "c5acd08726c9d592c94328c87e78ed2c821ab43155b6193194389015b55dc3e7"
+  },
+  {
+    "producto_id": "cereales-perros-adultos",
+    "marca": "Cereales",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-cereales-perros-adultos-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Cereales/Perros/ayres-producto-cereales-perros-adultos-1080x1350.png",
+    "sha256": "b777c5e8e28bf1f9205560e294d76fece16f2ce48df3b11012366a055f1d974b"
+  },
+  {
+    "producto_id": "caudillo-perros-adultos",
+    "marca": "Caudillo",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-caudillo-perros-adultos-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Caudillo/Perros/ayres-producto-caudillo-perros-adultos-1080x1350.png",
+    "sha256": "f0e2f5a5f961068a3a683d698c8ef32622a8d8edb77aa667215ad2372f3c00f0"
+  },
+  {
+    "producto_id": "origen-company-perro-cachorro",
+    "marca": "Origen by Company",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-origen-company-perro-cachorro-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Origen-by-Company/Perros/ayres-producto-origen-company-perro-cachorro-1080x1350.png",
+    "sha256": "0a16ae411017708121a6c3d4300c6d3c2518c16970dbfbf2137929e8de5a4b6c"
+  },
+  {
+    "producto_id": "origen-company-perro-adulto",
+    "marca": "Origen by Company",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-origen-company-perro-adulto-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Origen-by-Company/Perros/ayres-producto-origen-company-perro-adulto-1080x1350.png",
+    "sha256": "98494fa7a26547b0662a6cbbf5e1abc50e219c0edf8842ba061a38047ff108a3"
+  },
+  {
+    "producto_id": "origen-company-gato-adulto",
+    "marca": "Origen by Company",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-origen-company-gato-adulto-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/Origen-by-Company/Gatos/ayres-producto-origen-company-gato-adulto-1080x1350.png",
+    "sha256": "3cc5ee60454e67fc2e592a88b47051428874b8d9e44f2fed50ba791650131f61"
+  },
+  {
+    "producto_id": "high-pro-criadores-perros-adultos",
+    "marca": "High Pro Criadores",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-high-pro-criadores-perros-adultos-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/High-Pro-Criadores/Perros/ayres-producto-high-pro-criadores-perros-adultos-1080x1350.png",
+    "sha256": "6984c86228833e367b3dd9352af5dbaf4189601444e6e266b6ac26daf1b4eb69"
+  },
+  {
+    "producto_id": "high-pro-criadores-cordero-perros-adultos",
+    "marca": "High Pro Criadores",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-high-pro-criadores-cordero-perros-adultos-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/High-Pro-Criadores/Perros/ayres-producto-high-pro-criadores-cordero-perros-adultos-1080x1350.png",
+    "sha256": "17aa5262ce49f1143799f43498ab2cf804aceaa11c9a7c9ce27ef05fa1528cde"
+  },
+  {
+    "producto_id": "high-pro-criadores-cordero-perros-adultos-pequenos",
+    "marca": "High Pro Criadores",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-high-pro-criadores-cordero-perros-adultos-pequenos-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/High-Pro-Criadores/Perros/ayres-producto-high-pro-criadores-cordero-perros-adultos-pequenos-1080x1350.png",
+    "sha256": "cfd8f46597d6e1765d745132a2676b0b1ded94d03cb9968bd30f312cbf1ec856"
+  },
+  {
+    "producto_id": "high-pro-criadores-cordero-perros-cachorros",
+    "marca": "High Pro Criadores",
+    "especie": "Perros",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-high-pro-criadores-cordero-perros-cachorros-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/High-Pro-Criadores/Perros/ayres-producto-high-pro-criadores-cordero-perros-cachorros-1080x1350.png",
+    "sha256": "81992985b62645be448d36a459cc72b301f973ae0fde326e89d2eb788a69d708"
+  },
+  {
+    "producto_id": "high-pro-criadores-gato-adulto",
+    "marca": "High Pro Criadores",
+    "especie": "Gatos",
+    "original": "social/2026/pruebas-productos-ayres/output/productos/ayres-producto-high-pro-criadores-gato-adulto-1080x1350.png",
+    "copia_ordenada": "ProtEnProductos/High-Pro-Criadores/Gatos/ayres-producto-high-pro-criadores-gato-adulto-1080x1350.png",
+    "sha256": "da1342e5beebe632995182b606a1f8d7b5d96061aa432609bb31cc071ac04ac5"
+  }
+]

@@ -1,0 +1,7 @@
+@import url("../historias-gatos-alta-proteina/story.css");
+
+/* Ajustes exclusivos para las proporciones de los envases caninos. */
+.presentation .product-1 img{height:690px}
+.presentation .product-2 img{height:700px}
+.presentation .product-3 img{height:675px}
+.presentation .product-4 img{height:690px}

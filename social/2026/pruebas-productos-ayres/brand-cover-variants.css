@@ -1,0 +1,70 @@
+.variant-v02{--accent:#287d87;background:linear-gradient(90deg,#eff4e8 0 50%,#e6f0f3 50%)}
+.variant-v02:before{position:absolute;top:0;bottom:0;left:50%;width:1px;background:rgba(23,37,41,.13);content:""}
+.variant-v02 .intro{top:215px;right:76px;left:76px;text-align:center}
+.variant-v02 .intro h1{font-size:66px}
+.variant-v02 .intro h2{font-size:19px}
+.variant-v02 .logos{top:454px;right:300px;left:300px;justify-content:center;gap:18px}
+.variant-v02 .logo-card{width:210px;height:76px;padding:17px 28px;border-radius:18px}
+.variant-v02 .labels{top:568px;right:76px;left:76px;display:flex;justify-content:space-around}
+.variant-v02 .label{width:310px;padding:12px 0;border-top:3px solid var(--accent);font:18px Arboria;letter-spacing:3px;text-align:center}
+.variant-v02 .products{right:0;bottom:115px;left:0;height:650px}
+.variant-v02 .pack-1{bottom:82px;left:42px;height:470px;transform:rotate(-3deg)}
+.variant-v02 .pack-2{bottom:75px;left:262px;height:430px;transform:rotate(3deg)}
+.variant-v02 .pack-3{right:255px;bottom:75px;height:445px;transform:rotate(-3deg)}
+.variant-v02 .pack-4{right:38px;bottom:82px;height:465px;transform:rotate(3deg)}
+
+.variant-v03{--accent:#c27a38;background:linear-gradient(145deg,#f8f1e8,#edeae2)}
+.variant-v03 .ambient-one{top:220px;left:70px;width:370px;height:370px;background:radial-gradient(circle,rgba(230,177,77,.22),transparent 68%)}
+.variant-v03 .ambient-two{top:400px;right:20px;width:390px;height:390px;background:radial-gradient(circle,rgba(61,184,112,.17),transparent 70%)}
+.variant-v03 .intro{top:208px;left:76px}
+.variant-v03 .intro h1{font-size:71px}
+.variant-v03 .intro h2{font-size:19px}
+.variant-v03 .logos{top:455px;right:76px;gap:12px}
+.variant-v03 .logo-card{width:164px;height:68px;padding:15px 22px;border-radius:15px}
+.variant-v03 .labels{top:570px;right:76px;left:76px;display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.variant-v03 .label{padding:16px;border-bottom:3px solid var(--accent);background:rgba(255,255,255,.48);font:17px Arboria;letter-spacing:2px;text-align:center}
+.variant-v03 .products{right:55px;bottom:120px;left:55px;height:620px}
+.variant-v03 .products:before{position:absolute;right:10px;bottom:78px;left:10px;height:70px;border-radius:50%;background:rgba(23,37,41,.18);filter:blur(28px);content:""}
+.variant-v03 .pack-1{bottom:65px;left:40px;height:400px}
+.variant-v03 .pack-2{bottom:65px;left:337px;height:470px}
+.variant-v03 .pack-3{right:33px;bottom:65px;height:420px}
+
+.variant-v04{--accent:#c92d46;background:linear-gradient(160deg,#fff3ee 0%,#eeeae4 62%,#e3eee9 100%)}
+.variant-v04:before{position:absolute;right:-80px;bottom:125px;width:760px;height:760px;border:160px solid rgba(201,45,70,.08);border-radius:50%;content:""}
+.variant-v04 .intro{top:218px;right:76px;left:76px}
+.variant-v04 .intro h1{max-width:760px;font-size:74px}
+.variant-v04 .intro h2{font-size:19px}
+.variant-v04 .logos{top:480px;left:76px;gap:14px}
+.variant-v04 .logo-card{width:205px;height:76px;padding:17px 25px;border:1px solid rgba(23,37,41,.08);border-radius:38px}
+.variant-v04 .labels{top:595px;left:76px;display:grid;gap:10px}
+.variant-v04 .label{width:max-content;padding:10px 16px;border-radius:99px;background:var(--dark);color:#fff;font:13px Arboria;letter-spacing:1.5px}
+.variant-v04 .products{right:0;bottom:115px;left:0;height:710px}
+.variant-v04 .pack-1{bottom:70px;left:35px;height:470px;transform:rotate(-4deg)}
+.variant-v04 .pack-2{bottom:72px;left:350px;height:610px}
+.variant-v04 .pack-3{right:40px;bottom:70px;height:490px;transform:rotate(4deg)}
+
+.variant-v05{--accent:#3db870;background:linear-gradient(145deg,#f5f3ed,#e7e9e3)}
+.variant-v05 .intro{top:215px;left:76px;width:740px}
+.variant-v05 .intro h1{font-size:68px}
+.variant-v05 .intro h2{font-size:19px}
+.variant-v05 .stats{top:480px;right:76px;left:76px;display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.variant-v05 .stat{display:flex;height:155px;align-items:center;justify-content:center;border:1px solid rgba(23,37,41,.1);border-radius:50%;background:rgba(255,255,255,.58);color:var(--accent);font:70px Arboria;letter-spacing:-4px}
+.variant-v05 .stat:after{margin-left:12px;color:#56666a;font:12px/1.15 Arboria;letter-spacing:1.3px;white-space:pre;content:"PROTEÍNA\A MÍNIMA"}
+.variant-v05 .products{right:30px;bottom:110px;left:30px;height:620px}
+.variant-v05 .products:before{position:absolute;right:30px;bottom:75px;left:30px;height:80px;border-radius:50%;background:rgba(23,37,41,.18);filter:blur(30px);content:""}
+.variant-v05 .pack-1{bottom:82px;left:45px;height:480px;transform:rotate(-3deg)}
+.variant-v05 .pack-2{bottom:78px;left:365px;height:530px}
+.variant-v05 .pack-3{right:38px;bottom:82px;height:480px;transform:rotate(3deg)}
+
+.variant-v06{--accent:#506c45;background:linear-gradient(145deg,#f7f5ef 0%,#e5eee5 100%)}
+.variant-v06 .ambient-one{right:-80px;bottom:170px;width:650px;height:650px;background:radial-gradient(circle,rgba(61,184,112,.24),transparent 67%)}
+.variant-v06 .intro{top:210px;left:76px;width:820px}
+.variant-v06 .intro h1{font-size:72px}
+.variant-v06 .intro h2{font-size:19px}
+.variant-v06 .logos{top:467px;right:76px;left:76px;display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.variant-v06 .logo-card{height:72px;padding:15px 24px;border:1px solid rgba(23,37,41,.07);border-radius:15px}
+.variant-v06 .products{right:0;bottom:115px;left:0;height:595px}
+.variant-v06 .products:before{position:absolute;right:95px;bottom:80px;left:95px;height:80px;border-radius:50%;background:rgba(23,37,41,.18);filter:blur(30px);content:""}
+.variant-v06 .pack-1{bottom:85px;left:130px;height:390px;transform:rotate(-3deg)}
+.variant-v06 .pack-2{bottom:80px;left:395px;height:480px}
+.variant-v06 .pack-3{right:105px;bottom:85px;height:400px;transform:rotate(3deg)}

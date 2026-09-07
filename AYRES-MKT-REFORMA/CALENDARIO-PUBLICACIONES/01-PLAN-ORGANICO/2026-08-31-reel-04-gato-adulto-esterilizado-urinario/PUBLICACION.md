@@ -54,7 +54,7 @@ Adulto, esterilizado y urinario: los tres son para gatos adultos, pero no tienen
 
 💬 Dejanos un comentario con la palabra CATALOGO y te enviamos la lista de precios mayoristas por privado.
 
-#PetShopCordoba #MayoristaCordoba #DistribuidoraCordoba #AlimentoBalanceado #PiedrasSanitarias #VeterinariasCordoba #CordobaCapital #RioCuarto #VillaMaria #CarlosPaz
+#PetshopCordoba #MayoristaCordoba #DistribuidoraCordoba #AlimentoBalanceado #PiedrasSanitarias #VeterinariasCordoba #CordobaCapital #RioCuarto #VillaMaria #CarlosPaz
 
 ## Instrucciones de subida (paso a paso)
 

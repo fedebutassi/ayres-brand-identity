@@ -1,0 +1,24 @@
+.photo-info::after {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background: linear-gradient(90deg, rgba(27,33,37,.98), rgba(27,33,37,.93) 66%, rgba(27,33,37,.12) 92%);
+  content: "";
+}
+
+.photo-info section { z-index: 3; right: 300px; }
+.energy .photo { object-position: 68% center; }
+.dha .photo { object-position: 69% center; }
+.multihome .photo { object-position: 66% center; }
+
+.multihome section {
+  position: absolute;
+  top: 245px;
+  right: auto;
+  left: 84px;
+  width: 610px;
+}
+
+.multihome h2 { font-size: 65px; }
+.multihome .steps { margin-top: 58px; }
+.multihome .steps p { color: var(--d); }

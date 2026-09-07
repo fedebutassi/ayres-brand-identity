@@ -1,112 +1,69 @@
-# Typography — AYRES Pet Supply
+# Tipografía — AYRES Pet Supply
 
-## Font Families
+## Fuente de autoridad
 
-### Raleway — Headings & UI
-- **Source**: Google Fonts
-- **Weights loaded**: 300, 400, 500, 600, 700, 800, 900
-- **CSS variable**: `--font-h: 'Raleway', sans-serif`
-- **Character**: Geometric, elegant, modern sans-serif with distinctive letterforms (note the unique "W" and "A")
-- **Used for**: All headings, navigation links, buttons, tags/eyebrows, labels, CTAs
+La referencia principal es el **Manual de marca AYRES** suministrado por el cliente y revisado el 7 de agosto de 2026. El manual identifica:
 
-### Poppins — Body Text
-- **Source**: Google Fonts
-- **Weights loaded**: 300, 400, 500, 600, 700
-- **CSS variable**: `--font-b: 'Poppins', sans-serif`
-- **Character**: Geometric sans-serif, highly readable, friendly and approachable
-- **Used for**: Body paragraphs, descriptions, form inputs, metadata, captions
+- **Florensa Demo Regular** como tipografía principal.
+- **Arboria Bold** como tipografía secundaria.
 
-## Why This Pairing Works
+El responsable del proyecto confirmó **Arboria Black** como denominación oficial. Además, el archivo localizado declara internamente `Arboria-Black` como familia y nombre PostScript. Por lo tanto, **Arboria Black** es la secundaria operativa vigente; “Arboria Bold” se conserva como una inconsistencia de nomenclatura del PDF, no como un peso alternativo aprobado.
 
-Raleway and Poppins are both geometric sans-serifs but serve different roles:
-- **Raleway** brings **elegance and distinction** to headlines with its thinner strokes and wider letterforms
-- **Poppins** brings **warmth and readability** to body text with its rounder, more compact forms
-- Together they communicate: *premium but approachable*
+## Sistema oficial
 
-## Text Hierarchy
+### Florensa Demo Regular — principal
 
-### Hero Title
-- **Font**: Raleway
-- **Weight**: 900 (Black)
-- **Size**: `clamp(38px, 7vw, 80px)` — fluid from 38px mobile to 80px desktop
-- **Style**: Normal, no uppercase
-- **Color**: White (over dark hero overlay)
+- **Rol documentado:** tipografía principal del sistema de marca.
+- **Peso documentado:** Regular.
+- **Uso operativo:** primera opción para composiciones de marca y niveles principales cuando el manual o una pieza aprobada no indiquen otra cosa.
+- **Límite:** el manual no define una escala completa de tamaños ni asigna explícitamente cada componente digital.
 
-### Section Titles (H2)
-- **Font**: Raleway
-- **Weight**: 800-900 (ExtraBold/Black)
-- **Size**: `clamp(28px, 4vw, 46px)` — fluid from 28px to 46px
-- **Color**: `--dark` (`#3E484E`)
+### Arboria Black — secundaria
 
-### Tags / Eyebrows (above headings)
-- **Font**: Raleway
-- **Weight**: 700 (Bold)
-- **Size**: 11px
-- **Letter-spacing**: 3-4px
-- **Transform**: UPPERCASE
-- **Color**: `--green` (`#3DB870`)
-- **Example**: "NUESTRA EMPRESA", "NUTRICIÓN PREMIUM"
+- **Rol documentado:** tipografía secundaria del sistema de marca.
+- **Denominación confirmada por el responsable y el archivo:** Black.
+- **Rótulo inconsistente del manual:** Bold.
+- **Uso operativo:** apoyo y contraste dentro de la jerarquía, sin reemplazar automáticamente a Florensa como familia principal.
+- **Límite:** verificar licencia, versión y compatibilidad del archivo antes de preparar entregables finales o implementaciones web.
 
-### Navigation Links
-- **Font**: Raleway
-- **Weight**: 700 (Bold)
-- **Size**: 11px
-- **Letter-spacing**: 1.5px
-- **Transform**: UPPERCASE
-- **Color**: `--dark` → hover: `--green`
+## Jerarquía de uso
 
-### Buttons
-- **Font**: Raleway
-- **Weight**: 700 (Bold)
-- **Size**: 11px
-- **Letter-spacing**: 2px
-- **Transform**: UPPERCASE
-- **Padding**: 14px 32px (primary), 13px 28px (secondary)
+Hasta que exista una especificación tipográfica más detallada:
 
-### Body Text
-- **Font**: Poppins
-- **Weight**: 400 (Regular)
-- **Size**: 15-16px
-- **Line-height**: 1.75-1.85
-- **Color**: `--text` (`#3E484E`) or `--text-light` (`#7A8A92`)
+1. Usar Florensa Demo Regular como familia principal.
+2. Usar Arboria como familia secundaria de apoyo.
+3. No inventar pesos, cursivas o variantes que no estén disponibles o aprobadas.
+4. No deformar, condensar ni expandir caracteres para imitar otro peso.
+5. Verificar legibilidad, contraste, espaciado y tamaño en el formato real.
+6. Si una aplicación requiere texto extenso o una interfaz y las fuentes oficiales no ofrecen legibilidad o cobertura suficiente, solicitar una excepción antes de elegir una fuente auxiliar.
 
-### Small / Muted Text
-- **Font**: Poppins
-- **Weight**: 400-500
-- **Size**: 12-13px
-- **Color**: `--text-light` (`#7A8A92`)
+## Raleway y Poppins
 
-### Form Inputs
-- **Font**: Poppins
-- **Weight**: 400
-- **Size**: 16px (prevents iOS zoom on focus)
+Raleway y Poppins aparecen en implementaciones y piezas de producción del proyecto, pero **no son tipografías oficiales del manual de marca**.
 
-## Logo Typography
+- Preservar los materiales existentes que las utilicen.
+- No regenerar ni sobrescribir piezas históricas por iniciativa propia.
+- No emplearlas en piezas nuevas salvo excepción explícita y documentada.
+- No mezclar el sistema Florensa/Arboria con Raleway/Poppins dentro de una misma pieza sin aprobación visual.
 
-The logo uses a **custom geometric sans-serif** (not Raleway or Poppins):
-- **"AYRES"**: Wide, geometric letterforms with distinctive cuts — the "A" has no crossbar, the "R" has an open counter, the "E" and "S" have unique curves
-- **"PET SUPPLY"**: Same typeface, smaller size, wide letter-spacing
-- Both in uppercase
+## Logotipo
 
-## Key Typographic Patterns
+El logotipo debe utilizarse como arte aprobado desde [`assets/`](assets/); no debe reconstruirse escribiendo “AYRES” con ninguna fuente instalada. Respetar las versiones, proporciones y área de seguridad descritas en [`LOGO.md`](LOGO.md) y en el manual original.
 
-### Section Header Pattern
-```
-[TAG: Raleway 700, 11px, 3-4px spacing, UPPERCASE, green]
-↓ 6px gap
-[TITLE: Raleway 800-900, clamp(28-46px), dark]
-↓ 16px gap
-[DESCRIPTION: Poppins 400, 15-16px, line-height 1.75, text-light]
-```
+## Fuentes disponibles en materiales históricos
 
-### Card Pattern
-```
-[TITLE: Raleway 700, 18-20px, dark]
-[BODY: Poppins 400, 14-15px, text-light, line-height 1.75]
-```
+Se localizaron archivos de fuente dentro de una pieza histórica:
 
-### Stat/Metric Pattern
-```
-[NUMBER: Raleway 800, 36-44px, green or dark]
-[LABEL: Poppins 400, 13px, text-light]
-```
+- [`Florensa-Demo.ttf`](social/carrusel-14-gastritis-gatos/assets/Florensa-Demo.ttf)
+- [`Arboria-Black.ttf`](social/carrusel-14-gastritis-gatos/assets/Arboria-Black.ttf)
+
+Su presencia permite reproducibilidad técnica, pero no demuestra por sí sola licencia, versión, peso interno ni autorización para redistribuirlos. No moverlos ni tratarlos como repositorio maestro sin una decisión expresa.
+
+## Control final
+
+- Confirmar que Florensa Demo Regular es la principal y Arboria Black la secundaria.
+- No sustituir Arboria Black por Arboria Bold basándose sólo en el rótulo del PDF.
+- Evitar sustituciones silenciosas.
+- Comprobar acentos, eñes, números y signos necesarios en español.
+- Revisar legibilidad en tamaño real y miniatura.
+- Preservar originales y crear variantes sólo con autorización.

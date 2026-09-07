@@ -1,0 +1,21 @@
+@font-face{font-family:Florensa;src:url(../../social/carrusel-14-gastritis-gatos/assets/Florensa-Demo.ttf) format("truetype");font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:Arboria;src:url(../../social/carrusel-14-gastritis-gatos/assets/Arboria-Black.ttf) format("truetype");font-weight:900;font-style:normal;font-display:block}
+:root{--green:#3db870;--white:#fff;--display:Florensa,"Avenir Next",sans-serif;--ui:Arboria,"Arial Black",sans-serif}
+*{box-sizing:border-box}
+html,body,#story,.story{width:1080px;height:1920px;margin:0;overflow:hidden}
+html:not(.ready) #story{visibility:hidden}
+body{background:#20282c;font-synthesis:none;-webkit-font-smoothing:antialiased}
+.story{position:relative;isolation:isolate;color:var(--white);font-family:var(--display);background:#20282c}
+.photo{position:absolute;z-index:-3;inset:0;width:100%;height:100%;object-fit:cover}
+.overlay{position:absolute;z-index:-2;inset:0;background:linear-gradient(180deg,rgba(26,34,38,.94) 0%,rgba(26,34,38,.84) 38%,rgba(26,34,38,.64) 59%,rgba(26,34,38,.2) 82%,rgba(26,34,38,.52) 100%)}
+.overlay:after{position:absolute;inset:0;background:linear-gradient(90deg,rgba(22,29,32,.34),transparent 58%);content:""}
+.logo{position:absolute;top:150px;left:78px;width:195px;height:auto}
+.safe{position:absolute;inset:0 78px}
+.copy{position:absolute;top:345px;right:0;left:0}
+.eyebrow{margin-bottom:24px;color:var(--green);font:900 18px var(--ui);letter-spacing:4px;text-transform:uppercase}
+.eyebrow:after{display:block;width:52px;height:4px;margin-top:20px;background:var(--green);content:""}
+h1{max-width:920px;margin:0;font:400 78px/.98 var(--display);letter-spacing:-1px;text-transform:uppercase;text-shadow:0 3px 18px rgba(0,0,0,.28)}
+h1 em{color:var(--green);font-style:normal}
+.lede{max-width:730px;margin:28px 0 0;color:#dbe2e3;font:400 29px/1.4 var(--display);text-shadow:0 2px 12px rgba(0,0,0,.25)}
+.sticker-space{position:absolute;top:880px;right:95px;left:95px;height:250px}
+footer{position:absolute;right:0;bottom:245px;left:0;padding-top:24px;border-top:1px solid rgba(255,255,255,.34);color:#e2e8e9;font:900 14px var(--ui);letter-spacing:1px;text-shadow:0 2px 10px rgba(0,0,0,.4)}

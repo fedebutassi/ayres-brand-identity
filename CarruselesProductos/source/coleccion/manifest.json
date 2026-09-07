@@ -1,0 +1,158 @@
+[
+  {
+    "id": "01-gatos-alta-proteina",
+    "badge": "CARRUSEL 01 · 6 PLACAS",
+    "eyebrow": "GATOS · INFORMACIÓN NUTRICIONAL",
+    "title": "Gatos con alta\nproteína declarada",
+    "subtitle": "Cuatro marcas y sus valores informados en el envase.",
+    "accent": "#3db870",
+    "products": [
+      { "id": "fawna-gatito", "brand": "FAWNA", "protein": "39%", "line": "premium" },
+      { "id": "op-pn-kitten", "brand": "OLD PRINCE", "protein": "38%", "line": "premium" },
+      { "id": "company-gatitos", "brand": "COMPANY", "protein": "34%", "line": "premium" },
+      { "id": "kongo-gatitos-carne-leche", "brand": "KONGO", "protein": "34%", "line": "mainstream" }
+    ]
+  },
+  {
+    "id": "02-cachorros-cuatro-marcas",
+    "badge": "CARRUSEL 02 · 6 PLACAS",
+    "eyebrow": "PERROS · ETAPA CACHORRO",
+    "title": "Opciones para\ncachorros",
+    "subtitle": "Proteína, ingredientes y presentaciones de cuatro marcas.",
+    "accent": "#d87838",
+    "products": [
+      { "id": "fawna-cachorro-mediano-grande", "brand": "FAWNA", "protein": "33%", "line": "premium" },
+      { "id": "op-pn-lamb-puppy-all", "brand": "OLD PRINCE", "protein": "32%", "line": "premium" },
+      { "id": "natural-meat-perros-cachorros", "brand": "NATURAL MEAT", "protein": "27%", "line": "premium" },
+      { "id": "voraz-perros-cachorros", "brand": "VORAZ", "protein": "22%", "line": "mainstream" }
+    ]
+  },
+  {
+    "id": "03-adultos-razas-pequenas",
+    "badge": "CARRUSEL 03 · 6 PLACAS",
+    "eyebrow": "PERROS · RAZAS PEQUEÑAS",
+    "title": "Adultos de\nrazas pequeñas",
+    "subtitle": "Cuatro productos para recorrer y comparar.",
+    "accent": "#ab8733",
+    "products": [
+      { "id": "fawna-adulto-pequeno", "brand": "FAWNA", "protein": "33%", "line": "premium" },
+      { "id": "op-pn-lamb-adult-small", "brand": "OLD PRINCE", "protein": "32%", "line": "premium" },
+      { "id": "high-pro-criadores-cordero-perros-adultos-pequenos", "brand": "HIGH PRO", "protein": "25%", "line": "premium" },
+      { "id": "kongo-gold-adultos-razas-pequenas", "brand": "KONGO", "protein": "28%", "line": "mainstream" }
+    ]
+  },
+  {
+    "id": "04-gatos-adultos",
+    "badge": "CARRUSEL 04 · 6 PLACAS",
+    "eyebrow": "GATOS · ETAPA ADULTA",
+    "title": "Gatos adultos:\ncuatro alternativas",
+    "subtitle": "Información declarada para elegir con más contexto.",
+    "accent": "#cf2462",
+    "products": [
+      { "id": "fawna-gato-adulto", "brand": "FAWNA", "protein": "35%", "line": "premium" },
+      { "id": "op-prem-adulto-gato", "brand": "OLD PRINCE", "protein": "30%", "line": "premium" },
+      { "id": "origen-company-gato-adulto", "brand": "ORIGEN", "protein": "29%", "line": "premium" },
+      { "id": "voraz-gatos-adultos", "brand": "VORAZ", "protein": "26%", "line": "mainstream" }
+    ]
+  },
+  {
+    "id": "05-perros-adultos",
+    "badge": "CARRUSEL 05 · 6 PLACAS",
+    "eyebrow": "PERROS · ETAPA ADULTA",
+    "title": "Perros adultos:\ndistintas fórmulas",
+    "subtitle": "Cuatro marcas, composiciones y tamaños de envase.",
+    "accent": "#337f8a",
+    "products": [
+      { "id": "fawna-adulto-mediano-grande", "brand": "FAWNA", "protein": "31%", "line": "premium" },
+      { "id": "company-adultos", "brand": "COMPANY", "protein": "23%", "line": "premium" },
+      { "id": "maintenance-criadores-adulto", "brand": "MAINTENANCE", "protein": "20%", "line": "premium" },
+      { "id": "voraz-perros-adultos-mix-carne-pollo-vegetales", "brand": "VORAZ", "protein": "19%", "line": "mainstream" }
+    ]
+  },
+  {
+    "id": "06-proteinas-seleccionadas",
+    "badge": "CARRUSEL 06 · 6 PLACAS",
+    "eyebrow": "SELECCIÓN · CUATRO MARCAS",
+    "title": "Proteínas\nseleccionadas",
+    "subtitle": "Cordero y otras fórmulas para perros adultos.",
+    "accent": "#c76850",
+    "products": [
+      { "id": "op-prem-adulto-cordero", "brand": "OLD PRINCE", "protein": "25%", "line": "premium" },
+      { "id": "high-pro-criadores-cordero-perros-adultos", "brand": "HIGH PRO", "protein": "25%", "line": "premium" },
+      { "id": "natural-meat-perros-adultos", "brand": "NATURAL MEAT", "protein": "23%", "line": "premium" },
+      { "id": "fawna-adulto-light", "brand": "FAWNA", "protein": "33%", "line": "premium" }
+    ]
+  },
+  {
+    "id": "07-formatos-grandes",
+    "badge": "CARRUSEL 07 · 6 PLACAS",
+    "eyebrow": "PRESENTACIONES · HASTA 25 KG",
+    "title": "Formatos grandes\npara comparar",
+    "subtitle": "Productos con presentaciones de 20 kg o más.",
+    "accent": "#4c7794",
+    "products": [
+      { "id": "maintenance-criadores-adulto", "brand": "MAINTENANCE", "protein": "20%", "line": "premium" },
+      { "id": "company-adultos", "brand": "COMPANY", "protein": "23%", "line": "premium" },
+      { "id": "kongo-gold-adultos-medianos-grandes", "brand": "KONGO", "protein": "26%", "line": "mainstream" },
+      { "id": "voraz-perros-adultos-carne", "brand": "VORAZ", "protein": "18%", "line": "mainstream" }
+    ]
+  },
+  {
+    "id": "08-seleccion-mainstream",
+    "badge": "CARRUSEL 08 · 6 PLACAS",
+    "eyebrow": "SELECCIÓN AYRES · MAINSTREAM",
+    "title": "Opciones\nmainstream",
+    "subtitle": "Cuatro marcas con distintas composiciones declaradas.",
+    "accent": "#4c7794",
+    "products": [
+      { "id": "kongo-cachorros-todas-razas", "brand": "KONGO", "protein": "26%", "line": "mainstream" },
+      { "id": "voraz-perros-cachorros", "brand": "VORAZ", "protein": "22%", "line": "mainstream" },
+      { "id": "carnix-perros-adultos", "brand": "CARNIX", "protein": "18%", "line": "mainstream" },
+      { "id": "caudillo-perros-adultos", "brand": "CAUDILLO", "protein": "18%", "line": "mainstream" }
+    ]
+  },
+  {
+    "id": "09-premium-vs-mainstream-perros",
+    "badge": "CARRUSEL 09 · COMPARATIVA",
+    "eyebrow": "PERROS ADULTOS · DOS LÍNEAS",
+    "title": "Premium vs.\nmainstream",
+    "subtitle": "Dos productos Premium y dos Mainstream.",
+    "accent": "#3db870",
+    "comparison": true,
+    "products": [
+      { "id": "fawna-adulto-mediano-grande", "brand": "FAWNA", "protein": "31%", "line": "premium" },
+      { "id": "op-eq-adulto-medlarge", "brand": "OLD PRINCE", "protein": "26%", "line": "premium" },
+      { "id": "kongo-gold-adultos-medianos-grandes", "brand": "KONGO", "protein": "26%", "line": "mainstream" },
+      { "id": "voraz-perros-adultos-carne", "brand": "VORAZ", "protein": "18%", "line": "mainstream" }
+    ]
+  },
+  {
+    "id": "10-premium-vs-mainstream-gatos",
+    "badge": "CARRUSEL 10 · COMPARATIVA",
+    "eyebrow": "GATOS ADULTOS · DOS LÍNEAS",
+    "title": "Premium vs.\nmainstream",
+    "subtitle": "Dos productos Premium y dos Mainstream.",
+    "accent": "#3db870",
+    "comparison": true,
+    "products": [
+      { "id": "fawna-gato-adulto", "brand": "FAWNA", "protein": "35%", "line": "premium" },
+      { "id": "company-gatos-adultos", "brand": "COMPANY", "protein": "30%", "line": "premium" },
+      { "id": "kongo-gatos-adultos-salmon-atun", "brand": "KONGO", "protein": "30%", "line": "mainstream" },
+      { "id": "voraz-gatos-adultos", "brand": "VORAZ", "protein": "26%", "line": "mainstream" }
+    ]
+  },
+  {
+    "id": "11-perros-alta-proteina",
+    "badge": "CARRUSEL 11 · 6 PLACAS",
+    "eyebrow": "PERROS · INFORMACIÓN NUTRICIONAL",
+    "title": "Perros con alta\nproteína declarada",
+    "subtitle": "Cuatro marcas y sus valores informados en el envase.",
+    "accent": "#3db870",
+    "products": [
+      { "id": "fawna-cachorro-pequeno", "brand": "FAWNA", "protein": "34%", "line": "premium" },
+      { "id": "op-pn-lamb-puppy-all", "brand": "OLD PRINCE", "protein": "32%", "line": "premium" },
+      { "id": "company-cachorros", "brand": "COMPANY", "protein": "28%", "line": "premium" },
+      { "id": "kongo-gold-cachorros-todas-razas", "brand": "KONGO", "protein": "28%", "line": "mainstream" }
+    ]
+  }
+]

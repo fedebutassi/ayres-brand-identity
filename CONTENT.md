@@ -1,246 +1,193 @@
-# Brand Content & Copy — AYRES Pet Supply
+# Contenido y mensajes — AYRES Pet Supply
 
-All copy is in **Argentine Spanish** (voseo).
+Todo el contenido se redacta en **español argentino**, con voseo cálido, claro y profesional.
 
----
+Este documento define mensajes reutilizables y límites editoriales. No constituye aprobación automática para publicar una pieza, promoción o claim.
 
-## Navigation
+## Prioridad comunicacional
+
+1. AYRES es una distribuidora mayorista y la marca protagonista.
+2. El objetivo comercial principal es generar y acompañar clientes revendedores.
+3. El contenido educativo para tutores apoya alcance y confianza.
+4. La información de productos proviene de [`infoproductos/productos.json`](infoproductos/productos.json) y debe contrastarse con la etiqueta vigente.
+5. Las afirmaciones sensibles siguen [`governance/CLAIMS-POLICY.md`](governance/CLAIMS-POLICY.md).
+
+## Navegación sugerida
 
 - Empresa
 - Productos
 - Calidad
-- Distribuidores
+- Mayoristas
 - Novedades
 - Contacto
-- Acceso Distribuidores
+- Acceso para clientes
 
----
+## Mensaje institucional aprobado
 
-## Hero Section
+### Descripción breve
 
-**Tag**: (rotates with hero slider)
+> AYRES es una distribuidora mayorista de alimentos para mascotas con más de 10 años de trayectoria y cobertura en gran parte de la provincia de Córdoba.
 
-**H1**: (dynamic per slide — e.g., "Nutrición Premium", "Calidad que se siente", "Red de distribución")
+### Descripción ampliada
 
-**Subtitle**: (dynamic per slide)
+> En AYRES acompañamos a pet shops, veterinarias, comercios, supermercados y distribuidores con un catálogo amplio de alimentos para perros y gatos. Combinamos experiencia en el rubro, conocimiento de producto y atención comercial para ayudar a cada cliente a encontrar opciones adecuadas para su negocio.
 
-**CTAs**: "Ver productos", "Conocenos", "Nuestra calidad", "Contactanos"
+### Posicionamiento B2B
 
----
+> Distribución mayorista y acompañamiento comercial para revendedores de alimentos para mascotas en Córdoba.
 
-## About Section — "Nuestra Empresa"
+No reemplazar “gran parte de la provincia de Córdoba” por “todo Córdoba”, “alcance nacional” o una lista de localidades no validada.
 
-**Tag**: NUESTRA EMPRESA
+## Tagline
 
-**H2**: Comprometidos con el bienestar animal
+**“Para mascotas que son familia”**
 
-**Lead paragraph**:
-> La empresa AYRES comercializa productos de alta calidad para el bienestar y la nutrición de tu mascota, pensados con amor y respaldados por ciencia.
+El manual de marca utiliza esta frase en aplicaciones visuales. Funciona como expresión emocional B2C; acompañarla con un mensaje comercial claro cuando la pieza busque captar revendedores.
 
-**Expanded description**:
-> En AYRES creemos que las mascotas son parte de la familia. Por eso distribuimos productos con el máximo cuidado, utilizando ingredientes naturales seleccionados y procesos que garantizan la mejor nutrición y calidad de vida para tu compañero. Nuestro equipo de veterinarios y nutricionistas trabaja constantemente para ofrecer soluciones innovadoras que responden a las necesidades reales de cada mascota.
+## Arquitectura de mensajes
 
-### Four Pillars
+### 1. Trayectoria y confianza
 
-**1. Calidad certificada**
-> Cada lote es analizado bajo estrictos controles de calidad y normativa vigente.
+- **Aprobado:** “Más de 10 años de trayectoria en el rubro”.
+- **Evitar:** “Establecida en 2025”, “desde 2025” o una fecha de fundación no documentada.
+- **Descartado:** “est. 2025” no tiene relevancia para la comunicación de AYRES. No usar el texto ni la variante de sello que lo contiene.
 
-**2. 100% nacional**
-> Elaborado en Argentina con materias primas locales de primer nivel.
+### 2. Cobertura
 
-**3. Bienestar animal**
-> Formulaciones aprobadas por veterinarios especializados en nutrición.
+- **Aprobado:** “Distribuimos en gran parte de la provincia de Córdoba”.
+- **CTA recomendado:** consultar disponibilidad indicando la localidad.
+- **No aprobado:** cobertura nacional, todas las provincias, toda Córdoba o entrega garantizada en una localidad sin validación comercial.
 
-**4. Alcance nacional**
-> Red de distribución activa en todas las provincias argentinas.
+### 3. Catálogo
 
-### Stats
-- +10 Años de experiencia
-- +200 Distribuidores activos
-- +50 Productos en línea
-- 100% Natural y balanceado
+- El catálogo registra **71 productos** en su actualización del **16 de abril de 2026**.
+- “Más de 50 productos” es matemáticamente compatible, pero menos preciso.
+- Verificar versión del catálogo, stock y etiqueta vigente antes de publicar información crítica.
+- Mantener exactamente nombres, marcas, especies, etapas, presentaciones, ingredientes y análisis declarados.
 
----
+### 4. Red comercial
 
-## Product Lines
+- **Confirmado por el responsable:** “Más de 200 revendedores de AYRES”.
+- La cifra describe la red de clientes revendedores de AYRES; revisar periódicamente su vigencia antes de reutilizarla como estadística permanente.
+- No combinar la cifra con cobertura nacional por inferencia.
 
-### Especializados (Alta gama)
-**Tag**: ALTA GAMA
-**H3**: Especializados
-> Fórmulas premium desarrolladas con ingredientes seleccionados para necesidades específicas de salud y nutrición.
+### 5. Naturalidad
 
-**CTA**: "Ver línea"
+- “100% natural” puede corresponder a marcas específicas, no a todo el catálogo.
+- No usar el claim sin una fuente primaria vigente de la marca o producto concreto.
+- No transformar “natural” en “más saludable”, “sin riesgos”, “previene enfermedades” ni otra conclusión nutricional o clínica.
 
-### Masivos (Gran volumen)
-**Tag**: GRAN VOLUMEN
-**H3**: Masivos
-> Nutrición completa y accesible para quienes buscan calidad garantizada en grandes formatos y a precios competitivos.
+## Relación con el fabricante
 
-**CTA**: "Ver línea"
+AYRES debe ocupar el primer plano. Evitar nombrar a BAIRES en contenido institucional, comercial o educativo general.
 
-### Línea Canina (Para Perros)
-> Nutrición completa y balanceada para cada etapa de la vida de tu perro, desde cachorro hasta adulto mayor.
+La mención del fabricante se reserva para una atribución técnica, fabril o legal indispensable, por ejemplo:
 
-**CTA**: "Ver productos"
+- origen de una certificación;
+- control realizado en planta;
+- análisis de laboratorio;
+- dato legal o denominación visible en un envase.
 
-### Línea Felina (Para Gatos)
-> Fórmulas enriquecidas en taurina y ácidos grasos omega para la salud y vitalidad de tu gato.
+En esos casos, usar únicamente el detalle respaldado y no presentar procesos del fabricante como capacidades propias de AYRES. No hacer reemplazos globales sobre envases, datos legales o nombres propios.
 
-**CTA**: "Ver productos"
+## Calidad y procesos
 
----
+No usar como frases genéricas “calidad certificada”, “cada lote analizado”, “proveedores certificados” o “laboratorio propio” sin identificar:
 
-## Quality Section — "Nuestro Compromiso"
+- quién realiza el proceso;
+- qué producto o línea cubre;
+- cuál es la certificación o análisis;
+- qué fuente primaria lo demuestra;
+- cuál es su vigencia.
 
-**Tag**: NUESTRO COMPROMISO
+Los procesos fabriles confirmados corresponden al fabricante. El detalle técnico para publicación permanece condicionado a documentación primaria.
 
-**H2**: Calidad en cada detalle
+## Orientación sobre productos
 
-### Three Quality Points
+AYRES responde solicitudes de clientes consultando su base de productos y comparando datos declarados como ingredientes, proteínas u otros componentes del catálogo.
 
-**01. Ingredientes naturales seleccionados**
-> BAIRES trabaja con proveedores certificados para obtener materias primas de alta calidad, libres de conservantes artificiales y rellenos innecesarios.
+### Formulación aprobada
 
-**02. Tecnología de producción avanzada**
-> La planta de BAIRES cuenta con equipamiento de última generación que garantiza homogeneidad, palatabilidad y seguridad alimentaria en cada lote.
+> Podemos ayudarte a consultar y comparar la información disponible de nuestros productos.
 
-**03. Control en cada etapa**
-> Análisis bromatológicos, microbiológicos y organolépticos en el laboratorio de BAIRES para validar cada producto antes de su despacho al mercado.
+### Límites
 
----
+- No llamar “asesoramiento veterinario” a este servicio.
+- No anunciar un chatbot o asistente automatizado como producto activo hasta confirmar que esa interfaz existe y está disponible.
+- No recomendar un producto para diagnosticar, prevenir, tratar o curar una condición.
+- Ante síntomas, dietas especiales, condiciones individuales o transiciones sensibles, recomendar consulta veterinaria.
 
-## Distributors Section — "Crecé con AYRES"
+## Contenido educativo
 
-**Tag**: RED DE DISTRIBUCIÓN
+Los contenidos para tutores pueden explicar:
 
-**H2**: Sumá BAIRES a tu negocio
+- cómo leer una etiqueta;
+- diferencias entre valores mínimos y máximos;
+- especie, etapa y presentación declaradas;
+- comparación descriptiva de ingredientes o análisis garantizados;
+- preguntas útiles para conversar con un profesional.
 
-**Body**:
-> Somos el partner ideal para veterinarias, pet shops y distribuidoras. Ofrecemos condiciones comerciales competitivas, soporte de marketing y entrega en todo el país.
+No deben:
 
-**Distributor categories**: Veterinarias, Pet Shops, Supermercados, Distribuidoras
+- establecer umbrales universales de proteína, grasa u otros nutrientes sin fuente institucional;
+- convertir ingredientes en beneficios clínicos;
+- diagnosticar a partir de signos generales;
+- prescribir dietas o transiciones individuales;
+- prometer prevención, tratamiento o cura;
+- presentar una recomendación general como incuestionable.
 
-**CTA**: "Quiero ser parte del equipo AYRES"
+Todo contenido sensible requiere una fuente primaria o institucional confiable y revisión profesional antes de publicación.
 
----
+## Mensaje mayorista
 
-## Blog / Novedades
+### Título funcional
 
-**Tag**: BLOG & NOVEDADES
+**Sumá AYRES a tu negocio**
 
-**H2**: Últimas novedades
+### Cuerpo base
 
-### Articles (sample)
+> Si tenés una veterinaria, pet shop, comercio, supermercado o distribuidora, consultanos por catálogo y disponibilidad para tu localidad.
 
-1. **"¿Cómo elegir el alimento correcto para tu perro?"** (15 marzo 2026)
-   > Considerá la edad (cachorro, adulto o senior), el tamaño de raza y el nivel de actividad. Preferí alimentos con proteína animal como primer ingrediente y evitá aquellos con colorantes o conservantes artificiales.
+### CTA observables
 
-2. **"Beneficios de los snacks naturales en la dieta canina"** (8 marzo 2026)
-   > Los premios naturales aportan proteínas de calidad sin aditivos artificiales, ayudan a reducir el sarro dental y favorecen la digestión. Usalos como refuerzo positivo sin superar el 10% de la ración diaria.
+- “Pedí el catálogo”.
+- “Hacé tu consulta mayorista”.
+- “Decinos tu localidad”.
 
-3. **"Transición de alimento: cómo cambiar la dieta sin problemas digestivos"** (22 febrero 2026)
-   > Hacé el cambio de forma gradual en 7 a 10 días: empezá con 25% del alimento nuevo y 75% del anterior, e invertí las proporciones de a poco.
+No prometer precios, promociones, stock, exclusividad, financiación, entrega o soporte de marketing sin confirmación vigente.
 
-4. **"Hidratación en gatos: por qué es clave y cómo mejorarla"** (15 febrero 2026)
-   > Los gatos tienen baja sensación de sed por naturaleza. Ofrecé agua fresca siempre disponible y considerá incorporar alimento húmedo a la dieta.
+## Información de contacto registrada
 
-5. **"Nutrición felina: las diferencias clave con la dieta canina"** (8 febrero 2026)
-   > Los gatos son carnívoros obligados y necesitan taurina, arginina y ácido araquidónico que no pueden sintetizar solos. Nunca les des alimento formulado para perros.
+- **Ubicación:** Córdoba, Argentina.
+- **Teléfono / WhatsApp:** +54 9 351 212-8218.
+- **Email:** administracion@ayrespetsupply.com.
+- **Horario documentado:** lunes a viernes, 9:00 a 18:00.
 
-6. **"Sobrepeso en mascotas: señales y cómo actuar"** (1 febrero 2026)
-   > Si no podés sentir las costillas de tu mascota al palparla, es probable que tenga sobrepeso. Controlá las porciones según el peso ideal.
+Verificar vigencia antes de publicar. Los formularios pueden ofrecer motivos como información de productos, consulta mayorista, consulta comercial y otros.
 
-7. **"Salud dental en perros y gatos"** (24 enero 2026)
-   > El sarro acumulado puede derivar en enfermedades cardíacas y renales. Ofrecé alimento seco de calidad como base, sumá snacks dentales funcionales.
+## SEO y metadatos
 
-8. **"¿Qué significan los porcentajes en las etiquetas de alimento?"** (17 enero 2026)
-   > La proteína, grasa y fibra se expresan en base húmeda. Buscá alimentos con proteína mínima del 25% y grasa mínima del 12% en base seca.
+- **Título base:** AYRES Pet Supply — Para mascotas que son familia.
+- **Descripción base:** Distribuidora mayorista de alimentos para mascotas con cobertura en gran parte de la provincia de Córdoba.
+- No usar “alcance nacional”, “entrega en todo el país” ni referencias geográficas más amplias sin validación.
 
----
+## Estados de copy
 
-## Contact Section
+Etiquetar cada texto como:
 
-**Tag**: CONTACTO
+- **Borrador:** todavía no aprobado.
+- **Aprobado:** cuenta con aprobación explícita registrada.
+- **Supuesto:** recurso de trabajo sin evidencia suficiente.
+- **Dato pendiente:** requiere confirmación del responsable correspondiente.
 
-**H2**: Hablemos
+Una pieza aprobada en un canal no queda aprobada automáticamente para todos los canales, fechas o formatos.
 
-**Subtitle**: ¿Querés consultar sobre nuestros productos?
+## Pendientes vigentes
 
-### Contact Info
-- **Ubicación**: Córdoba, Argentina
-- **Teléfono**: +54 9 351 212-8218
-- **Email**: administracion@ayrespetsupply.com
-- **Horario**: Lunes a Viernes, 9:00 – 18:00 hs
+- Presencia de veterinarios o nutricionistas dentro del equipo de AYRES.
+- Existencia y disponibilidad de una interfaz de chatbot.
+- Localidades y rutas exactas de cobertura.
+- Fuentes primarias por marca o producto si en el futuro se desea usar “100% natural”.
+- Documentación primaria de certificaciones, laboratorios, proveedores y controles fabriles.
 
-### Form Fields
-- Nombre
-- Apellido
-- Email
-- Teléfono
-- Motivo de consulta (dropdown): Información de productos, Quiero ser distribuidor, Consulta comercial, Soporte técnico, Otro
-- Mensaje
-
-**CTA**: "Enviar consulta"
-
-**Legal**: Este sitio está protegido por reCAPTCHA. Privacidad y Términos de Google.
-
----
-
-## Footer
-
-### Column 1 — Brand
-**Logo** (badge variant) + tagline:
-> Distribuimos productos de alta calidad para el bienestar y la nutrición de mascotas. Para mascotas que son familia.
-
-Instagram link integrated.
-
-### Column 2 — Navegación
-- La empresa
-- Productos
-- Calidad
-- Distribuidores
-- Novedades
-- Contacto
-
-### Column 3 — Líneas
-- Especializados
-- Masivos
-- Perros
-- Gatos
-
-### Column 4 — Contacto
-- +54 9 351 212-8218
-- administracion@ayrespetsupply.com
-- Córdoba, Argentina
-
-### Copyright Bar
-> © 2026 AYRES Pet Supply. Todos los derechos reservados.
-> Desarrollado por NextLevel
-
----
-
-## Chatbot
-
-**Greeting**: Conversational AI assistant for product recommendations
-
-**Purpose**: Helps users find the right pet food based on pet type, age, breed size, and specific needs. Uses a scoring algorithm to recommend products from the catalog.
-
----
-
-## SEO / Meta Content
-
-**Title**: AYRES Pet Supply — Para mascotas que son familia
-
-**Meta Description**: Distribuidor mayorista de alimentos para mascotas en Córdoba, Argentina. Old Prince, Kongo, Fawna, Voraz y más.
-
-**OG Description**: Distribuidor mayorista de alimentos premium para mascotas en Argentina. Old Prince, Kongo, Fawna, Voraz y más.
-
-**Keywords**: (not explicitly set — SEO driven by content)
-
----
-
-## Error Page (404)
-
-- "404"
-- "La página que buscás no existe o fue movida."
-- CTAs: "Volver al inicio", "Contacto"
+Consultar [`governance/CLAIMS-REGISTER.md`](governance/CLAIMS-REGISTER.md) antes de usar cualquiera de estos puntos.

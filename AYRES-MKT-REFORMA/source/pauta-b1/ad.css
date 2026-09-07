@@ -1,0 +1,34 @@
+/* Ad B1 — "12 marcas, un solo contacto" (Campaña B, mensajes WhatsApp).
+   Overrides sobre MarcasAyres/styles.css + vertical.css. */
+
+/* Feed 1080x1350 */
+.ad .copy{top:110px}
+.ad h1{font-size:74px;line-height:.96}
+.ad .lede{max-width:800px;margin-top:22px;font-size:25px;line-height:1.38}
+.ad .cover-stage{right:-28px;bottom:228px;left:-28px;height:520px}
+.ad .ground{right:110px;bottom:60px;left:110px;height:65px}
+.ad .cover-pack{bottom:46px}
+.ad .cover-pack.p1{left:48px;width:208px;height:388px}
+.ad .cover-pack.p2{left:190px;width:240px;height:456px}
+.ad .cover-pack.p3{left:358px;width:256px;height:496px}
+.ad .cover-pack.p4{right:175px;width:228px;height:440px}
+.ad .cover-pack.p5{right:38px;width:196px;height:380px}
+.ad .cta-box{bottom:78px;padding:32px 38px}
+.ad .cta-label{font-size:27px}
+.ad .cta-note{margin-top:12px;font-size:18px}
+
+/* Story / Reels placement 1080x1920 (zonas seguras: ~250px arriba y abajo) */
+.ad.vertical .copy{top:300px}
+.ad.vertical h1{font-size:88px}
+.ad.vertical .lede{max-width:840px;margin-top:28px;font-size:29px}
+.ad.vertical .cover-stage{right:-40px;bottom:560px;left:-40px;height:680px}
+.ad.vertical .ground{right:90px;bottom:70px;left:90px;height:85px}
+.ad.vertical .cover-pack{bottom:52px}
+.ad.vertical .cover-pack.p1{left:10px;width:250px;height:490px}
+.ad.vertical .cover-pack.p2{left:178px;width:288px;height:570px}
+.ad.vertical .cover-pack.p3{left:380px;width:308px;height:625px}
+.ad.vertical .cover-pack.p4{right:158px;width:276px;height:550px}
+.ad.vertical .cover-pack.p5{right:0;width:240px;height:475px}
+.ad.vertical .cta-box{bottom:325px;padding:44px 45px}
+.ad.vertical .cta-label{font-size:30px}
+.ad.vertical .cta-note{margin-top:15px;font-size:20px}

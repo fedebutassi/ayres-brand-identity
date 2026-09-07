@@ -1,0 +1,925 @@
+[
+  {
+    "producto_id": "carnix-perros-adultos",
+    "marca": "Carnix",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de carne y hueso",
+      "harinas de pollo",
+      "trigo"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/carne-hueso-pollo-trigo.png",
+    "imagen_final": "IngredProdVisual/Carnix/Perros/ayres-ingredientes-visuales-carnix-perros-adultos-1080x1350.png",
+    "sha256": "65733de52ea1c03337ace66efdd58c7c0735a17b6bee08ca1e6498ca1b7c50df"
+  },
+  {
+    "producto_id": "caudillo-perros-adultos",
+    "marca": "Caudillo",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de carne",
+      "harina de pollo",
+      "trigo"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-carne-trigo.png",
+    "imagen_final": "IngredProdVisual/Caudillo/Perros/ayres-ingredientes-visuales-caudillo-perros-adultos-1080x1350.png",
+    "sha256": "c237de07e0a7813e208f8819b846697c8340bf1358e146b2c7579c22fe5abe6b"
+  },
+  {
+    "producto_id": "cereales-perros-adultos",
+    "marca": "Cereales",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de carne",
+      "harina de pollo",
+      "trigo"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-carne-trigo.png",
+    "imagen_final": "IngredProdVisual/Cereales/Perros/ayres-ingredientes-visuales-cereales-perros-adultos-1080x1350.png",
+    "sha256": "f0091f52e98c2262d993868e5b2be054d4b81e8d490929659729cb87b7e2a25b"
+  },
+  {
+    "producto_id": "company-adultos",
+    "marca": "Company",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de subproductos de pollo",
+      "harina de carne",
+      "trigo"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/subproductos-pollo-carne-trigo.png",
+    "imagen_final": "IngredProdVisual/Company/Perros/ayres-ingredientes-visuales-company-adultos-1080x1350.png",
+    "sha256": "afb39ff00ce445e10373e61802da742e68ff697c621d63a3b89e5ce6f991fc9e"
+  },
+  {
+    "producto_id": "company-cachorros",
+    "marca": "Company",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de subproductos de pollo",
+      "harina de carne",
+      "trigo"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/subproductos-pollo-carne-trigo.png",
+    "imagen_final": "IngredProdVisual/Company/Perros/ayres-ingredientes-visuales-company-cachorros-1080x1350.png",
+    "sha256": "9dd80c53d72cbf4afce7169cbe9e197042ed9337417219a1cafd709c596b5f56"
+  },
+  {
+    "producto_id": "company-gatitos",
+    "marca": "Company",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Company/Gatos/ayres-ingredientes-visuales-company-gatitos-1080x1350.png",
+    "sha256": "a54fb6f076f6dd30fbf413f971b7da6500e1a3c4e2b2c6b86af174243d1a8d7f"
+  },
+  {
+    "producto_id": "company-gatos-adultos",
+    "marca": "Company",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Company/Gatos/ayres-ingredientes-visuales-company-gatos-adultos-1080x1350.png",
+    "sha256": "ce80823cefee398fbe379362d4709e486f7539794cceea41b0c4bf2e2b131e14"
+  },
+  {
+    "producto_id": "fawna-adulto-light",
+    "marca": "Fawna",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de Salmón",
+      "harina de pollo",
+      "arroz integral"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-arroz-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Fawna/Perros/ayres-ingredientes-visuales-fawna-adulto-light-1080x1350.png",
+    "sha256": "721976584c8df1ba8b07417f665a62f0a03dd87f2eb8d7303c41b7ea2cecbec7"
+  },
+  {
+    "producto_id": "fawna-adulto-mediano-grande",
+    "marca": "Fawna",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de Salmón",
+      "harina de pollo",
+      "arroz integral"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-arroz-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Fawna/Perros/ayres-ingredientes-visuales-fawna-adulto-mediano-grande-1080x1350.png",
+    "sha256": "d9963fa102ecc1aac0c5a0ff359518c6a23a8180f8fcdd1f6dd96fc80793d945"
+  },
+  {
+    "producto_id": "fawna-adulto-pequeno",
+    "marca": "Fawna",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de Salmón",
+      "harina de pollo",
+      "arroz integral"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-arroz-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Fawna/Perros/ayres-ingredientes-visuales-fawna-adulto-pequeno-1080x1350.png",
+    "sha256": "f65b158681be7c7a97813033f9fdcb7d196911730d6a1c275f723fea61d8414c"
+  },
+  {
+    "producto_id": "fawna-adulto-senior",
+    "marca": "Fawna",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de Salmón",
+      "harina de pollo",
+      "arroz integral"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-arroz-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Fawna/Perros/ayres-ingredientes-visuales-fawna-adulto-senior-1080x1350.png",
+    "sha256": "0a0066788c60bc6c12007270728ac643e75d8aa61575ac4f1f252608dea51990"
+  },
+  {
+    "producto_id": "fawna-cachorro-mediano-grande",
+    "marca": "Fawna",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de Salmón",
+      "harina de pollo",
+      "arroz integral"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-arroz-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Fawna/Perros/ayres-ingredientes-visuales-fawna-cachorro-mediano-grande-1080x1350.png",
+    "sha256": "4313f81c352674d2574097f529d3f64cd1ee896ac76dba2765a890ac91d42039"
+  },
+  {
+    "producto_id": "fawna-cachorro-pequeno",
+    "marca": "Fawna",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de Salmón",
+      "harina de pollo",
+      "arroz integral"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-arroz-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Fawna/Perros/ayres-ingredientes-visuales-fawna-cachorro-pequeno-1080x1350.png",
+    "sha256": "452d32328097269e0e915aa8f9c0c1b3d0c77e90e79f0617b28c0f0c63e81d4f"
+  },
+  {
+    "producto_id": "fawna-gatito",
+    "marca": "Fawna",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de Salmón",
+      "harina de pollo",
+      "huevo en polvo (albúmina)"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-huevo-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Fawna/Gatos/ayres-ingredientes-visuales-fawna-gatito-1080x1350.png",
+    "sha256": "059ecad8a3eb20d5281f61f541f1d8a91b3c783a7eb4ab2ad4eada324c40ebd5"
+  },
+  {
+    "producto_id": "fawna-gato-adulto",
+    "marca": "Fawna",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de Salmón",
+      "harina de pollo",
+      "huevo en polvo (albúmina)"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-huevo-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Fawna/Gatos/ayres-ingredientes-visuales-fawna-gato-adulto-1080x1350.png",
+    "sha256": "41a8ac2f39bc08b8fcc8f5d549ca2ff70ae3c5d0228b31dea360c0cf5779f4d0"
+  },
+  {
+    "producto_id": "fawna-gato-esterilizado",
+    "marca": "Fawna",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de Salmón",
+      "harina de pollo",
+      "huevo en polvo (albúmina)"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-huevo-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Fawna/Gatos/ayres-ingredientes-visuales-fawna-gato-esterilizado-1080x1350.png",
+    "sha256": "adefaa1a318cd7098ba490324cfedb1c5b2a3384da492053997e2d89d41ae758"
+  },
+  {
+    "producto_id": "fawna-gato-urinario",
+    "marca": "Fawna",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de Salmón",
+      "harina de pollo",
+      "huevo en polvo (albúmina)"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-huevo-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Fawna/Gatos/ayres-ingredientes-visuales-fawna-gato-urinario-1080x1350.png",
+    "sha256": "09b078829a3777ad169543741ace4c26c050eeba69ac42b35dec40c4fefc86d9"
+  },
+  {
+    "producto_id": "high-pro-criadores-cordero-perros-adultos",
+    "marca": "High Pro Criadores",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de cordero",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-cerdo-legumbres-cordero-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/High-Pro-Criadores/Perros/ayres-ingredientes-visuales-high-pro-criadores-cordero-perros-adultos-1080x1350.png",
+    "sha256": "6cc721defc22a64ce7e11a502aaffe82857f820eb2d57eca6488befc318e1f0e"
+  },
+  {
+    "producto_id": "high-pro-criadores-cordero-perros-adultos-pequenos",
+    "marca": "High Pro Criadores",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de cordero",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-cerdo-legumbres-cordero-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/High-Pro-Criadores/Perros/ayres-ingredientes-visuales-high-pro-criadores-cordero-perros-adultos-pequenos-1080x1350.png",
+    "sha256": "2178a71a7a2bda4e4bdcafd233dcef78519fa18f1be0e835e5eaa3f50a8f0f55"
+  },
+  {
+    "producto_id": "high-pro-criadores-cordero-perros-cachorros",
+    "marca": "High Pro Criadores",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de cordero",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-cerdo-legumbres-cordero-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/High-Pro-Criadores/Perros/ayres-ingredientes-visuales-high-pro-criadores-cordero-perros-cachorros-1080x1350.png",
+    "sha256": "6e41435320e84f9878cfad3711835b092c0c8ddd8215287948fad2c0356fa388"
+  },
+  {
+    "producto_id": "high-pro-criadores-gato-adulto",
+    "marca": "High Pro Criadores",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de salmón",
+      "harina de pescado",
+      "harina de pollo"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/salmon-pescado-pollo.png",
+    "imagen_final": "IngredProdVisual/High-Pro-Criadores/Gatos/ayres-ingredientes-visuales-high-pro-criadores-gato-adulto-1080x1350.png",
+    "sha256": "788476aa2f885dc9d2026bbcb44e87ffde938096a1c00ee88368725d5efce4f3"
+  },
+  {
+    "producto_id": "high-pro-criadores-perros-adultos",
+    "marca": "High Pro Criadores",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "harina de carne",
+      "arveja"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/carne-pollo-arveja.png",
+    "imagen_final": "IngredProdVisual/High-Pro-Criadores/Perros/ayres-ingredientes-visuales-high-pro-criadores-perros-adultos-1080x1350.png",
+    "sha256": "2cd5c55d7dd56a4e9f6bb8f76b9261db62e8bef0fd72954c6b59fa98c219cdfe"
+  },
+  {
+    "producto_id": "kongo-adultos-medianos-grandes",
+    "marca": "Kongo",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de carne vacuna",
+      "harina de pollo",
+      "aceite de pollo"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/carne-pollo-aceite.png",
+    "imagen_final": "IngredProdVisual/Kongo/Perros/ayres-ingredientes-visuales-kongo-adultos-medianos-grandes-1080x1350.png",
+    "sha256": "b1d0c8ab9f807d76bf2fa2db7fbe67c49a36bd0817706bb9f1a97b880ddd4267"
+  },
+  {
+    "producto_id": "kongo-adultos-razas-pequenas",
+    "marca": "Kongo",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de carne vacuna",
+      "harina de pollo",
+      "trigo"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-carne-trigo.png",
+    "imagen_final": "IngredProdVisual/Kongo/Perros/ayres-ingredientes-visuales-kongo-adultos-razas-pequenas-1080x1350.png",
+    "sha256": "cb2812e5a46a0d1cbfae4f2186c8439926d84dc646ec218815841cca4fa9d86e"
+  },
+  {
+    "producto_id": "kongo-cachorros-todas-razas",
+    "marca": "Kongo",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de carne vacuna",
+      "harina de pollo",
+      "trigo"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-carne-trigo.png",
+    "imagen_final": "IngredProdVisual/Kongo/Perros/ayres-ingredientes-visuales-kongo-cachorros-todas-razas-1080x1350.png",
+    "sha256": "b3675260f47e431c573007ca54fdc4fefd4387590e8c384b4a25464acd70cc47"
+  },
+  {
+    "producto_id": "kongo-gatitos-carne-leche",
+    "marca": "Kongo",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de carne vacuna",
+      "harina de pollo",
+      "arroz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-carne-arroz.png",
+    "imagen_final": "IngredProdVisual/Kongo/Gatos/ayres-ingredientes-visuales-kongo-gatitos-carne-leche-1080x1350.png",
+    "sha256": "146ddbb64190700166741d07957c9016dab3ce49dbe18901af256a7fd694f156"
+  },
+  {
+    "producto_id": "kongo-gatos-adultos-carne-pollo",
+    "marca": "Kongo",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de pescado",
+      "harina de pollo",
+      "harina de carne vacuna"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-pescado-carne.png",
+    "imagen_final": "IngredProdVisual/Kongo/Gatos/ayres-ingredientes-visuales-kongo-gatos-adultos-carne-pollo-1080x1350.png",
+    "sha256": "fe6ae7e71f2653b6905943786cd7fc33d902d2e0aa5935adf509184fd9ae7073"
+  },
+  {
+    "producto_id": "kongo-gatos-adultos-salmon-atun",
+    "marca": "Kongo",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de pescado",
+      "harina de pollo",
+      "harina de carne vacuna"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-pescado-carne.png",
+    "imagen_final": "IngredProdVisual/Kongo/Gatos/ayres-ingredientes-visuales-kongo-gatos-adultos-salmon-atun-1080x1350.png",
+    "sha256": "bb252064128cdf73e7689abbd4e368bc609634a46ecc715e45feda2f302469da"
+  },
+  {
+    "producto_id": "kongo-gold-adultos-medianos-grandes",
+    "marca": "Kongo",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Kongo/Perros/ayres-ingredientes-visuales-kongo-gold-adultos-medianos-grandes-1080x1350.png",
+    "sha256": "de45e587c6356b8fa6b95a3dba34b74a5dba173598cfc83622994e899615ec41"
+  },
+  {
+    "producto_id": "kongo-gold-adultos-razas-pequenas",
+    "marca": "Kongo",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "glutan de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Kongo/Perros/ayres-ingredientes-visuales-kongo-gold-adultos-razas-pequenas-1080x1350.png",
+    "sha256": "3b27f65c5a7d449d064b6f767d033b706c5f61302be7f90264229d3de2497a52"
+  },
+  {
+    "producto_id": "kongo-gold-cachorros-todas-razas",
+    "marca": "Kongo",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Kongo/Perros/ayres-ingredientes-visuales-kongo-gold-cachorros-todas-razas-1080x1350.png",
+    "sha256": "f2ae2931cf73221fe1a415aef13ff92da46d6e7cd459496c129e760414db20d9"
+  },
+  {
+    "producto_id": "maintenance-criadores-adulto",
+    "marca": "Maintenance",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de carne vacuna",
+      "harina de pollo",
+      "trigo"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-carne-trigo.png",
+    "imagen_final": "IngredProdVisual/Maintenance/Perros/ayres-ingredientes-visuales-maintenance-criadores-adulto-1080x1350.png",
+    "sha256": "61d4201c7c677de5d49f880bcc6163f99585c5ca814e9a70beef1c471fe4cd0b"
+  },
+  {
+    "producto_id": "maintenance-criadores-adulto-razas-pequenas",
+    "marca": "Maintenance",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de carne",
+      "harina de pollo",
+      "trigo"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-carne-trigo.png",
+    "imagen_final": "IngredProdVisual/Maintenance/Perros/ayres-ingredientes-visuales-maintenance-criadores-adulto-razas-pequenas-1080x1350.png",
+    "sha256": "5c1b1debd5670b88140cd8be8d985396fd1684e0e423c641c5e2ea440cd8f5e9"
+  },
+  {
+    "producto_id": "maintenance-criadores-cachorro",
+    "marca": "Maintenance",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de carne vacuna",
+      "harina de pollo",
+      "trigo"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-carne-trigo.png",
+    "imagen_final": "IngredProdVisual/Maintenance/Perros/ayres-ingredientes-visuales-maintenance-criadores-cachorro-1080x1350.png",
+    "sha256": "38914f95724029b183ba2df9c8323bca3d28f94a654d86951e1b6990efd84d5e"
+  },
+  {
+    "producto_id": "maintenance-criadores-gatos-adultos",
+    "marca": "Maintenance",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de pescado",
+      "harina de pollo",
+      "harina de carne vacuna"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-pescado-carne.png",
+    "imagen_final": "IngredProdVisual/Maintenance/Gatos/ayres-ingredientes-visuales-maintenance-criadores-gatos-adultos-1080x1350.png",
+    "sha256": "d9e623488b7c67edbbfb6c66df4cc0977a941c04a46a34fb15fbf918ef148a60"
+  },
+  {
+    "producto_id": "natural-meat-perros-adultos",
+    "marca": "Natural Meat",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Trigo",
+      "harina de pollo",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/trigo-pollo-maiz.png",
+    "imagen_final": "IngredProdVisual/Natural-Meat/Perros/ayres-ingredientes-visuales-natural-meat-perros-adultos-1080x1350.png",
+    "sha256": "ab263e41e0bd93b45b26aa09f0e74b5080d92586a1e4a8307e220e209cb6f5ed"
+  },
+  {
+    "producto_id": "natural-meat-perros-cachorros",
+    "marca": "Natural Meat",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Trigo",
+      "harina de pollo",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/trigo-pollo-maiz.png",
+    "imagen_final": "IngredProdVisual/Natural-Meat/Perros/ayres-ingredientes-visuales-natural-meat-perros-cachorros-1080x1350.png",
+    "sha256": "4f41db2997ace2b5033570f61d911701308034f273e79c4ce389bbe60813214e"
+  },
+  {
+    "producto_id": "op-eq-adulto-gato",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Gatos/ayres-ingredientes-visuales-op-eq-adulto-gato-1080x1350.png",
+    "sha256": "ab5dc77ffca4800cf858765f985864b1229bd7d074642445d69ac37a9d56ad5f"
+  },
+  {
+    "producto_id": "op-eq-adulto-medlarge",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Perros/ayres-ingredientes-visuales-op-eq-adulto-medlarge-1080x1350.png",
+    "sha256": "b64d3a6c9b13234ed6d598927a9907bef5a5ec1a93584d54bd051009ff449f2f"
+  },
+  {
+    "producto_id": "op-eq-adulto-pequenas",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Perros/ayres-ingredientes-visuales-op-eq-adulto-pequenas-1080x1350.png",
+    "sha256": "1664dd6afbee534db9eebe2beba92ca6ccd64f03884f2e56355e3820f1996a0e"
+  },
+  {
+    "producto_id": "op-eq-cachorro-medlarge",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Perros/ayres-ingredientes-visuales-op-eq-cachorro-medlarge-1080x1350.png",
+    "sha256": "736b06ede25296a2c53ab67052cc876d8475cec9228a1a214945872523cdb46d"
+  },
+  {
+    "producto_id": "op-eq-cachorro-pequenas",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Perros/ayres-ingredientes-visuales-op-eq-cachorro-pequenas-1080x1350.png",
+    "sha256": "27dea8c5b00d2d73253a8e7d0c12961376c196977d5767e9cc57401603b10c58"
+  },
+  {
+    "producto_id": "op-eq-control-peso",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Perros/ayres-ingredientes-visuales-op-eq-control-peso-1080x1350.png",
+    "sha256": "26aabd1756de88330523259d3f11e05169e89480bab32695155b429de063c507"
+  },
+  {
+    "producto_id": "op-eq-esterilizado-gato",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Gatos/ayres-ingredientes-visuales-op-eq-esterilizado-gato-1080x1350.png",
+    "sha256": "0e373616bd4121ed2b806931855f9f7405948827655f9b1738aa198750bd3e59"
+  },
+  {
+    "producto_id": "op-eq-gatito",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Gatos/ayres-ingredientes-visuales-op-eq-gatito-1080x1350.png",
+    "sha256": "9fc5343e35b64c763df67c169ef24f7fc5f137cb67819567eccf3062d7106e74"
+  },
+  {
+    "producto_id": "op-eq-urinario-gato",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Gatos/ayres-ingredientes-visuales-op-eq-urinario-gato-1080x1350.png",
+    "sha256": "e6a8b929617d6ac7a94d63f5c53366fdf58dca9b395347eb9f5719967cbd9482"
+  },
+  {
+    "producto_id": "op-pn-adulto-gato",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de cordero",
+      "arroz integral",
+      "arveja"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-arroz-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Gatos/ayres-ingredientes-visuales-op-pn-adulto-gato-1080x1350.png",
+    "sha256": "7ac1d23c6328fe5f3508d47f64c1f32caa7934ca3bff2a5acd12b9805c05101d"
+  },
+  {
+    "producto_id": "op-pn-esterilizado-gato",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de cordero",
+      "arroz integral",
+      "arveja"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-arroz-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Gatos/ayres-ingredientes-visuales-op-pn-esterilizado-gato-1080x1350.png",
+    "sha256": "1a0487f44f961f2f756f91f459ecb31dacf84b8d847763618a711238e6934ebf"
+  },
+  {
+    "producto_id": "op-pn-kitten",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de cordero",
+      "arroz integral",
+      "arveja"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-arroz-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Gatos/ayres-ingredientes-visuales-op-pn-kitten-1080x1350.png",
+    "sha256": "3069a7e117d14daebba614180f03d42251a79af1a04b31891c9c36324f7518b0"
+  },
+  {
+    "producto_id": "op-pn-lamb-adult-medlarge",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de cordero",
+      "arroz integral",
+      "arveja"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-arroz-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Perros/ayres-ingredientes-visuales-op-pn-lamb-adult-medlarge-1080x1350.png",
+    "sha256": "2e0e6294ae6f83d90f0ab1681f5dbdc74360448890bc329dcd1759a472538115"
+  },
+  {
+    "producto_id": "op-pn-lamb-adult-small",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de cordero",
+      "arroz integral",
+      "arveja"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-arroz-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Perros/ayres-ingredientes-visuales-op-pn-lamb-adult-small-1080x1350.png",
+    "sha256": "cb1a38af6f177669b982dfe7e9613b8ce456a8067fb6cd1bceb726a4621a97fc"
+  },
+  {
+    "producto_id": "op-pn-lamb-light",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de cordero",
+      "arroz integral",
+      "arveja"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-arroz-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Perros/ayres-ingredientes-visuales-op-pn-lamb-light-1080x1350.png",
+    "sha256": "20b37d7bf4f7ae3399bed3dc1be2bc591973dfc60f9df0aba3c10fc9e776c6f6"
+  },
+  {
+    "producto_id": "op-pn-lamb-puppy-all",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de cordero",
+      "arroz integral",
+      "arveja"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-arroz-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Perros/ayres-ingredientes-visuales-op-pn-lamb-puppy-all-1080x1350.png",
+    "sha256": "f860d00cb638dc12f9fe07fbe447e4341e3d996e3dc5ab4ef7aece7891263b44"
+  },
+  {
+    "producto_id": "op-pn-lamb-senior",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de cordero",
+      "arroz integral",
+      "arveja"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-salmon-pollo-arroz-cordero-arroz-arveja.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Perros/ayres-ingredientes-visuales-op-pn-lamb-senior-1080x1350.png",
+    "sha256": "ddd1725b120a3c22b892a4c127dce5d775258f5c21457216e22a2905d9860626"
+  },
+  {
+    "producto_id": "op-pn-swine-adult-all",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Carne de cerdo en polvo",
+      "garbanzo",
+      "lenteja"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-cerdo-legumbres-cordero-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Perros/ayres-ingredientes-visuales-op-pn-swine-adult-all-1080x1350.png",
+    "sha256": "b6a093bc417ee4d883a9a6a4226ca569560eb9ba8111ca21923e682a9c503cc7"
+  },
+  {
+    "producto_id": "op-prem-adulto-cordero",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de cordero",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-cerdo-legumbres-cordero-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Perros/ayres-ingredientes-visuales-op-prem-adulto-cordero-1080x1350.png",
+    "sha256": "ed606fa8afd9e0c589edfd72553fbc3f2d8ec6676f71b092997a78f093969e4a"
+  },
+  {
+    "producto_id": "op-prem-adulto-gato",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Gatos/ayres-ingredientes-visuales-op-prem-adulto-gato-1080x1350.png",
+    "sha256": "8c831034cf20a638fcb8ebdb6c119b2ba5228586bebb7f58b2ac445ba73def47"
+  },
+  {
+    "producto_id": "op-prem-adulto-pollo-carne",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "harina de carne",
+      "arroz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-carne-arroz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Perros/ayres-ingredientes-visuales-op-prem-adulto-pollo-carne-1080x1350.png",
+    "sha256": "7b089dab95a3747667f10bdc40dd9e683c7b2bb147ffd1933376a76ae6df02f2"
+  },
+  {
+    "producto_id": "op-prem-cachorro-pollo-carne",
+    "marca": "Old Prince",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "harina de carne",
+      "arroz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-carne-arroz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Perros/ayres-ingredientes-visuales-op-prem-cachorro-pollo-carne-1080x1350.png",
+    "sha256": "8156288f4daa7732caa1a402e369fcd207ec0967297e7e9aa2cc296bfcecd388"
+  },
+  {
+    "producto_id": "op-prem-gatito",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Gatos/ayres-ingredientes-visuales-op-prem-gatito-1080x1350.png",
+    "sha256": "4aa664f8ae1bbed35604ee7d3499e9f202e6dcc00bafec69be3ed855bbebb6f0"
+  },
+  {
+    "producto_id": "op-prem-gato-cordero",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de cordero",
+      "arroz",
+      "gluten de maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/dual-cerdo-legumbres-cordero-arroz-maiz.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Gatos/ayres-ingredientes-visuales-op-prem-gato-cordero-1080x1350.png",
+    "sha256": "1d2112f747d2a5640c8c7c8a82c63eff98a3cf8f2520185abb25d5d3c641e0fb"
+  },
+  {
+    "producto_id": "op-prem-gato-urinario",
+    "marca": "Old Prince",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "harina de pescado",
+      "harina de carne vacuna"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-pescado-carne.png",
+    "imagen_final": "IngredProdVisual/Old-Prince/Gatos/ayres-ingredientes-visuales-op-prem-gato-urinario-1080x1350.png",
+    "sha256": "70bd6c4fb22cd824d4b42fbb01557665e8f2a439f8253811e28f3d17b4b29f2b"
+  },
+  {
+    "producto_id": "origen-company-gato-adulto",
+    "marca": "Origen by Company",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "harina de carne vacuna",
+      "arroz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-carne-arroz.png",
+    "imagen_final": "IngredProdVisual/Origen-by-Company/Gatos/ayres-ingredientes-visuales-origen-company-gato-adulto-1080x1350.png",
+    "sha256": "1a0b4d00ae2736a5bac222d2a54fa8caccd46e40df858e7919c27fb890a11291"
+  },
+  {
+    "producto_id": "origen-company-perro-adulto",
+    "marca": "Origen by Company",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de carne vacuna",
+      "harina de pollo",
+      "arvejas"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/carne-pollo-arveja.png",
+    "imagen_final": "IngredProdVisual/Origen-by-Company/Perros/ayres-ingredientes-visuales-origen-company-perro-adulto-1080x1350.png",
+    "sha256": "46419029d1a14a2e5b27c13bad9cd82ed286d9ba458b2c786f2d5140692c713d"
+  },
+  {
+    "producto_id": "origen-company-perro-cachorro",
+    "marca": "Origen by Company",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de carne vacuna",
+      "harina de pollo",
+      "arveja"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/carne-pollo-arveja.png",
+    "imagen_final": "IngredProdVisual/Origen-by-Company/Perros/ayres-ingredientes-visuales-origen-company-perro-cachorro-1080x1350.png",
+    "sha256": "63ccc81dd30fe0d048a1258024177c50997baca1a913cfd0bfd8eb4c3a9c82e9"
+  },
+  {
+    "producto_id": "voraz-gatito",
+    "marca": "Voraz",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "trigo",
+      "arroz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-trigo-arroz.png",
+    "imagen_final": "IngredProdVisual/Voraz/Gatos/ayres-ingredientes-visuales-voraz-gatito-1080x1350.png",
+    "sha256": "a3d4bd4d13656416818d2de7afaa7ab6e8469e98ed00f127c82240012854f6f4"
+  },
+  {
+    "producto_id": "voraz-gatos-adultos",
+    "marca": "Voraz",
+    "especie": "Gatos",
+    "primeros_ingredientes": [
+      "Harina de carne",
+      "harina de pescado",
+      "arroz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/carne-pescado-arroz.png",
+    "imagen_final": "IngredProdVisual/Voraz/Gatos/ayres-ingredientes-visuales-voraz-gatos-adultos-1080x1350.png",
+    "sha256": "e7937ce79fa070b6aa363a79e458a1caad5462c2131a489bbfe23099420a7ff4"
+  },
+  {
+    "producto_id": "voraz-perros-adultos-carne",
+    "marca": "Voraz",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de carne",
+      "harina de pollo",
+      "trigo"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-carne-trigo.png",
+    "imagen_final": "IngredProdVisual/Voraz/Perros/ayres-ingredientes-visuales-voraz-perros-adultos-carne-1080x1350.png",
+    "sha256": "d73bc87c4984cafb97acb0295f057e2b5c0b9d07b3e3eb42ec1bbc92fe4596b5"
+  },
+  {
+    "producto_id": "voraz-perros-adultos-mix-carne-pollo-vegetales",
+    "marca": "Voraz",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de subproductos de pollo",
+      "trigo",
+      "maíz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/subproductos-pollo-trigo-maiz.png",
+    "imagen_final": "IngredProdVisual/Voraz/Perros/ayres-ingredientes-visuales-voraz-perros-adultos-mix-carne-pollo-vegetales-1080x1350.png",
+    "sha256": "28ae22ca4febd7b92f6ac29a0fb80cb50cb0fe496b75806bcd666c826c1ea37b"
+  },
+  {
+    "producto_id": "voraz-perros-adultos-pollo-arroz",
+    "marca": "Voraz",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de pollo",
+      "harina de carne",
+      "arroz"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-carne-arroz.png",
+    "imagen_final": "IngredProdVisual/Voraz/Perros/ayres-ingredientes-visuales-voraz-perros-adultos-pollo-arroz-1080x1350.png",
+    "sha256": "4f3f521c816f2eef69d0a827e5563c5c4ece5b1c32de6ff3a2ae2d058bcde1c1"
+  },
+  {
+    "producto_id": "voraz-perros-cachorros",
+    "marca": "Voraz",
+    "especie": "Perros",
+    "primeros_ingredientes": [
+      "Harina de carne",
+      "harina de pollo",
+      "trigo"
+    ],
+    "fotografia_fuente": "IngredProdVisual/_recursos/fotografias/pollo-carne-trigo.png",
+    "imagen_final": "IngredProdVisual/Voraz/Perros/ayres-ingredientes-visuales-voraz-perros-cachorros-1080x1350.png",
+    "sha256": "c8c68627a8889ce0946e6340ec8b1ba45a2a88a4affdc9ae6de6c6e652779d46"
+  }
+]
