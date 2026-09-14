@@ -1,15 +1,15 @@
-# Lunes 08/09/26 - Reel - ¿Tu góndola de cachorros tiene estas 4 opciones?
+# Lunes 15/09/26 - Reel - ¿Tu góndola de cachorros tiene estas 4 opciones?
 
 ## Estado
 
-**LISTO PARA PRODUCIR**
+**LISTO PARA PUBLICAR**
 
 Adaptación del Reel 08 (mejor pieza de agosto, 176 views, 85,1% no seguidores). Mismo pipeline visual, nuevo enfoque: urgencia comercial + CTA de mensaje directo.
 
 ## Archivos finales (después de renderizar)
 
 - Video: `AYRES-MKT-REFORMA/produccion/reels/sep-01/sep-01-gondola-cachorros/sep-01-gondola-cachorros-1080x1920.mp4`
-- Portada: renderizar frame 01 como portada o usar `frames/01.png`
+- Portada: `AYRES-MKT-REFORMA/produccion/reels/sep-01/sep-01-gondola-cachorros/portada-1080x1920.png`
 
 Fuente editable: `AYRES-MKT-REFORMA/source/reel-sep-01-gondola-cachorros/`
 
@@ -66,7 +66,7 @@ Si atendés un petshop, veterinaria o forrajería, revisá esto:
 
 ## Instrucciones de subida
 
-1. **Horario sugerido:** lunes 08/09 entre 10:00 y 12:00.
+1. **Horario sugerido:** lunes 15/09 entre 10:00 y 12:00.
 2. Subir el MP4 como **Reel** desde la app.
 3. **Portada:** elegir frame 01 (el hook con los 4 productos).
 4. Pegar el copy completo con hashtags.
