@@ -5,7 +5,7 @@ const { spawn } = require('child_process');
 const { content, repoRoot } = require('./content.cjs');
 
 const source = path.join(__dirname, 'carousel.html');
-const outputRoot = path.join(repoRoot, 'AYRES-MKT-REFORMA', 'produccion', 'carruseles', '19-noticias-premium-interior');
+const outputRoot = path.join(repoRoot, 'AYRES-MKT-REFORMA', 'produccion', 'carruseles', '19-ficha-op-eq-adulto-pequenas');
 const chrome = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
 
 const imageFor = (id) => pathToFileURL(path.join(repoRoot, 'social', '2026', 'pruebas-productos-ayres', 'assets', 'cutouts-exactos', `${id}.png`)).href;
@@ -17,11 +17,12 @@ const payload = {
     ...slide,
     page: String(index + 1).padStart(2, '0'),
     products: slide.products?.map((item) => ({ ...item, image: imageFor(item.id) })),
+    profile: slide.profile ? { ...slide.profile, image: imageFor(slide.profile.id) } : undefined,
   })),
 };
 const encoded = Buffer.from(JSON.stringify(payload), 'utf8').toString('base64');
 
-const slugs = ['portada-premium-interior', 'que-esta-pasando', 'cta-whatsapp'];
+const slugs = ['portada', 'composicion-declarada', 'cta-whatsapp'];
 
 const render = (index) => new Promise((resolve, reject) => {
   const number = String(index + 1).padStart(2, '0');
