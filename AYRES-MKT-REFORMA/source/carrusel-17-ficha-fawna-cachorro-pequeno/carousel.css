@@ -34,6 +34,8 @@ h1 em{color:var(--green);font-style:normal}
 .cover .heading{margin-top:96px}
 .cover h1{font-size:74px}
 .cover .product-stage{bottom:88px}
+.cover .product{width:340px;height:620px}
+.cover .product img{max-height:560px}
 .profile{position:absolute;right:0;bottom:112px;left:0;display:grid;grid-template-columns:400px 1fr;gap:26px;align-items:end}
 .profile-visual{position:relative;display:flex;height:640px;align-items:flex-end;justify-content:center}
 .profile-visual:before{position:absolute;right:30px;bottom:16px;left:30px;height:60px;border-radius:50%;background:rgba(42,48,53,.25);filter:blur(26px);content:""}

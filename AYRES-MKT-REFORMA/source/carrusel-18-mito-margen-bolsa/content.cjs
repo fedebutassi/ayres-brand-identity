@@ -12,7 +12,7 @@ const content = {
       lede: '¿Seguro? Revisemos los números antes de descartar los formatos chicos.',
       products: [
         { id: 'fawna-adulto-pequeno', name: 'Fawna Adulto Pequeño' },
-        { id: 'kongo-adultos-todas-razas', name: 'Kongo Adulto' },
+        { id: 'kongo-adultos-medianos-grandes', name: 'Kongo Adulto' },
       ],
     },
     {
