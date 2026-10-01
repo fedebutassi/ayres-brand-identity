@@ -1,4 +1,4 @@
-# Sábado 04/10/26 — Carrusel — Verdad o Mito: bolsa de 20 kg vs. tres de 7,5 kg
+# Jueves 01/10/26 — Carrusel — Verdad o Mito: bolsa de 20 kg vs. tres de 7,5 kg
 
 ## Estado
 

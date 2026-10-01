@@ -18,6 +18,8 @@ No hay un ganador: hay perfiles distintos. La composición completa de cada prod
 
 ---
 
+
+
 ## Reel 04 — Gato adulto, esterilizado, urinario: no son lo mismo
 
 🐱 Tu cliente pide "alimento para gato esterilizado" y en la góndola hay tres líneas. ¿Cómo se guía esa venta?

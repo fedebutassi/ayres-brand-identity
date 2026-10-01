@@ -2,7 +2,7 @@
 
 ## Estado
 
-**LISTO PARA PUBLICAR**
+**PUBLICADO** — subido 16/09/2026
 
 Versión optimizada del Reel 04 (108 views, 84,3% no seguidores, 23,1 s). Misma estructura de 5 escenas, nuevo hook con urgencia, duración reducida a 17,5 s y CTA de mensaje directo.
 

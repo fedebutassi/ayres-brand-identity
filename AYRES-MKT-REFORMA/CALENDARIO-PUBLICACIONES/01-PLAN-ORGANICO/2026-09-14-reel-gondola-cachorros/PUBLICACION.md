@@ -2,7 +2,7 @@
 
 ## Estado
 
-**LISTO PARA PUBLICAR**
+**PUBLICADO** — métricas registradas 16/09/26
 
 Adaptación del Reel 08 (mejor pieza de agosto, 176 views, 85,1% no seguidores). Mismo pipeline visual, nuevo enfoque: urgencia comercial + CTA de mensaje directo.
 
@@ -74,8 +74,23 @@ Si atendés un petshop, veterinaria o forrajería, revisá esto:
 6. Verificar que el perfil tenga **botón de contacto** (WhatsApp o email) y **link en bio** a WhatsApp directo.
 7. **Responder cada mensaje recibido el mismo día.**
 
+## Métricas — 16/09/26 (~24 h)
+
+| Métrica | Valor |
+|---|---|
+| Views | 29 |
+| Espectadores únicos | 19 |
+| Seguidores | 79,3 % |
+| No seguidores | 20,7 % |
+| Likes | 0 |
+| Comentarios | 0 |
+| Guardados | 0 |
+| Compartidos | 0 |
+| Visitas al perfil | 0 |
+| Nuevos seguidores | 0 |
+
 ## Control posterior
 
-- Registrar resultados a las 24 horas.
-- Completar la evaluación a los 7 días.
+- [x] Registrar resultados a las 24 horas.
+- [ ] Completar la evaluación a los 7 días.
 - Métrica principal: **mensajes recibidos por DM/WhatsApp** (antes era 0 con el CTA anterior).

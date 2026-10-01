@@ -2,7 +2,7 @@
 
 ## Estado
 
-**LISTO PARA PUBLICAR**
+**PUBLICADO** — 01/10/2026
 
 ## Archivos finales
 
