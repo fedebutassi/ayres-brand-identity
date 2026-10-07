@@ -35,6 +35,7 @@ while (queues.some((q) => q.length)) {
 // ── Story A: Ingredientes (light theme) ─────────────────────────────────────
 const buildIngredientStory = (product) => {
   const photoUrl = pathToFileURL(product.photoPath).href;
+  const cutoutUrl = pathToFileURL(product.imagePath).href;
   const ingredientRows = product.ingredients.map((ing, i) =>
     `<div class="ing"><b>0${i + 1}</b><span>${ing}</span></div>`).join('');
   const extraChips = product.extras.map((e) => `<span>${e}</span>`).join('');
@@ -73,6 +74,9 @@ h1 em{display:block;color:var(--accent);font:400 44px Florensa,Arial,sans-serif;
 .ing b{display:grid;width:34px;height:34px;flex:none;place-items:center;border-radius:50%;background:var(--accent);color:#fff;font-size:11px}
 .extras{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
 .extras span{padding:9px 12px;border:1px solid color-mix(in srgb,var(--accent) 45%,#ddd);border-radius:99px;color:var(--dark);font:900 10px Arboria,Arial,sans-serif;letter-spacing:1px;text-transform:uppercase}
+.product-cutout{position:absolute;z-index:5;top:720px;right:78px;width:280px;height:420px;display:flex;align-items:flex-end;justify-content:center}
+.product-cutout:before{position:absolute;right:30px;bottom:12px;left:30px;height:50px;border-radius:50%;background:rgba(42,48,53,.2);filter:blur(18px);content:""}
+.product-cutout img{position:relative;z-index:2;max-width:100%;max-height:380px;object-fit:contain;filter:drop-shadow(0 18px 16px rgba(42,48,53,.22))}
 .cta{position:absolute;bottom:340px;left:78px;padding:18px 24px;background:var(--accent);color:#fff;font:900 14px Arboria,Arial,sans-serif;letter-spacing:1.5px;box-shadow:0 12px 32px color-mix(in srgb,var(--accent) 30%,transparent)}
 footer{position:absolute;right:0;bottom:0;left:0;display:flex;justify-content:space-between;padding-top:23px;border-top:1px solid rgba(62,72,78,.23);font:900 14px Arboria,Arial,sans-serif}
 footer b{color:var(--accent)}
@@ -95,6 +99,7 @@ footer i{color:var(--muted);font-style:normal}
     <img src="${photoUrl}" alt="Fuentes de ingredientes">
     <span>REPRESENTACIÓN VISUAL</span>
   </section>
+  <div class="product-cutout"><img src="${cutoutUrl}" alt="${product.name}"></div>
   <section class="panel">
     <p class="panel-label">LOS 3 PRIMEROS INGREDIENTES</p>
     <p class="visual-line">${product.visualLine}</p>
@@ -136,9 +141,9 @@ header span{padding:13px 18px;border:1px solid color-mix(in srgb,var(--accent) 7
 h1{margin:12px 0 0;text-transform:uppercase;line-height:.94}
 h1 span{display:block;font:400 48px Florensa,Arial,sans-serif}
 h1 em{display:block;color:var(--accent);font:400 44px Florensa,Arial,sans-serif;font-style:normal}
-.cutout{position:absolute;top:520px;left:50%;width:360px;height:430px;transform:translateX(-50%);display:flex;align-items:flex-end;justify-content:center}
-.cutout:before{position:absolute;right:40px;bottom:20px;left:40px;height:70px;border-radius:50%;background:rgba(0,0,0,.25);filter:blur(28px);content:""}
-.cutout img{position:relative;z-index:2;max-width:100%;max-height:400px;object-fit:contain;filter:drop-shadow(0 24px 22px rgba(0,0,0,.3))}
+.cutout{position:absolute;top:480px;left:50%;width:460px;height:530px;transform:translateX(-50%);display:flex;align-items:flex-end;justify-content:center}
+.cutout:before{position:absolute;right:50px;bottom:20px;left:50px;height:80px;border-radius:50%;background:rgba(0,0,0,.3);filter:blur(30px);content:""}
+.cutout img{position:relative;z-index:2;max-width:100%;max-height:500px;object-fit:contain;filter:drop-shadow(0 26px 24px rgba(0,0,0,.35))}
 .protein-badge{position:absolute;z-index:4;top:530px;left:78px;min-width:200px;padding:18px 24px;border:2px solid var(--accent);border-radius:99px;background:rgba(255,255,255,.95);color:#3e484e;text-align:center}
 .protein-badge strong{display:block;color:var(--accent);font:900 42px Arboria,Arial,sans-serif;line-height:.9}
 .protein-badge small{font:900 12px Arboria,Arial,sans-serif;letter-spacing:1.5px}
