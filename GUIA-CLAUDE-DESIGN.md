@@ -18,31 +18,24 @@ Verde: #3db870 · Texto: #3e484e · Fondo claro: #f5f4f2 · Fondo oscuro: #2f393
 
 | Día | Feed | Stories |
 |---|---|---|
-| **Mar 27/10** | Carrusel: Ficha Kongo Adultos Med/Grandes | Ingredientes: Maintenance Gatos |
-| **Mié 28/10** | — | Ingredientes: Kongo Adultos Med/Grandes |
-| **Jue 29/10** | Carrusel: High-Pro vs Maintenance | Stories comparativas criadores (×3) + Ingredientes: Fawna Adulto Pequeño |
-| **Vie 30/10** | Carrusel: Ficha OP Eq. Urinario Gato | Ingredientes: OP Eq. Urinario Gato |
-| **Sáb 31/10** | Reel: 3 rangos de precio perros adultos | Ingredientes: Voraz Pollo/Arroz |
-| **Dom 01/11** | — | Ingredientes: Kongo Cachorros |
+| **Mar 27/10** | Carrusel 4 placas: Ficha Kongo Adultos Med/Grandes | IngredProdVisual: Maintenance Gatos |
+| **Mié 28/10** | — | IngredProdVisual: Kongo Adultos Med/Grandes |
+| **Jue 29/10** | Carrusel 4 placas: High-Pro vs Maintenance | Stories comparativas criadores (×3) + IngredProdVisual: Fawna Adulto Pequeño |
+| **Vie 30/10** | Carrusel 4 placas: Ficha OP Eq. Urinario Gato | IngredProdVisual: OP Eq. Urinario Gato |
+| **Sáb 31/10** | Reel 5 escenas: 3 rangos de precio perros adultos | IngredProdVisual: Voraz Pollo/Arroz |
+| **Dom 01/11** | — | IngredProdVisual: Kongo Cachorros |
 
 ---
 
 ## CARRUSEL 1 — Ficha: Kongo Adultos Medianos y Grandes (martes 27/10)
 
-**Formato:** 1080×1350 · 3 placas
-
-### Cutout producto
-```
-social/2026/pruebas-productos-ayres/assets/cutouts-exactos/kongo-adultos-medianos-grandes.png
-```
-
-### IngredProdVisual de referencia
-```
-IngredProdVisual/Kongo/Perros/ayres-ingredientes-visuales-kongo-adultos-medianos-grandes-1080x1350.png
-```
+**Formato:** 1080×1350 · 4 placas
 
 ### Placa 1 — PORTADA (fondo claro)
 ```
+Imagen de producto:
+  social/2026/pruebas-productos-ayres/assets/cutouts-exactos/kongo-adultos-medianos-grandes.png
+
 Header: logo AYRES (assets/logo-light.svg) + pill "FICHA DE PRODUCTO"
 Eyebrow: KONGO · PERROS
 Título: KONGO ADULTOS MEDIANOS Y GRANDES ("MEDIANOS Y GRANDES" en verde)
@@ -52,7 +45,18 @@ Presentaciones: 1,5 kg / 3 kg / 8 kg / 15 kg / 21 kg
 Footer: @ayres.petsupply
 ```
 
-### Placa 2 — COMPOSICIÓN (fondo claro)
+### Placa 2 — INGREDPRODVISUAL (imagen existente, usar tal cual)
+```
+USAR DIRECTAMENTE ESTA IMAGEN COMO PLACA 2:
+  IngredProdVisual/Kongo/Perros/ayres-ingredientes-visuales-kongo-adultos-medianos-grandes-1080x1350.png
+
+Contiene: foto de ingredientes (carne vacuna, pollo, aceite), envase Kongo,
+primeros 3 ingredientes listados, métricas (22% proteína, 9% grasa, 4% fibra),
+presentaciones, y CTA "CONOCÉ LA FÓRMULA · ELEGÍ CON INFORMACIÓN".
+No hace falta modificarla — ya es una placa completa 1080×1350.
+```
+
+### Placa 3 — COMPOSICIÓN DECLARADA (fondo claro)
 ```
 Header: logo AYRES + pill "COMPOSICIÓN DECLARADA"
 Badge grande: 22% PROTEÍNA MÍN.
@@ -64,11 +68,12 @@ Primeros 3 ingredientes (numerados con círculos verdes):
   01 Harina de carne vacuna
   02 Harina de pollo
   03 Aceite de pollo
-Cutout del envase a la derecha, más chico.
+Cutout del envase a la derecha, más chico:
+  social/2026/pruebas-productos-ayres/assets/cutouts-exactos/kongo-adultos-medianos-grandes.png
 Footer: "Datos según declaración del fabricante."
 ```
 
-### Placa 3 — CTA (fondo oscuro)
+### Placa 4 — CTA (fondo oscuro)
 ```
 Logo AYRES dark (assets/logo-dark.svg). Pill "MAYORISTA CÓRDOBA"
 Título: PEDÍ LA LISTA DE PRECIOS POR WHATSAPP. ("WHATSAPP." en verde)
@@ -87,7 +92,7 @@ Línea masiva para perros adultos de razas medianas y grandes. Datos declarados:
 🥩 Primeros ingredientes: Harina de carne vacuna, harina de pollo, aceite de pollo
 📦 Presentaciones: 1,5 kg / 3 kg / 8 kg / 15 kg / 21 kg
 
-5 formatos disponibles — desde la bolsa chica hasta el saco de 21 kg para clientes con consumo alto. Deslizá para ver la composición completa 👉
+5 formatos disponibles — desde la bolsa chica hasta el saco de 21 kg para clientes con consumo alto. Deslizá para ver los ingredientes y la composición completa 👉
 
 ¿Tenés un petshop o veterinaria? 📩 Pedí la lista de precios por WhatsApp — link en bio.
 
@@ -98,56 +103,54 @@ Línea masiva para perros adultos de razas medianas y grandes. Datos declarados:
 
 ## CARRUSEL 2 — Comparativa: High-Pro vs Maintenance Criadores (jueves 29/10)
 
-**Formato:** 1080×1350 · 3 placas
-
-### Cutouts
-```
-social/2026/pruebas-productos-ayres/assets/cutouts-exactos/high-pro-criadores-perros-adultos.png
-social/2026/pruebas-productos-ayres/assets/cutouts-exactos/maintenance-criadores-adulto.png
-```
-
-### IngredProdVisual de referencia
-```
-IngredProdVisual/High-Pro-Criadores/Perros/ayres-ingredientes-visuales-high-pro-criadores-perros-adultos-1080x1350.png
-IngredProdVisual/Maintenance/Perros/ayres-ingredientes-visuales-maintenance-criadores-adulto-1080x1350.png
-```
+**Formato:** 1080×1350 · 4 placas
 
 ### Placa 1 — PORTADA (fondo claro)
 ```
-Header: logo AYRES (assets/logo-light.svg) + pill "COMPARATIVA · 3 PLACAS"
+Imágenes de producto:
+  social/2026/pruebas-productos-ayres/assets/cutouts-exactos/high-pro-criadores-perros-adultos.png
+  social/2026/pruebas-productos-ayres/assets/cutouts-exactos/maintenance-criadores-adulto.png
+
+Header: logo AYRES (assets/logo-light.svg) + pill "COMPARATIVA · 4 PLACAS"
 Eyebrow: LÍNEAS DE CRIADORES
 Título: HIGH-PRO VS MAINTENANCE: ¿CUÁL LE CONVIENE A TU CLIENTE? ("¿CUÁL LE CONVIENE" en verde)
 Subtítulo: Dos líneas pensadas para volumen. Comparamos datos declarados.
 2 cutouts lado a lado:
-  Izq: High-Pro Criadores (high-pro-criadores-perros-adultos.png)
-  Der: Maintenance Criadores (maintenance-criadores-adulto.png)
+  Izq: High-Pro Criadores
+  Der: Maintenance Criadores
 Footer: @ayres.petsupply
 ```
 
-### Placa 2 — TABLA COMPARATIVA (fondo claro)
+### Placa 2 — INGREDPRODVISUAL HIGH-PRO (imagen existente, usar tal cual)
 ```
-Header: logo AYRES + pill "DATOS DECLARADOS"
-Tabla con 2 columnas, borde superior verde:
+USAR DIRECTAMENTE ESTA IMAGEN COMO PLACA 2:
+  IngredProdVisual/High-Pro-Criadores/Perros/ayres-ingredientes-visuales-high-pro-criadores-perros-adultos-1080x1350.png
 
-                    HIGH-PRO         MAINTENANCE
-PROTEÍNA            24% mín. ★       21% mín.
-FIBRA               4% máx.          4% máx.
-1er INGREDIENTE     Harina de pollo  Harina de pollo
-2do INGREDIENTE     Harina de carne  Maíz
-3er INGREDIENTE     Arveja           Trigo
-PRESENTACIONES      3 kg / 17 kg     15 kg / 22 kg
-
-(★ = valor resaltado en verde, dato diferenciador)
-
-2 cutouts chicos debajo con etiqueta HIGH-PRO / MAINTENANCE.
-Footer: "Datos según declaración del fabricante."
+Contiene: foto de ingredientes (pollo, carne, arvejas), envase High-Pro Criadores,
+primeros 3 ingredientes, métricas (24% proteína, — grasa, 4% fibra),
+presentaciones 3 kg · 17 kg. Placa completa, no modificar.
 ```
 
-### Placa 3 — CTA (fondo oscuro)
+### Placa 3 — INGREDPRODVISUAL MAINTENANCE (imagen existente, usar tal cual)
 ```
+USAR DIRECTAMENTE ESTA IMAGEN COMO PLACA 3:
+  IngredProdVisual/Maintenance/Perros/ayres-ingredientes-visuales-maintenance-criadores-adulto-1080x1350.png
+
+Contiene: foto de ingredientes (carne vacuna, pollo, trigo), envase Maintenance,
+primeros 3 ingredientes, métricas (20% proteína, — grasa, — fibra),
+presentaciones 3 kg · 15 kg · 22 kg. Placa completa, no modificar.
+```
+
+### Placa 4 — CTA (fondo oscuro)
+```
+Imágenes de producto:
+  social/2026/pruebas-productos-ayres/assets/cutouts-exactos/high-pro-criadores-perros-adultos.png
+  social/2026/pruebas-productos-ayres/assets/cutouts-exactos/maintenance-criadores-adulto.png
+
 Logo AYRES dark (assets/logo-dark.svg). Pill "MAYORISTA CÓRDOBA"
 Título: DOS OPCIONES DE VOLUMEN PARA TU GÓNDOLA. ("TU GÓNDOLA." en verde)
 Subtítulo: High-Pro para margen, Maintenance para rotar. Las dos funcionan.
+2 cutouts chicos centrados.
 Caja CTA (borde verde): "Pedí precios de las dos líneas"
   "por WhatsApp — link en bio →"
 ```
@@ -159,11 +162,11 @@ Caja CTA (borde verde): "Pedí precios de las dos líneas"
 Dos líneas de volumen con perfiles distintos. Comparamos datos declarados:
 
 🔬 High-Pro: Proteína 24% · Primeros ingredientes: pollo, carne, arveja
-🔬 Maintenance: Proteína 21% · Primeros ingredientes: pollo, maíz, trigo
+🔬 Maintenance: Proteína 20% · Primeros ingredientes: carne vacuna, pollo, trigo
 
-📦 High-Pro viene en 3 kg y 17 kg. Maintenance en 15 kg y 22 kg.
+📦 High-Pro viene en 3 kg y 17 kg. Maintenance en 3 kg, 15 kg y 22 kg.
 
-Dos productos distintos para dos clientes distintos. Deslizá para ver la comparación completa 👉
+Deslizá para ver la ficha visual de ingredientes de cada uno 👉
 
 📩 Pedí precios de las dos líneas por WhatsApp — link en bio.
 
@@ -174,30 +177,33 @@ Dos productos distintos para dos clientes distintos. Deslizá para ver la compar
 
 ## CARRUSEL 3 — Ficha: Old Prince Eq. Urinario Gato (viernes 30/10)
 
-**Formato:** 1080×1350 · 3 placas
-
-### Cutout
-```
-social/2026/pruebas-productos-ayres/assets/cutouts-exactos/op-eq-urinario-gato.png
-```
-
-### IngredProdVisual de referencia
-```
-IngredProdVisual/Old-Prince/Gatos/ayres-ingredientes-visuales-op-eq-urinario-gato-1080x1350.png
-```
+**Formato:** 1080×1350 · 4 placas
 
 ### Placa 1 — PORTADA (fondo claro)
 ```
+Imagen de producto:
+  social/2026/pruebas-productos-ayres/assets/cutouts-exactos/op-eq-urinario-gato.png
+
 Header: logo AYRES (assets/logo-light.svg) + pill "FICHA DE PRODUCTO"
 Eyebrow: OLD PRINCE · GATOS
 Título: OLD PRINCE EQUILIBRIUM URINARIO ("URINARIO" en verde)
 Subtítulo: Línea especializada para gatos adultos con cuidado del tracto urinario.
-Cutout del envase Old Prince centrado, con drop-shadow.
+Cutout del envase centrado, con drop-shadow.
 Presentaciones: 3 kg / 7,5 kg
 Footer: @ayres.petsupply
 ```
 
-### Placa 2 — COMPOSICIÓN (fondo claro)
+### Placa 2 — INGREDPRODVISUAL (imagen existente, usar tal cual)
+```
+USAR DIRECTAMENTE ESTA IMAGEN COMO PLACA 2:
+  IngredProdVisual/Old-Prince/Gatos/ayres-ingredientes-visuales-op-eq-urinario-gato-1080x1350.png
+
+Contiene: foto de ingredientes (pollo, arroz, maíz), envase Old Prince Urinario,
+primeros 3 ingredientes, métricas (34% proteína, 13% grasa, 3% fibra),
+presentaciones 3 kg · 7,5 kg. Placa completa, no modificar.
+```
+
+### Placa 3 — COMPOSICIÓN DECLARADA (fondo claro)
 ```
 Header: logo AYRES + pill "COMPOSICIÓN DECLARADA"
 Badge grande: 34% PROTEÍNA MÍN.
@@ -209,11 +215,12 @@ Primeros 3 ingredientes (círculos verdes):
   01 Harina de pollo
   02 Arroz
   03 Gluten de maíz
-Cutout del envase a la derecha, más chico.
+Cutout del envase a la derecha:
+  social/2026/pruebas-productos-ayres/assets/cutouts-exactos/op-eq-urinario-gato.png
 Footer: "Datos según declaración del fabricante."
 ```
 
-### Placa 3 — CTA (fondo oscuro)
+### Placa 4 — CTA (fondo oscuro)
 ```
 Logo AYRES dark (assets/logo-dark.svg). Pill "MAYORISTA CÓRDOBA"
 Título: PEDÍ LA LISTA DE PRECIOS POR WHATSAPP. ("WHATSAPP." en verde)
@@ -233,7 +240,7 @@ Línea especializada de Old Prince para gatos con cuidado del tracto urinario:
 🥩 Primeros ingredientes: Harina de pollo, arroz, gluten de maíz
 📦 Presentaciones: 3 kg / 7,5 kg
 
-Complementa la oferta de gatos especializados junto a Fawna Urinario. Deslizá para ver la composición completa 👉
+Complementa la oferta de gatos especializados junto a Fawna Urinario. Deslizá para ver los ingredientes y la composición completa 👉
 
 📩 Pedí la lista de precios por WhatsApp — link en bio.
 
@@ -246,14 +253,7 @@ Complementa la oferta de gatos especializados junto a Fawna Urinario. Deslizá p
 
 **Formato:** 1080×1920 · 5 escenas
 
-### Cutouts
-```
-social/2026/pruebas-productos-ayres/assets/cutouts-exactos/kongo-adultos-medianos-grandes.png
-social/2026/pruebas-productos-ayres/assets/cutouts-exactos/voraz-perros-adultos-pollo-arroz.png
-social/2026/pruebas-productos-ayres/assets/cutouts-exactos/fawna-adulto-pequeno.png
-```
-
-### IngredProdVisual de referencia
+### IngredProdVisual de referencia visual (usar en escenas 2, 3 y 4 como fondo o inset)
 ```
 IngredProdVisual/Kongo/Perros/ayres-ingredientes-visuales-kongo-adultos-medianos-grandes-1080x1350.png
 IngredProdVisual/Voraz/Perros/ayres-ingredientes-visuales-voraz-perros-adultos-pollo-arroz-1080x1350.png
@@ -264,9 +264,9 @@ IngredProdVisual/Fawna/Perros/ayres-ingredientes-visuales-fawna-adulto-pequeno-1
 ```
 Imágenes:
   - assets/logo-light.svg
-  - cutout kongo-adultos-medianos-grandes.png (izq)
-  - cutout voraz-perros-adultos-pollo-arroz.png (centro)
-  - cutout fawna-adulto-pequeno.png (der)
+  - social/2026/pruebas-productos-ayres/assets/cutouts-exactos/kongo-adultos-medianos-grandes.png (izq)
+  - social/2026/pruebas-productos-ayres/assets/cutouts-exactos/voraz-perros-adultos-pollo-arroz.png (centro)
+  - social/2026/pruebas-productos-ayres/assets/cutouts-exactos/fawna-adulto-pequeno.png (der)
 
 3 envases sin badges, con leve rotación.
 Pill: "AYRES MAYORISTA"
@@ -281,36 +281,46 @@ Footer: @ayres.petsupply | AYRESPETSUPPLY.COM
 ```
 Imágenes:
   - assets/logo-light.svg
-  - cutout kongo-adultos-medianos-grandes.png (grande, derecha)
+  - social/2026/pruebas-productos-ayres/assets/cutouts-exactos/kongo-adultos-medianos-grandes.png (grande, derecha)
+  - INSET inferior izquierdo (recorte de la foto de ingredientes de):
+    IngredProdVisual/Kongo/Perros/ayres-ingredientes-visuales-kongo-adultos-medianos-grandes-1080x1350.png
 
 Eyebrow: KONGO · MASIVO
 Título: VOLUMEN Y ROTACIÓN. ("ROTACIÓN." en verde)
 Subtítulo: Proteína 22%, grasa 9%. Hasta 21 kg.
 Stat grande izquierda: 22% PROTEÍNA MÍN.
+Debajo del stat, miniatura recortada del IngredProdVisual mostrando la zona
+de la foto de ingredientes (carne, pollo, aceite) como referencia visual.
 ```
 
 ### Escena 3 — VORAZ INTERMEDIO (fondo claro, layout focus)
 ```
 Imágenes:
   - assets/logo-light.svg
-  - cutout voraz-perros-adultos-pollo-arroz.png (grande, derecha)
+  - social/2026/pruebas-productos-ayres/assets/cutouts-exactos/voraz-perros-adultos-pollo-arroz.png (grande, derecha)
+  - INSET de la foto de ingredientes de:
+    IngredProdVisual/Voraz/Perros/ayres-ingredientes-visuales-voraz-perros-adultos-pollo-arroz-1080x1350.png
 
 Eyebrow: VORAZ · INTERMEDIO
 Título: EL QUE MÁS ROTA EN LA GÓNDOLA. ("LA GÓNDOLA." en verde)
 Subtítulo: Proteína 18%, pollo y arroz. Precio accesible.
 Stat grande izquierda: 18% PROTEÍNA MÍN.
+Miniatura recortada del IngredProdVisual (pollo, carne, arroz).
 ```
 
 ### Escena 4 — FAWNA ESPECIALIZADO (fondo claro, layout focus)
 ```
 Imágenes:
   - assets/logo-light.svg
-  - cutout fawna-adulto-pequeno.png (grande, derecha)
+  - social/2026/pruebas-productos-ayres/assets/cutouts-exactos/fawna-adulto-pequeno.png (grande, derecha)
+  - INSET de la foto de ingredientes de:
+    IngredProdVisual/Fawna/Perros/ayres-ingredientes-visuales-fawna-adulto-pequeno-1080x1350.png
 
 Eyebrow: FAWNA · ESPECIALIZADO
 Título: MARGEN Y DIFERENCIACIÓN. ("DIFERENCIACIÓN." en verde)
 Subtítulo: Proteína 33%, salmón como primer ingrediente.
 Stat grande izquierda: 33% PROTEÍNA MÍN.
+Miniatura recortada del IngredProdVisual (salmón, pollo, arroz integral).
 ```
 
 ### Escena 5 — CTA (fondo oscuro)
@@ -350,24 +360,12 @@ Con estas tres marcas cubrís todo el rango de la góndola de perros adultos.
 
 **Formato:** 1080×1920 · 3 stories
 
-### Cutouts
-```
-social/2026/pruebas-productos-ayres/assets/cutouts-exactos/high-pro-criadores-perros-adultos.png
-social/2026/pruebas-productos-ayres/assets/cutouts-exactos/maintenance-criadores-adulto.png
-```
-
-### IngredProdVisual
-```
-IngredProdVisual/High-Pro-Criadores/Perros/ayres-ingredientes-visuales-high-pro-criadores-perros-adultos-1080x1350.png
-IngredProdVisual/Maintenance/Perros/ayres-ingredientes-visuales-maintenance-criadores-adulto-1080x1350.png
-```
-
 ### Story 1 — TABLA COMPARATIVA (fondo claro)
 ```
 Imágenes:
   - assets/logo-light.svg
-  - cutout high-pro-criadores-perros-adultos.png
-  - cutout maintenance-criadores-adulto.png
+  - social/2026/pruebas-productos-ayres/assets/cutouts-exactos/high-pro-criadores-perros-adultos.png
+  - social/2026/pruebas-productos-ayres/assets/cutouts-exactos/maintenance-criadores-adulto.png
 
 Header: logo AYRES + pill "LÍNEAS DE CRIADORES"
 Eyebrow: COMPOSICIÓN COMPARADA
@@ -377,12 +375,12 @@ Línea verde decorativa.
 Tabla 2 columnas, borde superior verde:
 
                     HIGH-PRO         MAINTENANCE
-PROTEÍNA            24% mín. ★       21% mín.
-FIBRA               4% máx.          4% máx.
-1er INGREDIENTE     Harina de pollo  Harina de pollo
-2do INGREDIENTE     Harina de carne  Maíz
+PROTEÍNA            24% mín. ★       20% mín.
+FIBRA               4% máx.          — máx.
+1er INGREDIENTE     Harina de pollo  Harina de carne vacuna
+2do INGREDIENTE     Harina de carne  Harina de pollo
 3er INGREDIENTE     Arveja           Trigo
-PRESENTACIONES      3 / 17 kg        15 / 22 kg
+PRESENTACIONES      3 / 17 kg        3 / 15 / 22 kg
 
 (★ = verde para valor más alto)
 
@@ -390,27 +388,23 @@ Debajo: 2 cutouts con etiqueta HIGH-PRO / MAINTENANCE
 Footer: @ayres.petsupply | "Datos según declaración del fabricante."
 ```
 
-### Story 2 — INGREDIENTES (fondo oscuro)
+### Story 2 — INGREDPRODVISUAL LADO A LADO (fondo oscuro)
 ```
-Imágenes:
+Imágenes (las dos IngredProdVisual como insets visibles):
   - assets/logo-dark.svg
-  - cutout high-pro-criadores-perros-adultos.png
-  - cutout maintenance-criadores-adulto.png
+  - IngredProdVisual/High-Pro-Criadores/Perros/ayres-ingredientes-visuales-high-pro-criadores-perros-adultos-1080x1350.png
+  - IngredProdVisual/Maintenance/Perros/ayres-ingredientes-visuales-maintenance-criadores-adulto-1080x1350.png
 
 Header: logo AYRES dark + pill "LÍNEAS DE CRIADORES"
-Eyebrow: PRIMEROS INGREDIENTES
+Eyebrow: INGREDIENTES EN DETALLE
 Título: MISMA CATEGORÍA, DISTINTA FÓRMULA. ("DISTINTA FÓRMULA." en verde)
 Línea verde decorativa.
-Subtítulo: Las dos arrancan con pollo, pero el segundo y tercer ingrediente cambian.
+Subtítulo: Las dos arrancan con proteína animal, pero el segundo y tercer ingrediente cambian.
 
-2 columnas (fondo semitransparente, borde superior verde):
+Las 2 imágenes IngredProdVisual reducidas al 45% lado a lado, centradas,
+mostrando las fichas completas de cada producto con sus fotos de ingredientes.
+Cada una con un borde sutil y sombra.
 
-HIGH-PRO:                    MAINTENANCE:
-01 Harina de pollo           01 Harina de pollo
-02 Harina de carne           02 Maíz
-03 Arveja                    03 Trigo
-
-Debajo: 2 cutouts.
 Footer: @ayres.petsupply | "Datos según declaración del fabricante."
 ```
 
@@ -418,8 +412,8 @@ Footer: @ayres.petsupply | "Datos según declaración del fabricante."
 ```
 Imágenes:
   - assets/logo-dark.svg
-  - cutout high-pro-criadores-perros-adultos.png
-  - cutout maintenance-criadores-adulto.png
+  - social/2026/pruebas-productos-ayres/assets/cutouts-exactos/high-pro-criadores-perros-adultos.png
+  - social/2026/pruebas-productos-ayres/assets/cutouts-exactos/maintenance-criadores-adulto.png
 
 Header: logo AYRES dark + pill "AYRES MAYORISTA"
 Eyebrow: MAYORISTA CÓRDOBA
@@ -435,7 +429,9 @@ Footer: @ayres.petsupply
 
 ---
 
-## STORIES INGREDIENTES DIARIAS (subir 1 por día desde IngredProdVisual)
+## STORIES INGREDIENTES DIARIAS (subir 1 por día, imágenes directas de IngredProdVisual)
+
+Cada imagen es una placa completa 1080×1350 lista para subir como story. No requiere stickers ni caption.
 
 ```
 Mar 27/10: IngredProdVisual/Maintenance/Gatos/ayres-ingredientes-visuales-maintenance-criadores-gatos-adultos-1080x1350.png
@@ -445,8 +441,6 @@ Vie 30/10: IngredProdVisual/Old-Prince/Gatos/ayres-ingredientes-visuales-op-eq-u
 Sáb 31/10: IngredProdVisual/Voraz/Perros/ayres-ingredientes-visuales-voraz-perros-adultos-pollo-arroz-1080x1350.png
 Dom 01/11: IngredProdVisual/Kongo/Perros/ayres-ingredientes-visuales-kongo-cachorros-todas-razas-1080x1350.png
 ```
-
-Subir directamente como story. No requieren stickers ni caption (la imagen ya tiene toda la info).
 
 ---
 
@@ -465,4 +459,9 @@ Safe zone stories: 210px arriba, 180px abajo
 Textura grain: puntos sutiles de ruido visual
 Glow: círculo radial verde en esquina superior derecha
 Productos: cutouts PNG fondo transparente, con drop-shadow
+
+Las imágenes de IngredProdVisual son placas completas de 1080×1350 con foto
+de ingredientes reales, envase del producto, primeros 3 ingredientes listados,
+métricas nutricionales y presentaciones. Usar tal cual como placas de carrusel
+o reducidas como insets en stories/reels.
 ```
